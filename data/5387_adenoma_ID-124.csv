@@ -1,0 +1,3056 @@
+x,y,Celltype,Celltype_asNumeric
+3539.0,39669.0,T Helper Cell,8
+3538.0,39695.0,T Helper Cell,8
+4065.0,39802.0,T Helper Cell,8
+3847.0,39825.0,T Helper Cell,8
+4033.0,39832.0,T Helper Cell,8
+3578.0,39915.0,T Helper Cell,8
+3679.0,39998.0,T Helper Cell,8
+3600.0,40049.0,T Helper Cell,8
+3584.0,40160.0,T Helper Cell,8
+3581.0,40175.0,T Helper Cell,8
+3866.0,40204.0,T Helper Cell,8
+4222.0,39561.0,T Helper Cell,8
+4406.0,39639.0,T Helper Cell,8
+4176.0,39857.0,T Helper Cell,8
+4451.0,39936.0,T Helper Cell,8
+4345.0,40054.0,T Helper Cell,8
+4323.0,40053.0,T Helper Cell,8
+4182.0,40182.0,T Helper Cell,8
+4167.0,40194.0,T Helper Cell,8
+4078.0,40475.0,T Helper Cell,8
+3731.0,40485.0,T Helper Cell,8
+4075.0,40500.0,T Helper Cell,8
+4094.0,39517.0,T Helper Cell,8
+3795.0,39544.0,T Helper Cell,8
+4112.0,39557.0,T Helper Cell,8
+4132.0,39555.0,T Helper Cell,8
+3520.0,39561.0,T Helper Cell,8
+3533.0,39563.0,T Helper Cell,8
+4112.0,39567.0,T Helper Cell,8
+4159.0,39575.0,T Helper Cell,8
+4142.0,39577.0,T Helper Cell,8
+4136.0,39581.0,T Helper Cell,8
+4153.0,39606.0,T Helper Cell,8
+4121.0,39609.0,T Helper Cell,8
+4132.0,39617.0,T Helper Cell,8
+4114.0,39655.0,T Helper Cell,8
+3813.0,39707.0,T Helper Cell,8
+4100.0,39711.0,T Helper Cell,8
+3794.0,39739.0,T Helper Cell,8
+4074.0,39743.0,T Helper Cell,8
+3802.0,39754.0,T Helper Cell,8
+3507.0,39759.0,T Helper Cell,8
+3787.0,39767.0,T Helper Cell,8
+3523.0,39771.0,T Helper Cell,8
+3789.0,39776.0,T Helper Cell,8
+3521.0,39782.0,T Helper Cell,8
+3584.0,39778.0,T Helper Cell,8
+3571.0,39782.0,T Helper Cell,8
+3759.0,39786.0,T Helper Cell,8
+4054.0,39788.0,T Helper Cell,8
+3812.0,39792.0,T Helper Cell,8
+3586.0,39800.0,T Helper Cell,8
+3806.0,39810.0,T Helper Cell,8
+3511.0,39806.0,T Helper Cell,8
+3800.0,39820.0,T Helper Cell,8
+3561.0,39821.0,T Helper Cell,8
+3580.0,39822.0,T Helper Cell,8
+3595.0,39831.0,T Helper Cell,8
+3631.0,39835.0,T Helper Cell,8
+3641.0,39845.0,T Helper Cell,8
+3572.0,39867.0,T Helper Cell,8
+3610.0,39867.0,T Helper Cell,8
+3584.0,39869.0,T Helper Cell,8
+3562.0,39879.0,T Helper Cell,8
+3648.0,39887.0,T Helper Cell,8
+3593.0,39892.0,T Helper Cell,8
+3809.0,39896.0,T Helper Cell,8
+4061.0,39904.0,T Helper Cell,8
+4041.0,39905.0,T Helper Cell,8
+3664.0,39914.0,T Helper Cell,8
+3814.0,39950.0,T Helper Cell,8
+3657.0,39949.0,T Helper Cell,8
+4051.0,39950.0,T Helper Cell,8
+4058.0,39952.0,T Helper Cell,8
+3799.0,39959.0,T Helper Cell,8
+3812.0,39961.0,T Helper Cell,8
+4053.0,39969.0,T Helper Cell,8
+3793.0,40002.0,T Helper Cell,8
+3820.0,40030.0,T Helper Cell,8
+3807.0,40048.0,T Helper Cell,8
+3820.0,40055.0,T Helper Cell,8
+3835.0,40058.0,T Helper Cell,8
+3831.0,40075.0,T Helper Cell,8
+3852.0,40108.0,T Helper Cell,8
+3931.0,40116.0,T Helper Cell,8
+3909.0,40120.0,T Helper Cell,8
+3937.0,40131.0,T Helper Cell,8
+3909.0,40148.0,T Helper Cell,8
+3908.0,40160.0,T Helper Cell,8
+3896.0,40171.0,T Helper Cell,8
+3911.0,40174.0,T Helper Cell,8
+3570.0,40179.0,T Helper Cell,8
+3899.0,40188.0,T Helper Cell,8
+3884.0,40192.0,T Helper Cell,8
+4149.0,40195.0,T Helper Cell,8
+4117.0,40196.0,T Helper Cell,8
+4136.0,40208.0,T Helper Cell,8
+4133.0,40212.0,T Helper Cell,8
+3875.0,40224.0,T Helper Cell,8
+3882.0,40250.0,T Helper Cell,8
+4083.0,40256.0,T Helper Cell,8
+4175.0,39596.0,T Helper Cell,8
+4240.0,39628.0,T Helper Cell,8
+4456.0,39744.0,T Helper Cell,8
+4453.0,39763.0,T Helper Cell,8
+4500.0,39778.0,T Helper Cell,8
+4486.0,39787.0,T Helper Cell,8
+4490.0,39810.0,T Helper Cell,8
+4473.0,39823.0,T Helper Cell,8
+4492.0,39832.0,T Helper Cell,8
+4498.0,39845.0,T Helper Cell,8
+4265.0,39852.0,T Helper Cell,8
+4498.0,39859.0,T Helper Cell,8
+4493.0,39867.0,T Helper Cell,8
+4278.0,39862.0,T Helper Cell,8
+4481.0,39871.0,T Helper Cell,8
+4300.0,39904.0,T Helper Cell,8
+4498.0,39919.0,T Helper Cell,8
+4485.0,39925.0,T Helper Cell,8
+4499.0,39936.0,T Helper Cell,8
+4488.0,39957.0,T Helper Cell,8
+4470.0,39957.0,T Helper Cell,8
+4491.0,39968.0,T Helper Cell,8
+4468.0,39986.0,T Helper Cell,8
+4270.0,40058.0,T Helper Cell,8
+4488.0,40105.0,T Helper Cell,8
+4224.0,40130.0,T Helper Cell,8
+4192.0,40167.0,T Helper Cell,8
+4402.0,40215.0,T Helper Cell,8
+4049.0,40272.0,T Helper Cell,8
+3557.0,40274.0,T Helper Cell,8
+3885.0,40283.0,T Helper Cell,8
+3898.0,40286.0,T Helper Cell,8
+3804.0,40287.0,T Helper Cell,8
+3715.0,40301.0,T Helper Cell,8
+3897.0,40306.0,T Helper Cell,8
+4001.0,40305.0,T Helper Cell,8
+3980.0,40307.0,T Helper Cell,8
+3516.0,40319.0,T Helper Cell,8
+3840.0,40321.0,T Helper Cell,8
+3888.0,40320.0,T Helper Cell,8
+3868.0,40318.0,T Helper Cell,8
+3530.0,40321.0,T Helper Cell,8
+4004.0,40325.0,T Helper Cell,8
+3902.0,40325.0,T Helper Cell,8
+3922.0,40324.0,T Helper Cell,8
+3943.0,40328.0,T Helper Cell,8
+3846.0,40329.0,T Helper Cell,8
+3966.0,40331.0,T Helper Cell,8
+3864.0,40332.0,T Helper Cell,8
+3889.0,40335.0,T Helper Cell,8
+3985.0,40332.0,T Helper Cell,8
+3999.0,40336.0,T Helper Cell,8
+3830.0,40343.0,T Helper Cell,8
+4015.0,40344.0,T Helper Cell,8
+3901.0,40344.0,T Helper Cell,8
+3979.0,40349.0,T Helper Cell,8
+3551.0,40346.0,T Helper Cell,8
+3850.0,40348.0,T Helper Cell,8
+3881.0,40352.0,T Helper Cell,8
+3965.0,40353.0,T Helper Cell,8
+3985.0,40354.0,T Helper Cell,8
+4008.0,40356.0,T Helper Cell,8
+4021.0,40358.0,T Helper Cell,8
+3983.0,40368.0,T Helper Cell,8
+3887.0,40366.0,T Helper Cell,8
+3516.0,40376.0,T Helper Cell,8
+3966.0,40383.0,T Helper Cell,8
+3907.0,40386.0,T Helper Cell,8
+3910.0,40400.0,T Helper Cell,8
+3968.0,40402.0,T Helper Cell,8
+3866.0,40408.0,T Helper Cell,8
+3952.0,40409.0,T Helper Cell,8
+4154.0,40410.0,T Helper Cell,8
+3964.0,40416.0,T Helper Cell,8
+4095.0,40411.0,T Helper Cell,8
+3901.0,40420.0,T Helper Cell,8
+4149.0,40425.0,T Helper Cell,8
+3871.0,40425.0,T Helper Cell,8
+3853.0,40423.0,T Helper Cell,8
+3918.0,40428.0,T Helper Cell,8
+4131.0,40431.0,T Helper Cell,8
+4059.0,40441.0,T Helper Cell,8
+4137.0,40451.0,T Helper Cell,8
+4128.0,40451.0,T Helper Cell,8
+3872.0,40456.0,T Helper Cell,8
+4130.0,40468.0,T Helper Cell,8
+3911.0,40464.0,T Helper Cell,8
+3834.0,40478.0,T Helper Cell,8
+3855.0,40478.0,T Helper Cell,8
+3882.0,40486.0,T Helper Cell,8
+3852.0,40489.0,T Helper Cell,8
+3895.0,40495.0,T Helper Cell,8
+3811.0,40500.0,T Helper Cell,8
+4170.0,40402.0,T Helper Cell,8
+4240.0,40416.0,T Helper Cell,8
+4247.0,40427.0,T Helper Cell,8
+4466.0,40429.0,T Helper Cell,8
+4226.0,40434.0,T Helper Cell,8
+4159.0,40438.0,T Helper Cell,8
+4254.0,40448.0,T Helper Cell,8
+4238.0,40451.0,T Helper Cell,8
+4212.0,40455.0,T Helper Cell,8
+4249.0,40463.0,T Helper Cell,8
+4276.0,40466.0,T Helper Cell,8
+4294.0,40462.0,T Helper Cell,8
+4235.0,40468.0,T Helper Cell,8
+4208.0,40476.0,T Helper Cell,8
+4441.0,40473.0,T Helper Cell,8
+4281.0,40480.0,T Helper Cell,8
+4250.0,40482.0,T Helper Cell,8
+4288.0,40487.0,T Helper Cell,8
+4234.0,40488.0,T Helper Cell,8
+4245.0,40492.0,T Helper Cell,8
+4165.0,40492.0,T Helper Cell,8
+4387.0,40495.0,T Helper Cell,8
+3504.0,40278.0,Treg Cell,9
+4104.0,39503.0,Treg Cell,9
+3791.0,39507.0,Treg Cell,9
+4098.0,39549.0,Treg Cell,9
+4121.0,39585.0,Treg Cell,9
+4120.0,39595.0,Treg Cell,9
+4148.0,39593.0,Treg Cell,9
+3505.0,39778.0,Treg Cell,9
+3624.0,39906.0,Treg Cell,9
+3802.0,39934.0,Treg Cell,9
+3813.0,39979.0,Treg Cell,9
+3576.0,40136.0,Treg Cell,9
+4163.0,39545.0,Treg Cell,9
+4472.0,39807.0,Treg Cell,9
+4464.0,39937.0,Treg Cell,9
+4482.0,39941.0,Treg Cell,9
+4446.0,39978.0,Treg Cell,9
+3822.0,40260.0,Treg Cell,9
+4103.0,40436.0,Treg Cell,9
+4141.0,40458.0,Treg Cell,9
+4186.0,40390.0,Treg Cell,9
+4159.0,40456.0,Treg Cell,9
+4228.0,40458.0,Treg Cell,9
+4056.0,39531.0,Cytotoxic T Cell,1
+4045.0,39547.0,Cytotoxic T Cell,1
+4060.0,39552.0,Cytotoxic T Cell,1
+3586.0,39571.0,Cytotoxic T Cell,1
+3561.0,39577.0,Cytotoxic T Cell,1
+3577.0,39586.0,Cytotoxic T Cell,1
+3784.0,39649.0,Cytotoxic T Cell,1
+4074.0,39655.0,Cytotoxic T Cell,1
+4098.0,39659.0,Cytotoxic T Cell,1
+3763.0,39664.0,Cytotoxic T Cell,1
+3791.0,39662.0,Cytotoxic T Cell,1
+4090.0,39670.0,Cytotoxic T Cell,1
+4026.0,39805.0,Cytotoxic T Cell,1
+4024.0,39807.0,Cytotoxic T Cell,1
+4020.0,39819.0,Cytotoxic T Cell,1
+3503.0,39882.0,Cytotoxic T Cell,1
+3850.0,39917.0,Cytotoxic T Cell,1
+3841.0,39919.0,Cytotoxic T Cell,1
+3847.0,39934.0,Cytotoxic T Cell,1
+4111.0,39955.0,Cytotoxic T Cell,1
+4008.0,39961.0,Cytotoxic T Cell,1
+3679.0,39998.0,Cytotoxic T Cell,1
+3914.0,40079.0,Cytotoxic T Cell,1
+3924.0,40076.0,Cytotoxic T Cell,1
+3937.0,40149.0,Cytotoxic T Cell,1
+3931.0,40164.0,Cytotoxic T Cell,1
+3923.0,40175.0,Cytotoxic T Cell,1
+4056.0,40232.0,Cytotoxic T Cell,1
+3823.0,40246.0,Cytotoxic T Cell,1
+4289.0,39664.0,Cytotoxic T Cell,1
+4304.0,39667.0,Cytotoxic T Cell,1
+4493.0,39667.0,Cytotoxic T Cell,1
+4288.0,39676.0,Cytotoxic T Cell,1
+4434.0,39926.0,Cytotoxic T Cell,1
+4451.0,39936.0,Cytotoxic T Cell,1
+3584.0,40293.0,Cytotoxic T Cell,1
+3597.0,40288.0,Cytotoxic T Cell,1
+3600.0,40304.0,Cytotoxic T Cell,1
+4104.0,40370.0,Cytotoxic T Cell,1
+4128.0,40380.0,Cytotoxic T Cell,1
+4106.0,40378.0,Cytotoxic T Cell,1
+3522.0,40415.0,Cytotoxic T Cell,1
+3540.0,40421.0,Cytotoxic T Cell,1
+3514.0,40424.0,Cytotoxic T Cell,1
+3522.0,40425.0,Cytotoxic T Cell,1
+3530.0,40430.0,Cytotoxic T Cell,1
+3548.0,40437.0,Cytotoxic T Cell,1
+3816.0,40463.0,Cytotoxic T Cell,1
+3562.0,40467.0,Cytotoxic T Cell,1
+3566.0,40468.0,Cytotoxic T Cell,1
+4078.0,40475.0,Cytotoxic T Cell,1
+3807.0,40476.0,Cytotoxic T Cell,1
+3731.0,40485.0,Cytotoxic T Cell,1
+4246.0,40318.0,Cytotoxic T Cell,1
+4490.0,40327.0,Cytotoxic T Cell,1
+4247.0,40329.0,Cytotoxic T Cell,1
+4199.0,40364.0,Cytotoxic T Cell,1
+4384.0,40450.0,Cytotoxic T Cell,1
+4366.0,40460.0,Cytotoxic T Cell,1
+4144.0,39511.0,Cytotoxic T Cell,1
+4123.0,39512.0,Cytotoxic T Cell,1
+3818.0,39534.0,Cytotoxic T Cell,1
+4118.0,39548.0,Cytotoxic T Cell,1
+4112.0,39557.0,Cytotoxic T Cell,1
+3520.0,39561.0,Cytotoxic T Cell,1
+3533.0,39563.0,Cytotoxic T Cell,1
+4112.0,39567.0,Cytotoxic T Cell,1
+4159.0,39575.0,Cytotoxic T Cell,1
+4142.0,39577.0,Cytotoxic T Cell,1
+4121.0,39585.0,Cytotoxic T Cell,1
+4103.0,39585.0,Cytotoxic T Cell,1
+4148.0,39593.0,Cytotoxic T Cell,1
+4132.0,39617.0,Cytotoxic T Cell,1
+4126.0,39626.0,Cytotoxic T Cell,1
+4126.0,39641.0,Cytotoxic T Cell,1
+4127.0,39652.0,Cytotoxic T Cell,1
+4107.0,39676.0,Cytotoxic T Cell,1
+3514.0,39717.0,Cytotoxic T Cell,1
+3523.0,39726.0,Cytotoxic T Cell,1
+3787.0,39767.0,Cytotoxic T Cell,1
+3650.0,39800.0,Cytotoxic T Cell,1
+3614.0,39805.0,Cytotoxic T Cell,1
+3632.0,39815.0,Cytotoxic T Cell,1
+3561.0,39821.0,Cytotoxic T Cell,1
+3610.0,39867.0,Cytotoxic T Cell,1
+3634.0,39883.0,Cytotoxic T Cell,1
+3624.0,39906.0,Cytotoxic T Cell,1
+4041.0,39905.0,Cytotoxic T Cell,1
+3657.0,39949.0,Cytotoxic T Cell,1
+4053.0,39969.0,Cytotoxic T Cell,1
+4036.0,39970.0,Cytotoxic T Cell,1
+3805.0,39996.0,Cytotoxic T Cell,1
+3822.0,39996.0,Cytotoxic T Cell,1
+3801.0,40026.0,Cytotoxic T Cell,1
+3807.0,40048.0,Cytotoxic T Cell,1
+3802.0,40058.0,Cytotoxic T Cell,1
+3908.0,40093.0,Cytotoxic T Cell,1
+3573.0,40121.0,Cytotoxic T Cell,1
+3931.0,40116.0,Cytotoxic T Cell,1
+3937.0,40131.0,Cytotoxic T Cell,1
+3909.0,40148.0,Cytotoxic T Cell,1
+3908.0,40160.0,Cytotoxic T Cell,1
+3911.0,40174.0,Cytotoxic T Cell,1
+3553.0,40212.0,Cytotoxic T Cell,1
+4120.0,40222.0,Cytotoxic T Cell,1
+4070.0,40249.0,Cytotoxic T Cell,1
+3882.0,40250.0,Cytotoxic T Cell,1
+4083.0,40256.0,Cytotoxic T Cell,1
+4163.0,39545.0,Cytotoxic T Cell,1
+4179.0,39542.0,Cytotoxic T Cell,1
+4161.0,39592.0,Cytotoxic T Cell,1
+4247.0,39673.0,Cytotoxic T Cell,1
+4486.0,39787.0,Cytotoxic T Cell,1
+4490.0,39810.0,Cytotoxic T Cell,1
+4473.0,39823.0,Cytotoxic T Cell,1
+4278.0,39862.0,Cytotoxic T Cell,1
+4300.0,39904.0,Cytotoxic T Cell,1
+4498.0,39919.0,Cytotoxic T Cell,1
+4485.0,39925.0,Cytotoxic T Cell,1
+4464.0,39937.0,Cytotoxic T Cell,1
+4482.0,39941.0,Cytotoxic T Cell,1
+4452.0,39957.0,Cytotoxic T Cell,1
+4470.0,39957.0,Cytotoxic T Cell,1
+4440.0,39964.0,Cytotoxic T Cell,1
+4500.0,40030.0,Cytotoxic T Cell,1
+4484.0,40036.0,Cytotoxic T Cell,1
+4257.0,40095.0,Cytotoxic T Cell,1
+4243.0,40112.0,Cytotoxic T Cell,1
+4236.0,40122.0,Cytotoxic T Cell,1
+4224.0,40130.0,Cytotoxic T Cell,1
+4203.0,40136.0,Cytotoxic T Cell,1
+4200.0,40144.0,Cytotoxic T Cell,1
+4192.0,40167.0,Cytotoxic T Cell,1
+4052.0,40260.0,Cytotoxic T Cell,1
+3847.0,40265.0,Cytotoxic T Cell,1
+3880.0,40269.0,Cytotoxic T Cell,1
+4072.0,40267.0,Cytotoxic T Cell,1
+3863.0,40267.0,Cytotoxic T Cell,1
+4049.0,40272.0,Cytotoxic T Cell,1
+3843.0,40274.0,Cytotoxic T Cell,1
+3885.0,40283.0,Cytotoxic T Cell,1
+3845.0,40287.0,Cytotoxic T Cell,1
+4077.0,40287.0,Cytotoxic T Cell,1
+3897.0,40306.0,Cytotoxic T Cell,1
+3516.0,40319.0,Cytotoxic T Cell,1
+3530.0,40321.0,Cytotoxic T Cell,1
+3544.0,40323.0,Cytotoxic T Cell,1
+3902.0,40325.0,Cytotoxic T Cell,1
+3512.0,40331.0,Cytotoxic T Cell,1
+3536.0,40338.0,Cytotoxic T Cell,1
+4022.0,40336.0,Cytotoxic T Cell,1
+3518.0,40343.0,Cytotoxic T Cell,1
+3979.0,40349.0,Cytotoxic T Cell,1
+3551.0,40346.0,Cytotoxic T Cell,1
+4055.0,40352.0,Cytotoxic T Cell,1
+4035.0,40348.0,Cytotoxic T Cell,1
+3532.0,40354.0,Cytotoxic T Cell,1
+3965.0,40353.0,Cytotoxic T Cell,1
+3985.0,40354.0,Cytotoxic T Cell,1
+4021.0,40358.0,Cytotoxic T Cell,1
+4014.0,40378.0,Cytotoxic T Cell,1
+3966.0,40383.0,Cytotoxic T Cell,1
+3873.0,40396.0,Cytotoxic T Cell,1
+3899.0,40399.0,Cytotoxic T Cell,1
+3884.0,40409.0,Cytotoxic T Cell,1
+3901.0,40420.0,Cytotoxic T Cell,1
+3918.0,40428.0,Cytotoxic T Cell,1
+4059.0,40441.0,Cytotoxic T Cell,1
+4141.0,40458.0,Cytotoxic T Cell,1
+3834.0,40478.0,Cytotoxic T Cell,1
+3855.0,40478.0,Cytotoxic T Cell,1
+3767.0,40483.0,Cytotoxic T Cell,1
+3852.0,40489.0,Cytotoxic T Cell,1
+3824.0,40489.0,Cytotoxic T Cell,1
+3602.0,40493.0,Cytotoxic T Cell,1
+3811.0,40500.0,Cytotoxic T Cell,1
+4199.0,40380.0,Cytotoxic T Cell,1
+4159.0,40456.0,Cytotoxic T Cell,1
+4235.0,40468.0,Cytotoxic T Cell,1
+4208.0,40476.0,Cytotoxic T Cell,1
+4407.0,40484.0,Cytotoxic T Cell,1
+4404.0,40499.0,Cytotoxic T Cell,1
+3658.0,39504.0,Macrophage,4
+3634.0,39516.0,Macrophage,4
+3713.0,39527.0,Macrophage,4
+3729.0,39526.0,Macrophage,4
+3582.0,39528.0,Macrophage,4
+4056.0,39531.0,Macrophage,4
+3636.0,39535.0,Macrophage,4
+4079.0,39540.0,Macrophage,4
+4045.0,39547.0,Macrophage,4
+4060.0,39552.0,Macrophage,4
+4023.0,39563.0,Macrophage,4
+4056.0,39566.0,Macrophage,4
+3839.0,39571.0,Macrophage,4
+3586.0,39571.0,Macrophage,4
+3841.0,39590.0,Macrophage,4
+3848.0,39608.0,Macrophage,4
+3855.0,39631.0,Macrophage,4
+3784.0,39649.0,Macrophage,4
+4098.0,39659.0,Macrophage,4
+3791.0,39662.0,Macrophage,4
+4090.0,39670.0,Macrophage,4
+4052.0,39730.0,Macrophage,4
+3849.0,39754.0,Macrophage,4
+3716.0,39780.0,Macrophage,4
+4026.0,39805.0,Macrophage,4
+4065.0,39802.0,Macrophage,4
+4024.0,39807.0,Macrophage,4
+4020.0,39819.0,Macrophage,4
+4139.0,39904.0,Macrophage,4
+3850.0,39917.0,Macrophage,4
+3825.0,39932.0,Macrophage,4
+4115.0,39943.0,Macrophage,4
+4111.0,39955.0,Macrophage,4
+4022.0,39956.0,Macrophage,4
+4008.0,39961.0,Macrophage,4
+4104.0,39961.0,Macrophage,4
+4067.0,39990.0,Macrophage,4
+4053.0,39994.0,Macrophage,4
+3683.0,40015.0,Macrophage,4
+3688.0,40034.0,Macrophage,4
+3712.0,40051.0,Macrophage,4
+3694.0,40047.0,Macrophage,4
+3783.0,40061.0,Macrophage,4
+3774.0,40063.0,Macrophage,4
+3728.0,40070.0,Macrophage,4
+3914.0,40079.0,Macrophage,4
+3924.0,40076.0,Macrophage,4
+3520.0,40084.0,Macrophage,4
+3556.0,40129.0,Macrophage,4
+3967.0,40128.0,Macrophage,4
+3955.0,40133.0,Macrophage,4
+3937.0,40149.0,Macrophage,4
+3931.0,40164.0,Macrophage,4
+3923.0,40175.0,Macrophage,4
+3581.0,40175.0,Macrophage,4
+4097.0,40198.0,Macrophage,4
+4146.0,40212.0,Macrophage,4
+3823.0,40246.0,Macrophage,4
+3569.0,40259.0,Macrophage,4
+4496.0,39506.0,Macrophage,4
+4297.0,39641.0,Macrophage,4
+4459.0,39646.0,Macrophage,4
+4289.0,39664.0,Macrophage,4
+4304.0,39667.0,Macrophage,4
+4493.0,39667.0,Macrophage,4
+4272.0,39675.0,Macrophage,4
+4375.0,39688.0,Macrophage,4
+4276.0,39693.0,Macrophage,4
+4278.0,39711.0,Macrophage,4
+4397.0,39722.0,Macrophage,4
+4282.0,39727.0,Macrophage,4
+4232.0,39863.0,Macrophage,4
+4217.0,39867.0,Macrophage,4
+4286.0,39942.0,Macrophage,4
+4422.0,39952.0,Macrophage,4
+4353.0,39977.0,Macrophage,4
+4431.0,39981.0,Macrophage,4
+4322.0,40009.0,Macrophage,4
+4258.0,40028.0,Macrophage,4
+4478.0,40060.0,Macrophage,4
+4477.0,40082.0,Macrophage,4
+4268.0,40115.0,Macrophage,4
+4455.0,40130.0,Macrophage,4
+4220.0,40148.0,Macrophage,4
+4480.0,40151.0,Macrophage,4
+4210.0,40166.0,Macrophage,4
+4182.0,40182.0,Macrophage,4
+4167.0,40194.0,Macrophage,4
+4459.0,40251.0,Macrophage,4
+3921.0,40266.0,Macrophage,4
+3740.0,40313.0,Macrophage,4
+3814.0,40339.0,Macrophage,4
+3553.0,40367.0,Macrophage,4
+4128.0,40380.0,Macrophage,4
+4106.0,40378.0,Macrophage,4
+3620.0,40384.0,Macrophage,4
+4135.0,40392.0,Macrophage,4
+3825.0,40395.0,Macrophage,4
+3598.0,40409.0,Macrophage,4
+3522.0,40415.0,Macrophage,4
+3990.0,40416.0,Macrophage,4
+3540.0,40421.0,Macrophage,4
+3522.0,40425.0,Macrophage,4
+3530.0,40430.0,Macrophage,4
+3548.0,40437.0,Macrophage,4
+3946.0,40433.0,Macrophage,4
+4043.0,40435.0,Macrophage,4
+3540.0,40442.0,Macrophage,4
+3828.0,40448.0,Macrophage,4
+3816.0,40463.0,Macrophage,4
+3566.0,40468.0,Macrophage,4
+3807.0,40476.0,Macrophage,4
+4089.0,40484.0,Macrophage,4
+3933.0,40487.0,Macrophage,4
+4445.0,40264.0,Macrophage,4
+4405.0,40278.0,Macrophage,4
+4361.0,40298.0,Macrophage,4
+4246.0,40318.0,Macrophage,4
+4391.0,40326.0,Macrophage,4
+4490.0,40327.0,Macrophage,4
+4472.0,40404.0,Macrophage,4
+4394.0,40429.0,Macrophage,4
+4384.0,40450.0,Macrophage,4
+4366.0,40460.0,Macrophage,4
+4477.0,40459.0,Macrophage,4
+4087.0,39500.0,Macrophage,4
+3713.0,39507.0,Macrophage,4
+3791.0,39507.0,Macrophage,4
+4144.0,39511.0,Macrophage,4
+4123.0,39512.0,Macrophage,4
+3751.0,39515.0,Macrophage,4
+3795.0,39526.0,Macrophage,4
+4077.0,39525.0,Macrophage,4
+3838.0,39531.0,Macrophage,4
+3809.0,39529.0,Macrophage,4
+4150.0,39529.0,Macrophage,4
+3818.0,39534.0,Macrophage,4
+3595.0,39542.0,Macrophage,4
+3795.0,39544.0,Macrophage,4
+4112.0,39557.0,Macrophage,4
+3806.0,39561.0,Macrophage,4
+3520.0,39561.0,Macrophage,4
+3533.0,39563.0,Macrophage,4
+3821.0,39563.0,Macrophage,4
+4112.0,39567.0,Macrophage,4
+3518.0,39583.0,Macrophage,4
+4121.0,39585.0,Macrophage,4
+4103.0,39585.0,Macrophage,4
+3818.0,39587.0,Macrophage,4
+4120.0,39595.0,Macrophage,4
+4148.0,39593.0,Macrophage,4
+4153.0,39606.0,Macrophage,4
+4121.0,39609.0,Macrophage,4
+3510.0,39603.0,Macrophage,4
+3822.0,39614.0,Macrophage,4
+4132.0,39617.0,Macrophage,4
+3524.0,39617.0,Macrophage,4
+4126.0,39626.0,Macrophage,4
+3520.0,39632.0,Macrophage,4
+3837.0,39631.0,Macrophage,4
+4126.0,39641.0,Macrophage,4
+3814.0,39648.0,Macrophage,4
+4127.0,39652.0,Macrophage,4
+4114.0,39655.0,Macrophage,4
+3843.0,39658.0,Macrophage,4
+3829.0,39668.0,Macrophage,4
+3806.0,39671.0,Macrophage,4
+4107.0,39676.0,Macrophage,4
+3510.0,39679.0,Macrophage,4
+3837.0,39689.0,Macrophage,4
+3788.0,39692.0,Macrophage,4
+3850.0,39699.0,Macrophage,4
+3777.0,39708.0,Macrophage,4
+3847.0,39715.0,Macrophage,4
+4100.0,39711.0,Macrophage,4
+3514.0,39717.0,Macrophage,4
+3788.0,39723.0,Macrophage,4
+4080.0,39726.0,Macrophage,4
+3523.0,39726.0,Macrophage,4
+3776.0,39729.0,Macrophage,4
+3842.0,39738.0,Macrophage,4
+3816.0,39738.0,Macrophage,4
+3794.0,39739.0,Macrophage,4
+4074.0,39743.0,Macrophage,4
+3833.0,39751.0,Macrophage,4
+3813.0,39759.0,Macrophage,4
+4062.0,39752.0,Macrophage,4
+3524.0,39755.0,Macrophage,4
+3507.0,39759.0,Macrophage,4
+3759.0,39763.0,Macrophage,4
+3789.0,39776.0,Macrophage,4
+3505.0,39778.0,Macrophage,4
+3759.0,39786.0,Macrophage,4
+4054.0,39788.0,Macrophage,4
+3650.0,39800.0,Macrophage,4
+3614.0,39805.0,Macrophage,4
+3632.0,39815.0,Macrophage,4
+3646.0,39821.0,Macrophage,4
+3665.0,39828.0,Macrophage,4
+3502.0,39832.0,Macrophage,4
+3519.0,39834.0,Macrophage,4
+3806.0,39855.0,Macrophage,4
+3535.0,39857.0,Macrophage,4
+3506.0,39854.0,Macrophage,4
+3551.0,39856.0,Macrophage,4
+3647.0,39859.0,Macrophage,4
+3565.0,39858.0,Macrophage,4
+3524.0,39863.0,Macrophage,4
+3628.0,39861.0,Macrophage,4
+4038.0,39864.0,Macrophage,4
+3572.0,39867.0,Macrophage,4
+3610.0,39867.0,Macrophage,4
+4052.0,39872.0,Macrophage,4
+3817.0,39879.0,Macrophage,4
+3828.0,39873.0,Macrophage,4
+3562.0,39879.0,Macrophage,4
+3634.0,39883.0,Macrophage,4
+3621.0,39888.0,Macrophage,4
+3648.0,39887.0,Macrophage,4
+3593.0,39892.0,Macrophage,4
+3576.0,39890.0,Macrophage,4
+4145.0,39888.0,Macrophage,4
+3822.0,39898.0,Macrophage,4
+4082.0,39900.0,Macrophage,4
+4124.0,39903.0,Macrophage,4
+4061.0,39904.0,Macrophage,4
+3624.0,39906.0,Macrophage,4
+4041.0,39905.0,Macrophage,4
+4084.0,39914.0,Macrophage,4
+4102.0,39913.0,Macrophage,4
+4053.0,39923.0,Macrophage,4
+4112.0,39922.0,Macrophage,4
+3631.0,39921.0,Macrophage,4
+3649.0,39930.0,Macrophage,4
+4047.0,39933.0,Macrophage,4
+4099.0,39935.0,Macrophage,4
+4077.0,39937.0,Macrophage,4
+3639.0,39944.0,Macrophage,4
+3827.0,39947.0,Macrophage,4
+3814.0,39950.0,Macrophage,4
+3657.0,39949.0,Macrophage,4
+4051.0,39950.0,Macrophage,4
+4058.0,39952.0,Macrophage,4
+3812.0,39961.0,Macrophage,4
+3643.0,39964.0,Macrophage,4
+3825.0,39968.0,Macrophage,4
+4053.0,39969.0,Macrophage,4
+4036.0,39970.0,Macrophage,4
+3813.0,39979.0,Macrophage,4
+3784.0,39994.0,Macrophage,4
+3805.0,39996.0,Macrophage,4
+4029.0,39997.0,Macrophage,4
+3793.0,40002.0,Macrophage,4
+3650.0,40006.0,Macrophage,4
+3801.0,40026.0,Macrophage,4
+3820.0,40030.0,Macrophage,4
+3839.0,40049.0,Macrophage,4
+3807.0,40048.0,Macrophage,4
+3820.0,40055.0,Macrophage,4
+3802.0,40058.0,Macrophage,4
+3835.0,40058.0,Macrophage,4
+3831.0,40075.0,Macrophage,4
+3850.0,40086.0,Macrophage,4
+3908.0,40093.0,Macrophage,4
+3976.0,40089.0,Macrophage,4
+3852.0,40108.0,Macrophage,4
+3958.0,40115.0,Macrophage,4
+3573.0,40121.0,Macrophage,4
+3937.0,40131.0,Macrophage,4
+3898.0,40129.0,Macrophage,4
+3576.0,40136.0,Macrophage,4
+3909.0,40148.0,Macrophage,4
+3898.0,40150.0,Macrophage,4
+3886.0,40150.0,Macrophage,4
+3872.0,40153.0,Macrophage,4
+3908.0,40160.0,Macrophage,4
+4149.0,40164.0,Macrophage,4
+3549.0,40174.0,Macrophage,4
+4152.0,40186.0,Macrophage,4
+3899.0,40188.0,Macrophage,4
+4136.0,40190.0,Macrophage,4
+4149.0,40195.0,Macrophage,4
+4117.0,40196.0,Macrophage,4
+4114.0,40212.0,Macrophage,4
+3553.0,40212.0,Macrophage,4
+4133.0,40212.0,Macrophage,4
+4120.0,40222.0,Macrophage,4
+4078.0,40224.0,Macrophage,4
+3859.0,40231.0,Macrophage,4
+3555.0,40246.0,Macrophage,4
+3854.0,40247.0,Macrophage,4
+4070.0,40249.0,Macrophage,4
+3882.0,40250.0,Macrophage,4
+4083.0,40256.0,Macrophage,4
+4163.0,39545.0,Macrophage,4
+4179.0,39542.0,Macrophage,4
+4201.0,39559.0,Macrophage,4
+4196.0,39579.0,Macrophage,4
+4216.0,39584.0,Macrophage,4
+4161.0,39592.0,Macrophage,4
+4175.0,39596.0,Macrophage,4
+4240.0,39628.0,Macrophage,4
+4247.0,39673.0,Macrophage,4
+4239.0,39697.0,Macrophage,4
+4490.0,39740.0,Macrophage,4
+4487.0,39756.0,Macrophage,4
+4453.0,39763.0,Macrophage,4
+4463.0,39764.0,Macrophage,4
+4279.0,39769.0,Macrophage,4
+4486.0,39787.0,Macrophage,4
+4462.0,39792.0,Macrophage,4
+4282.0,39795.0,Macrophage,4
+4472.0,39807.0,Macrophage,4
+4278.0,39812.0,Macrophage,4
+4275.0,39824.0,Macrophage,4
+4233.0,39841.0,Macrophage,4
+4498.0,39845.0,Macrophage,4
+4265.0,39852.0,Macrophage,4
+4480.0,39854.0,Macrophage,4
+4498.0,39859.0,Macrophage,4
+4278.0,39862.0,Macrophage,4
+4282.0,39881.0,Macrophage,4
+4304.0,39878.0,Macrophage,4
+4300.0,39904.0,Macrophage,4
+4498.0,39919.0,Macrophage,4
+4296.0,39924.0,Macrophage,4
+4311.0,39923.0,Macrophage,4
+4499.0,39936.0,Macrophage,4
+4464.0,39937.0,Macrophage,4
+4482.0,39941.0,Macrophage,4
+4307.0,39952.0,Macrophage,4
+4452.0,39957.0,Macrophage,4
+4470.0,39957.0,Macrophage,4
+4341.0,39965.0,Macrophage,4
+4440.0,39964.0,Macrophage,4
+4491.0,39968.0,Macrophage,4
+4446.0,39978.0,Macrophage,4
+4468.0,39986.0,Macrophage,4
+4499.0,40003.0,Macrophage,4
+4498.0,40016.0,Macrophage,4
+4310.0,40015.0,Macrophage,4
+4500.0,40030.0,Macrophage,4
+4292.0,40027.0,Macrophage,4
+4484.0,40036.0,Macrophage,4
+4270.0,40058.0,Macrophage,4
+4257.0,40070.0,Macrophage,4
+4257.0,40095.0,Macrophage,4
+4239.0,40096.0,Macrophage,4
+4220.0,40102.0,Macrophage,4
+4488.0,40105.0,Macrophage,4
+4243.0,40112.0,Macrophage,4
+4236.0,40122.0,Macrophage,4
+4224.0,40130.0,Macrophage,4
+4203.0,40136.0,Macrophage,4
+4200.0,40144.0,Macrophage,4
+4184.0,40145.0,Macrophage,4
+4192.0,40167.0,Macrophage,4
+4177.0,40173.0,Macrophage,4
+4402.0,40215.0,Macrophage,4
+4400.0,40236.0,Macrophage,4
+3822.0,40260.0,Macrophage,4
+4052.0,40260.0,Macrophage,4
+3847.0,40265.0,Macrophage,4
+3880.0,40269.0,Macrophage,4
+4072.0,40267.0,Macrophage,4
+4049.0,40272.0,Macrophage,4
+3843.0,40274.0,Macrophage,4
+4021.0,40273.0,Macrophage,4
+3557.0,40274.0,Macrophage,4
+3904.0,40275.0,Macrophage,4
+3885.0,40283.0,Macrophage,4
+4069.0,40279.0,Macrophage,4
+3761.0,40288.0,Macrophage,4
+3845.0,40287.0,Macrophage,4
+3898.0,40286.0,Macrophage,4
+4077.0,40287.0,Macrophage,4
+3924.0,40287.0,Macrophage,4
+3943.0,40293.0,Macrophage,4
+3967.0,40291.0,Macrophage,4
+4059.0,40297.0,Macrophage,4
+3735.0,40299.0,Macrophage,4
+3917.0,40301.0,Macrophage,4
+3550.0,40299.0,Macrophage,4
+4031.0,40298.0,Macrophage,4
+3519.0,40307.0,Macrophage,4
+3897.0,40306.0,Macrophage,4
+4001.0,40305.0,Macrophage,4
+3937.0,40311.0,Macrophage,4
+3516.0,40319.0,Macrophage,4
+3840.0,40321.0,Macrophage,4
+4016.0,40315.0,Macrophage,4
+3888.0,40320.0,Macrophage,4
+4073.0,40318.0,Macrophage,4
+3530.0,40321.0,Macrophage,4
+4004.0,40325.0,Macrophage,4
+3544.0,40323.0,Macrophage,4
+3902.0,40325.0,Macrophage,4
+3922.0,40324.0,Macrophage,4
+3943.0,40328.0,Macrophage,4
+3966.0,40331.0,Macrophage,4
+4063.0,40335.0,Macrophage,4
+3864.0,40332.0,Macrophage,4
+3889.0,40335.0,Macrophage,4
+4022.0,40336.0,Macrophage,4
+4047.0,40336.0,Macrophage,4
+4015.0,40344.0,Macrophage,4
+3901.0,40344.0,Macrophage,4
+3979.0,40349.0,Macrophage,4
+3551.0,40346.0,Macrophage,4
+3850.0,40348.0,Macrophage,4
+4055.0,40352.0,Macrophage,4
+3909.0,40347.0,Macrophage,4
+4035.0,40348.0,Macrophage,4
+3532.0,40354.0,Macrophage,4
+3965.0,40353.0,Macrophage,4
+3985.0,40354.0,Macrophage,4
+3829.0,40358.0,Macrophage,4
+4067.0,40358.0,Macrophage,4
+3859.0,40362.0,Macrophage,4
+4054.0,40363.0,Macrophage,4
+3840.0,40363.0,Macrophage,4
+3906.0,40369.0,Macrophage,4
+3995.0,40373.0,Macrophage,4
+4073.0,40373.0,Macrophage,4
+3843.0,40378.0,Macrophage,4
+4014.0,40378.0,Macrophage,4
+3980.0,40385.0,Macrophage,4
+3907.0,40386.0,Macrophage,4
+4091.0,40392.0,Macrophage,4
+4048.0,40388.0,Macrophage,4
+3854.0,40391.0,Macrophage,4
+4026.0,40393.0,Macrophage,4
+3910.0,40400.0,Macrophage,4
+4050.0,40404.0,Macrophage,4
+3501.0,40400.0,Macrophage,4
+3899.0,40399.0,Macrophage,4
+3866.0,40408.0,Macrophage,4
+4135.0,40407.0,Macrophage,4
+4001.0,40404.0,Macrophage,4
+4113.0,40407.0,Macrophage,4
+3884.0,40409.0,Macrophage,4
+4154.0,40410.0,Macrophage,4
+4061.0,40416.0,Macrophage,4
+4095.0,40411.0,Macrophage,4
+3901.0,40420.0,Macrophage,4
+3871.0,40425.0,Macrophage,4
+3853.0,40423.0,Macrophage,4
+3888.0,40426.0,Macrophage,4
+3918.0,40428.0,Macrophage,4
+3882.0,40439.0,Macrophage,4
+3928.0,40437.0,Macrophage,4
+4059.0,40441.0,Macrophage,4
+3861.0,40445.0,Macrophage,4
+3849.0,40447.0,Macrophage,4
+4137.0,40451.0,Macrophage,4
+3886.0,40453.0,Macrophage,4
+3902.0,40453.0,Macrophage,4
+3872.0,40456.0,Macrophage,4
+4141.0,40458.0,Macrophage,4
+3911.0,40464.0,Macrophage,4
+3884.0,40472.0,Macrophage,4
+3865.0,40470.0,Macrophage,4
+4117.0,40474.0,Macrophage,4
+4103.0,40472.0,Macrophage,4
+3834.0,40478.0,Macrophage,4
+3855.0,40478.0,Macrophage,4
+4107.0,40488.0,Macrophage,4
+3767.0,40483.0,Macrophage,4
+3824.0,40489.0,Macrophage,4
+3895.0,40495.0,Macrophage,4
+3583.0,40492.0,Macrophage,4
+3565.0,40498.0,Macrophage,4
+3811.0,40500.0,Macrophage,4
+4220.0,40372.0,Macrophage,4
+4199.0,40380.0,Macrophage,4
+4229.0,40390.0,Macrophage,4
+4186.0,40390.0,Macrophage,4
+4160.0,40396.0,Macrophage,4
+4170.0,40402.0,Macrophage,4
+4240.0,40416.0,Macrophage,4
+4247.0,40427.0,Macrophage,4
+4263.0,40431.0,Macrophage,4
+4226.0,40434.0,Macrophage,4
+4443.0,40434.0,Macrophage,4
+4159.0,40438.0,Macrophage,4
+4270.0,40442.0,Macrophage,4
+4254.0,40448.0,Macrophage,4
+4159.0,40456.0,Macrophage,4
+4466.0,40454.0,Macrophage,4
+4412.0,40456.0,Macrophage,4
+4448.0,40458.0,Macrophage,4
+4174.0,40457.0,Macrophage,4
+4188.0,40462.0,Macrophage,4
+4249.0,40463.0,Macrophage,4
+4263.0,40463.0,Macrophage,4
+4276.0,40466.0,Macrophage,4
+4294.0,40462.0,Macrophage,4
+4197.0,40464.0,Macrophage,4
+4235.0,40468.0,Macrophage,4
+4208.0,40476.0,Macrophage,4
+4441.0,40473.0,Macrophage,4
+4464.0,40475.0,Macrophage,4
+4188.0,40482.0,Macrophage,4
+4250.0,40482.0,Macrophage,4
+4407.0,40484.0,Macrophage,4
+4433.0,40483.0,Macrophage,4
+4451.0,40487.0,Macrophage,4
+4179.0,40486.0,Macrophage,4
+4288.0,40487.0,Macrophage,4
+4424.0,40487.0,Macrophage,4
+4328.0,40491.0,Macrophage,4
+4216.0,40492.0,Macrophage,4
+4165.0,40492.0,Macrophage,4
+4387.0,40495.0,Macrophage,4
+4404.0,40499.0,Macrophage,4
+4139.0,39904.0,Neutrophil,5
+3846.0,40148.0,Neutrophil,5
+4349.0,39620.0,Neutrophil,5
+3816.0,39502.0,Neutrophil,5
+3524.0,39617.0,Neutrophil,5
+3813.0,39707.0,Neutrophil,5
+3828.0,39716.0,Neutrophil,5
+3758.0,39741.0,Neutrophil,5
+3779.0,39745.0,Neutrophil,5
+3833.0,39751.0,Neutrophil,5
+3789.0,39754.0,Neutrophil,5
+3813.0,39759.0,Neutrophil,5
+3759.0,39763.0,Neutrophil,5
+3780.0,39768.0,Neutrophil,5
+3631.0,39835.0,Neutrophil,5
+3615.0,39842.0,Neutrophil,5
+3647.0,39859.0,Neutrophil,5
+3628.0,39861.0,Neutrophil,5
+3643.0,39964.0,Neutrophil,5
+3652.0,39973.0,Neutrophil,5
+3861.0,40143.0,Neutrophil,5
+4402.0,40215.0,Neutrophil,5
+4400.0,40236.0,Neutrophil,5
+4073.0,40318.0,Neutrophil,5
+3979.0,40349.0,Neutrophil,5
+3949.0,40350.0,Neutrophil,5
+3840.0,40363.0,Neutrophil,5
+3949.0,40377.0,Neutrophil,5
+3871.0,40425.0,Neutrophil,5
+3886.0,40453.0,Neutrophil,5
+3902.0,40453.0,Neutrophil,5
+3767.0,40483.0,Neutrophil,5
+4263.0,40431.0,Neutrophil,5
+4345.0,40499.0,Neutrophil,5
+3906.0,39501.0,Epithelium (imm),2
+3923.0,39503.0,Epithelium (imm),2
+4010.0,39505.0,Epithelium (imm),2
+3958.0,39508.0,Epithelium (imm),2
+3658.0,39504.0,Epithelium (imm),2
+4038.0,39503.0,Epithelium (imm),2
+3641.0,39504.0,Epithelium (imm),2
+3985.0,39510.0,Epithelium (imm),2
+3634.0,39516.0,Epithelium (imm),2
+4036.0,39518.0,Epithelium (imm),2
+3854.0,39520.0,Epithelium (imm),2
+3961.0,39517.0,Epithelium (imm),2
+4017.0,39522.0,Epithelium (imm),2
+3552.0,39517.0,Epithelium (imm),2
+3620.0,39517.0,Epithelium (imm),2
+3927.0,39518.0,Epithelium (imm),2
+3675.0,39520.0,Epithelium (imm),2
+3519.0,39520.0,Epithelium (imm),2
+3699.0,39520.0,Epithelium (imm),2
+3978.0,39520.0,Epithelium (imm),2
+3503.0,39521.0,Epithelium (imm),2
+3598.0,39523.0,Epithelium (imm),2
+3620.0,39525.0,Epithelium (imm),2
+3654.0,39524.0,Epithelium (imm),2
+3713.0,39527.0,Epithelium (imm),2
+3729.0,39526.0,Epithelium (imm),2
+3568.0,39529.0,Epithelium (imm),2
+3582.0,39528.0,Epithelium (imm),2
+3532.0,39529.0,Epithelium (imm),2
+4044.0,39533.0,Epithelium (imm),2
+3534.0,39531.0,Epithelium (imm),2
+3549.0,39532.0,Epithelium (imm),2
+3555.0,39533.0,Epithelium (imm),2
+4056.0,39531.0,Epithelium (imm),2
+3726.0,39535.0,Epithelium (imm),2
+4023.0,39539.0,Epithelium (imm),2
+4069.0,39534.0,Epithelium (imm),2
+3636.0,39535.0,Epithelium (imm),2
+3853.0,39541.0,Epithelium (imm),2
+4079.0,39540.0,Epithelium (imm),2
+4045.0,39547.0,Epithelium (imm),2
+3733.0,39542.0,Epithelium (imm),2
+3951.0,39542.0,Epithelium (imm),2
+3638.0,39550.0,Epithelium (imm),2
+4020.0,39550.0,Epithelium (imm),2
+4060.0,39552.0,Epithelium (imm),2
+3621.0,39548.0,Epithelium (imm),2
+3845.0,39551.0,Epithelium (imm),2
+3866.0,39558.0,Epithelium (imm),2
+3749.0,39556.0,Epithelium (imm),2
+3998.0,39553.0,Epithelium (imm),2
+4073.0,39557.0,Epithelium (imm),2
+3634.0,39563.0,Epithelium (imm),2
+3909.0,39558.0,Epithelium (imm),2
+3611.0,39561.0,Epithelium (imm),2
+4023.0,39563.0,Epithelium (imm),2
+4056.0,39566.0,Epithelium (imm),2
+3742.0,39569.0,Epithelium (imm),2
+3753.0,39568.0,Epithelium (imm),2
+4089.0,39568.0,Epithelium (imm),2
+3905.0,39569.0,Epithelium (imm),2
+3599.0,39568.0,Epithelium (imm),2
+3665.0,39568.0,Epithelium (imm),2
+3857.0,39575.0,Epithelium (imm),2
+3839.0,39571.0,Epithelium (imm),2
+3892.0,39572.0,Epithelium (imm),2
+3586.0,39571.0,Epithelium (imm),2
+3630.0,39576.0,Epithelium (imm),2
+3744.0,39580.0,Epithelium (imm),2
+4002.0,39574.0,Epithelium (imm),2
+3706.0,39575.0,Epithelium (imm),2
+4053.0,39578.0,Epithelium (imm),2
+3561.0,39577.0,Epithelium (imm),2
+3726.0,39578.0,Epithelium (imm),2
+4032.0,39582.0,Epithelium (imm),2
+4064.0,39584.0,Epithelium (imm),2
+4072.0,39584.0,Epithelium (imm),2
+3577.0,39586.0,Epithelium (imm),2
+3860.0,39592.0,Epithelium (imm),2
+3841.0,39590.0,Epithelium (imm),2
+3873.0,39592.0,Epithelium (imm),2
+3594.0,39593.0,Epithelium (imm),2
+3611.0,39595.0,Epithelium (imm),2
+3664.0,39590.0,Epithelium (imm),2
+3764.0,39596.0,Epithelium (imm),2
+3854.0,39595.0,Epithelium (imm),2
+3880.0,39592.0,Epithelium (imm),2
+3608.0,39595.0,Epithelium (imm),2
+4047.0,39594.0,Epithelium (imm),2
+4024.0,39592.0,Epithelium (imm),2
+4089.0,39592.0,Epithelium (imm),2
+3766.0,39596.0,Epithelium (imm),2
+4056.0,39597.0,Epithelium (imm),2
+3766.0,39601.0,Epithelium (imm),2
+3913.0,39594.0,Epithelium (imm),2
+3571.0,39599.0,Epithelium (imm),2
+3720.0,39602.0,Epithelium (imm),2
+3754.0,39600.0,Epithelium (imm),2
+3586.0,39603.0,Epithelium (imm),2
+3880.0,39604.0,Epithelium (imm),2
+3990.0,39599.0,Epithelium (imm),2
+3867.0,39607.0,Epithelium (imm),2
+3848.0,39608.0,Epithelium (imm),2
+3899.0,39602.0,Epithelium (imm),2
+4058.0,39604.0,Epithelium (imm),2
+3565.0,39605.0,Epithelium (imm),2
+3681.0,39604.0,Epithelium (imm),2
+4076.0,39606.0,Epithelium (imm),2
+4089.0,39608.0,Epithelium (imm),2
+3643.0,39605.0,Epithelium (imm),2
+4011.0,39609.0,Epithelium (imm),2
+3665.0,39614.0,Epithelium (imm),2
+3562.0,39615.0,Epithelium (imm),2
+4059.0,39619.0,Epithelium (imm),2
+3589.0,39619.0,Epithelium (imm),2
+3603.0,39616.0,Epithelium (imm),2
+3773.0,39618.0,Epithelium (imm),2
+3875.0,39619.0,Epithelium (imm),2
+3890.0,39617.0,Epithelium (imm),2
+4082.0,39621.0,Epithelium (imm),2
+3737.0,39616.0,Epithelium (imm),2
+3931.0,39616.0,Epithelium (imm),2
+3552.0,39620.0,Epithelium (imm),2
+3624.0,39619.0,Epithelium (imm),2
+3901.0,39623.0,Epithelium (imm),2
+4039.0,39620.0,Epithelium (imm),2
+3719.0,39624.0,Epithelium (imm),2
+4058.0,39631.0,Epithelium (imm),2
+4085.0,39631.0,Epithelium (imm),2
+3546.0,39627.0,Epithelium (imm),2
+3763.0,39626.0,Epithelium (imm),2
+3778.0,39630.0,Epithelium (imm),2
+3855.0,39631.0,Epithelium (imm),2
+3650.0,39628.0,Epithelium (imm),2
+4098.0,39629.0,Epithelium (imm),2
+3872.0,39631.0,Epithelium (imm),2
+4029.0,39629.0,Epithelium (imm),2
+4156.0,39628.0,Epithelium (imm),2
+4069.0,39631.0,Epithelium (imm),2
+4107.0,39629.0,Epithelium (imm),2
+3565.0,39636.0,Epithelium (imm),2
+3574.0,39636.0,Epithelium (imm),2
+3935.0,39636.0,Epithelium (imm),2
+3595.0,39635.0,Epithelium (imm),2
+3548.0,39641.0,Epithelium (imm),2
+3740.0,39640.0,Epithelium (imm),2
+3761.0,39643.0,Epithelium (imm),2
+3749.0,39641.0,Epithelium (imm),2
+3607.0,39638.0,Epithelium (imm),2
+3500.0,39644.0,Epithelium (imm),2
+4074.0,39645.0,Epithelium (imm),2
+3761.0,39646.0,Epithelium (imm),2
+3903.0,39641.0,Epithelium (imm),2
+3572.0,39645.0,Epithelium (imm),2
+3884.0,39646.0,Epithelium (imm),2
+3933.0,39650.0,Epithelium (imm),2
+4095.0,39648.0,Epithelium (imm),2
+3552.0,39650.0,Epithelium (imm),2
+3784.0,39649.0,Epithelium (imm),2
+3864.0,39651.0,Epithelium (imm),2
+4042.0,39649.0,Epithelium (imm),2
+3696.0,39648.0,Epithelium (imm),2
+3601.0,39656.0,Epithelium (imm),2
+4074.0,39655.0,Epithelium (imm),2
+3719.0,39658.0,Epithelium (imm),2
+4098.0,39659.0,Epithelium (imm),2
+3895.0,39658.0,Epithelium (imm),2
+3920.0,39659.0,Epithelium (imm),2
+4016.0,39654.0,Epithelium (imm),2
+3551.0,39662.0,Epithelium (imm),2
+3910.0,39661.0,Epithelium (imm),2
+3763.0,39664.0,Epithelium (imm),2
+3880.0,39661.0,Epithelium (imm),2
+3791.0,39662.0,Epithelium (imm),2
+3939.0,39665.0,Epithelium (imm),2
+4030.0,39658.0,Epithelium (imm),2
+3670.0,39662.0,Epithelium (imm),2
+4062.0,39660.0,Epithelium (imm),2
+3743.0,39662.0,Epithelium (imm),2
+3761.0,39667.0,Epithelium (imm),2
+3859.0,39667.0,Epithelium (imm),2
+4090.0,39670.0,Epithelium (imm),2
+3897.0,39672.0,Epithelium (imm),2
+3704.0,39668.0,Epithelium (imm),2
+3539.0,39669.0,Epithelium (imm),2
+3738.0,39673.0,Epithelium (imm),2
+3911.0,39671.0,Epithelium (imm),2
+3579.0,39670.0,Epithelium (imm),2
+3564.0,39679.0,Epithelium (imm),2
+3673.0,39679.0,Epithelium (imm),2
+3893.0,39680.0,Epithelium (imm),2
+3940.0,39680.0,Epithelium (imm),2
+3543.0,39679.0,Epithelium (imm),2
+3660.0,39680.0,Epithelium (imm),2
+3758.0,39680.0,Epithelium (imm),2
+4029.0,39676.0,Epithelium (imm),2
+4059.0,39677.0,Epithelium (imm),2
+3708.0,39686.0,Epithelium (imm),2
+3753.0,39684.0,Epithelium (imm),2
+4132.0,39680.0,Epithelium (imm),2
+4001.0,39682.0,Epithelium (imm),2
+3868.0,39690.0,Epithelium (imm),2
+3900.0,39687.0,Epithelium (imm),2
+4094.0,39690.0,Epithelium (imm),2
+3653.0,39693.0,Epithelium (imm),2
+3685.0,39688.0,Epithelium (imm),2
+3737.0,39689.0,Epithelium (imm),2
+3917.0,39688.0,Epithelium (imm),2
+4086.0,39693.0,Epithelium (imm),2
+3538.0,39695.0,Epithelium (imm),2
+4121.0,39690.0,Epithelium (imm),2
+3885.0,39695.0,Epithelium (imm),2
+3902.0,39700.0,Epithelium (imm),2
+4072.0,39698.0,Epithelium (imm),2
+3865.0,39697.0,Epithelium (imm),2
+4023.0,39697.0,Epithelium (imm),2
+4042.0,39702.0,Epithelium (imm),2
+3730.0,39701.0,Epithelium (imm),2
+3917.0,39703.0,Epithelium (imm),2
+3883.0,39708.0,Epithelium (imm),2
+3895.0,39706.0,Epithelium (imm),2
+4048.0,39707.0,Epithelium (imm),2
+3714.0,39707.0,Epithelium (imm),2
+4118.0,39709.0,Epithelium (imm),2
+3997.0,39710.0,Epithelium (imm),2
+3693.0,39708.0,Epithelium (imm),2
+3542.0,39715.0,Epithelium (imm),2
+4062.0,39710.0,Epithelium (imm),2
+3642.0,39709.0,Epithelium (imm),2
+3664.0,39716.0,Epithelium (imm),2
+3917.0,39713.0,Epithelium (imm),2
+3627.0,39713.0,Epithelium (imm),2
+3671.0,39719.0,Epithelium (imm),2
+4021.0,39716.0,Epithelium (imm),2
+3877.0,39717.0,Epithelium (imm),2
+3548.0,39719.0,Epithelium (imm),2
+3712.0,39723.0,Epithelium (imm),2
+3735.0,39723.0,Epithelium (imm),2
+3894.0,39722.0,Epithelium (imm),2
+3932.0,39716.0,Epithelium (imm),2
+3989.0,39720.0,Epithelium (imm),2
+3755.0,39721.0,Epithelium (imm),2
+3865.0,39720.0,Epithelium (imm),2
+3907.0,39721.0,Epithelium (imm),2
+3733.0,39727.0,Epithelium (imm),2
+4060.0,39728.0,Epithelium (imm),2
+3622.0,39727.0,Epithelium (imm),2
+4101.0,39730.0,Epithelium (imm),2
+3588.0,39725.0,Epithelium (imm),2
+3653.0,39728.0,Epithelium (imm),2
+3857.0,39728.0,Epithelium (imm),2
+3903.0,39731.0,Epithelium (imm),2
+4031.0,39727.0,Epithelium (imm),2
+3752.0,39734.0,Epithelium (imm),2
+3642.0,39734.0,Epithelium (imm),2
+4052.0,39730.0,Epithelium (imm),2
+3645.0,39730.0,Epithelium (imm),2
+3880.0,39736.0,Epithelium (imm),2
+3709.0,39740.0,Epithelium (imm),2
+3726.0,39739.0,Epithelium (imm),2
+3860.0,39740.0,Epithelium (imm),2
+3925.0,39737.0,Epithelium (imm),2
+4008.0,39733.0,Epithelium (imm),2
+4099.0,39739.0,Epithelium (imm),2
+3618.0,39743.0,Epithelium (imm),2
+3669.0,39741.0,Epithelium (imm),2
+3947.0,39739.0,Epithelium (imm),2
+3569.0,39739.0,Epithelium (imm),2
+3707.0,39748.0,Epithelium (imm),2
+3893.0,39747.0,Epithelium (imm),2
+4089.0,39746.0,Epithelium (imm),2
+3877.0,39750.0,Epithelium (imm),2
+3863.0,39754.0,Epithelium (imm),2
+3708.0,39757.0,Epithelium (imm),2
+3674.0,39752.0,Epithelium (imm),2
+3595.0,39759.0,Epithelium (imm),2
+4039.0,39763.0,Epithelium (imm),2
+3707.0,39766.0,Epithelium (imm),2
+4009.0,39762.0,Epithelium (imm),2
+3888.0,39766.0,Epithelium (imm),2
+4087.0,39768.0,Epithelium (imm),2
+3902.0,39764.0,Epithelium (imm),2
+3856.0,39769.0,Epithelium (imm),2
+4032.0,39767.0,Epithelium (imm),2
+3661.0,39764.0,Epithelium (imm),2
+3877.0,39772.0,Epithelium (imm),2
+3626.0,39768.0,Epithelium (imm),2
+3647.0,39768.0,Epithelium (imm),2
+3885.0,39777.0,Epithelium (imm),2
+3909.0,39771.0,Epithelium (imm),2
+4082.0,39777.0,Epithelium (imm),2
+3659.0,39778.0,Epithelium (imm),2
+4008.0,39775.0,Epithelium (imm),2
+3852.0,39777.0,Epithelium (imm),2
+3616.0,39776.0,Epithelium (imm),2
+3870.0,39781.0,Epithelium (imm),2
+4018.0,39782.0,Epithelium (imm),2
+3716.0,39780.0,Epithelium (imm),2
+3979.0,39777.0,Epithelium (imm),2
+3882.0,39782.0,Epithelium (imm),2
+4000.0,39778.0,Epithelium (imm),2
+3645.0,39786.0,Epithelium (imm),2
+3890.0,39786.0,Epithelium (imm),2
+4079.0,39790.0,Epithelium (imm),2
+3856.0,39794.0,Epithelium (imm),2
+3740.0,39789.0,Epithelium (imm),2
+3888.0,39796.0,Epithelium (imm),2
+4029.0,39796.0,Epithelium (imm),2
+4074.0,39794.0,Epithelium (imm),2
+3998.0,39800.0,Epithelium (imm),2
+3878.0,39799.0,Epithelium (imm),2
+3732.0,39799.0,Epithelium (imm),2
+4026.0,39805.0,Epithelium (imm),2
+3847.0,39803.0,Epithelium (imm),2
+4012.0,39805.0,Epithelium (imm),2
+3716.0,39802.0,Epithelium (imm),2
+4024.0,39807.0,Epithelium (imm),2
+3877.0,39810.0,Epithelium (imm),2
+3864.0,39811.0,Epithelium (imm),2
+3698.0,39806.0,Epithelium (imm),2
+3767.0,39809.0,Epithelium (imm),2
+3744.0,39814.0,Epithelium (imm),2
+3998.0,39813.0,Epithelium (imm),2
+3888.0,39815.0,Epithelium (imm),2
+3771.0,39814.0,Epithelium (imm),2
+3868.0,39819.0,Epithelium (imm),2
+3906.0,39812.0,Epithelium (imm),2
+3683.0,39816.0,Epithelium (imm),2
+4020.0,39819.0,Epithelium (imm),2
+4069.0,39823.0,Epithelium (imm),2
+3897.0,39820.0,Epithelium (imm),2
+3785.0,39821.0,Epithelium (imm),2
+3985.0,39822.0,Epithelium (imm),2
+4091.0,39824.0,Epithelium (imm),2
+3847.0,39825.0,Epithelium (imm),2
+3868.0,39828.0,Epithelium (imm),2
+4033.0,39832.0,Epithelium (imm),2
+4021.0,39833.0,Epithelium (imm),2
+3881.0,39833.0,Epithelium (imm),2
+3680.0,39835.0,Epithelium (imm),2
+3734.0,39834.0,Epithelium (imm),2
+3755.0,39834.0,Epithelium (imm),2
+3983.0,39838.0,Epithelium (imm),2
+3715.0,39835.0,Epithelium (imm),2
+4007.0,39842.0,Epithelium (imm),2
+4018.0,39840.0,Epithelium (imm),2
+3867.0,39844.0,Epithelium (imm),2
+3847.0,39846.0,Epithelium (imm),2
+4062.0,39844.0,Epithelium (imm),2
+3978.0,39846.0,Epithelium (imm),2
+3667.0,39850.0,Epithelium (imm),2
+3874.0,39852.0,Epithelium (imm),2
+3784.0,39855.0,Epithelium (imm),2
+3962.0,39849.0,Epithelium (imm),2
+4003.0,39855.0,Epithelium (imm),2
+3750.0,39854.0,Epithelium (imm),2
+4143.0,39852.0,Epithelium (imm),2
+3786.0,39859.0,Epithelium (imm),2
+4062.0,39863.0,Epithelium (imm),2
+4020.0,39859.0,Epithelium (imm),2
+3862.0,39866.0,Epithelium (imm),2
+4135.0,39862.0,Epithelium (imm),2
+3879.0,39868.0,Epithelium (imm),2
+3846.0,39863.0,Epithelium (imm),2
+3667.0,39869.0,Epithelium (imm),2
+3835.0,39863.0,Epithelium (imm),2
+4089.0,39864.0,Epithelium (imm),2
+3959.0,39868.0,Epithelium (imm),2
+4126.0,39869.0,Epithelium (imm),2
+3695.0,39869.0,Epithelium (imm),2
+4068.0,39877.0,Epithelium (imm),2
+4104.0,39873.0,Epithelium (imm),2
+3786.0,39879.0,Epithelium (imm),2
+4013.0,39877.0,Epithelium (imm),2
+3841.0,39882.0,Epithelium (imm),2
+4119.0,39877.0,Epithelium (imm),2
+3664.0,39883.0,Epithelium (imm),2
+3516.0,39879.0,Epithelium (imm),2
+3756.0,39881.0,Epithelium (imm),2
+3860.0,39882.0,Epithelium (imm),2
+4024.0,39880.0,Epithelium (imm),2
+4085.0,39883.0,Epithelium (imm),2
+4098.0,39881.0,Epithelium (imm),2
+3692.0,39882.0,Epithelium (imm),2
+4003.0,39883.0,Epithelium (imm),2
+3503.0,39882.0,Epithelium (imm),2
+3977.0,39888.0,Epithelium (imm),2
+3787.0,39890.0,Epithelium (imm),2
+3879.0,39885.0,Epithelium (imm),2
+3994.0,39888.0,Epithelium (imm),2
+4116.0,39893.0,Epithelium (imm),2
+4011.0,39894.0,Epithelium (imm),2
+3531.0,39890.0,Epithelium (imm),2
+3518.0,39898.0,Epithelium (imm),2
+3661.0,39895.0,Epithelium (imm),2
+3840.0,39896.0,Epithelium (imm),2
+4102.0,39898.0,Epithelium (imm),2
+3979.0,39898.0,Epithelium (imm),2
+3995.0,39898.0,Epithelium (imm),2
+3870.0,39902.0,Epithelium (imm),2
+4030.0,39898.0,Epithelium (imm),2
+3858.0,39900.0,Epithelium (imm),2
+3782.0,39903.0,Epithelium (imm),2
+3881.0,39901.0,Epithelium (imm),2
+3502.0,39903.0,Epithelium (imm),2
+3557.0,39899.0,Epithelium (imm),2
+3700.0,39906.0,Epithelium (imm),2
+3867.0,39910.0,Epithelium (imm),2
+3511.0,39909.0,Epithelium (imm),2
+3689.0,39908.0,Epithelium (imm),2
+3761.0,39910.0,Epithelium (imm),2
+3892.0,39914.0,Epithelium (imm),2
+3958.0,39907.0,Epithelium (imm),2
+3556.0,39912.0,Epithelium (imm),2
+4151.0,39909.0,Epithelium (imm),2
+3536.0,39915.0,Epithelium (imm),2
+4010.0,39918.0,Epithelium (imm),2
+4018.0,39914.0,Epithelium (imm),2
+3984.0,39914.0,Epithelium (imm),2
+3881.0,39918.0,Epithelium (imm),2
+3578.0,39915.0,Epithelium (imm),2
+3850.0,39917.0,Epithelium (imm),2
+3841.0,39919.0,Epithelium (imm),2
+3784.0,39926.0,Epithelium (imm),2
+3892.0,39926.0,Epithelium (imm),2
+3667.0,39926.0,Epithelium (imm),2
+3869.0,39925.0,Epithelium (imm),2
+3536.0,39929.0,Epithelium (imm),2
+3955.0,39925.0,Epithelium (imm),2
+3980.0,39924.0,Epithelium (imm),2
+3883.0,39929.0,Epithelium (imm),2
+3936.0,39927.0,Epithelium (imm),2
+3902.0,39928.0,Epithelium (imm),2
+3847.0,39934.0,Epithelium (imm),2
+3670.0,39936.0,Epithelium (imm),2
+3869.0,39936.0,Epithelium (imm),2
+3576.0,39936.0,Epithelium (imm),2
+4138.0,39931.0,Epithelium (imm),2
+3777.0,39935.0,Epithelium (imm),2
+3825.0,39932.0,Epithelium (imm),2
+4011.0,39936.0,Epithelium (imm),2
+3693.0,39933.0,Epithelium (imm),2
+4124.0,39938.0,Epithelium (imm),2
+3973.0,39941.0,Epithelium (imm),2
+4154.0,39942.0,Epithelium (imm),2
+3514.0,39936.0,Epithelium (imm),2
+3861.0,39939.0,Epithelium (imm),2
+3995.0,39940.0,Epithelium (imm),2
+3843.0,39943.0,Epithelium (imm),2
+3755.0,39938.0,Epithelium (imm),2
+3995.0,39942.0,Epithelium (imm),2
+3592.0,39939.0,Epithelium (imm),2
+3670.0,39948.0,Epithelium (imm),2
+3888.0,39945.0,Epithelium (imm),2
+3543.0,39945.0,Epithelium (imm),2
+3901.0,39944.0,Epithelium (imm),2
+3925.0,39942.0,Epithelium (imm),2
+4115.0,39943.0,Epithelium (imm),2
+3860.0,39949.0,Epithelium (imm),2
+3776.0,39952.0,Epithelium (imm),2
+3876.0,39949.0,Epithelium (imm),2
+3982.0,39953.0,Epithelium (imm),2
+3702.0,39950.0,Epithelium (imm),2
+3958.0,39948.0,Epithelium (imm),2
+4111.0,39955.0,Epithelium (imm),2
+3926.0,39956.0,Epithelium (imm),2
+4022.0,39956.0,Epithelium (imm),2
+4136.0,39957.0,Epithelium (imm),2
+3840.0,39959.0,Epithelium (imm),2
+3599.0,39956.0,Epithelium (imm),2
+3681.0,39956.0,Epithelium (imm),2
+3773.0,39961.0,Epithelium (imm),2
+3564.0,39959.0,Epithelium (imm),2
+3586.0,39956.0,Epithelium (imm),2
+3628.0,39955.0,Epithelium (imm),2
+3913.0,39955.0,Epithelium (imm),2
+4008.0,39961.0,Epithelium (imm),2
+4104.0,39961.0,Epithelium (imm),2
+3514.0,39966.0,Epithelium (imm),2
+3965.0,39965.0,Epithelium (imm),2
+3996.0,39963.0,Epithelium (imm),2
+3538.0,39963.0,Epithelium (imm),2
+3672.0,39967.0,Epithelium (imm),2
+4122.0,39964.0,Epithelium (imm),2
+3899.0,39964.0,Epithelium (imm),2
+3993.0,39968.0,Epithelium (imm),2
+3878.0,39969.0,Epithelium (imm),2
+3778.0,39975.0,Epithelium (imm),2
+3860.0,39972.0,Epithelium (imm),2
+3916.0,39973.0,Epithelium (imm),2
+3980.0,39970.0,Epithelium (imm),2
+4102.0,39971.0,Epithelium (imm),2
+4083.0,39973.0,Epithelium (imm),2
+3761.0,39970.0,Epithelium (imm),2
+3672.0,39980.0,Epithelium (imm),2
+4120.0,39980.0,Epithelium (imm),2
+3516.0,39980.0,Epithelium (imm),2
+3553.0,39975.0,Epithelium (imm),2
+3756.0,39978.0,Epithelium (imm),2
+3928.0,39976.0,Epithelium (imm),2
+4103.0,39982.0,Epithelium (imm),2
+3569.0,39980.0,Epithelium (imm),2
+3613.0,39984.0,Epithelium (imm),2
+3713.0,39977.0,Epithelium (imm),2
+3839.0,39984.0,Epithelium (imm),2
+3997.0,39983.0,Epithelium (imm),2
+3859.0,39985.0,Epithelium (imm),2
+3873.0,39985.0,Epithelium (imm),2
+3693.0,39982.0,Epithelium (imm),2
+3599.0,39984.0,Epithelium (imm),2
+4023.0,39986.0,Epithelium (imm),2
+4072.0,39982.0,Epithelium (imm),2
+3586.0,39986.0,Epithelium (imm),2
+3574.0,39987.0,Epithelium (imm),2
+3745.0,39985.0,Epithelium (imm),2
+3762.0,39992.0,Epithelium (imm),2
+3507.0,39988.0,Epithelium (imm),2
+3557.0,39991.0,Epithelium (imm),2
+3854.0,39992.0,Epithelium (imm),2
+4093.0,39990.0,Epithelium (imm),2
+4067.0,39990.0,Epithelium (imm),2
+3541.0,39990.0,Epithelium (imm),2
+3839.0,39996.0,Epithelium (imm),2
+3871.0,39997.0,Epithelium (imm),2
+4139.0,39990.0,Epithelium (imm),2
+3704.0,39991.0,Epithelium (imm),2
+3987.0,39994.0,Epithelium (imm),2
+3553.0,40000.0,Epithelium (imm),2
+3679.0,39998.0,Epithelium (imm),2
+3736.0,39994.0,Epithelium (imm),2
+3968.0,39994.0,Epithelium (imm),2
+4053.0,39994.0,Epithelium (imm),2
+3906.0,39996.0,Epithelium (imm),2
+4096.0,40003.0,Epithelium (imm),2
+3599.0,40003.0,Epithelium (imm),2
+4126.0,40000.0,Epithelium (imm),2
+3717.0,39999.0,Epithelium (imm),2
+4079.0,40004.0,Epithelium (imm),2
+3580.0,40006.0,Epithelium (imm),2
+3845.0,40008.0,Epithelium (imm),2
+3929.0,40006.0,Epithelium (imm),2
+3862.0,40009.0,Epithelium (imm),2
+3878.0,40008.0,Epithelium (imm),2
+3696.0,40009.0,Epithelium (imm),2
+3594.0,40009.0,Epithelium (imm),2
+4122.0,40011.0,Epithelium (imm),2
+3628.0,40010.0,Epithelium (imm),2
+3756.0,40010.0,Epithelium (imm),2
+3860.0,40014.0,Epithelium (imm),2
+3683.0,40015.0,Epithelium (imm),2
+3750.0,40012.0,Epithelium (imm),2
+3893.0,40010.0,Epithelium (imm),2
+3673.0,40012.0,Epithelium (imm),2
+3726.0,40016.0,Epithelium (imm),2
+4047.0,40013.0,Epithelium (imm),2
+3709.0,40014.0,Epithelium (imm),2
+3564.0,40019.0,Epithelium (imm),2
+3940.0,40020.0,Epithelium (imm),2
+3576.0,40022.0,Epithelium (imm),2
+3891.0,40023.0,Epithelium (imm),2
+3856.0,40026.0,Epithelium (imm),2
+3910.0,40022.0,Epithelium (imm),2
+3768.0,40026.0,Epithelium (imm),2
+3592.0,40028.0,Epithelium (imm),2
+3782.0,40024.0,Epithelium (imm),2
+3887.0,40029.0,Epithelium (imm),2
+3970.0,40029.0,Epithelium (imm),2
+3927.0,40027.0,Epithelium (imm),2
+4117.0,40027.0,Epithelium (imm),2
+3549.0,40029.0,Epithelium (imm),2
+3708.0,40030.0,Epithelium (imm),2
+4051.0,40036.0,Epithelium (imm),2
+4060.0,40036.0,Epithelium (imm),2
+4090.0,40031.0,Epithelium (imm),2
+3688.0,40034.0,Epithelium (imm),2
+3940.0,40033.0,Epithelium (imm),2
+4040.0,40031.0,Epithelium (imm),2
+3892.0,40037.0,Epithelium (imm),2
+3598.0,40036.0,Epithelium (imm),2
+3883.0,40042.0,Epithelium (imm),2
+3958.0,40035.0,Epithelium (imm),2
+3908.0,40042.0,Epithelium (imm),2
+4081.0,40039.0,Epithelium (imm),2
+3750.0,40038.0,Epithelium (imm),2
+3772.0,40040.0,Epithelium (imm),2
+3542.0,40041.0,Epithelium (imm),2
+4033.0,40045.0,Epithelium (imm),2
+3878.0,40048.0,Epithelium (imm),2
+4048.0,40046.0,Epithelium (imm),2
+3600.0,40049.0,Epithelium (imm),2
+3577.0,40047.0,Epithelium (imm),2
+3613.0,40047.0,Epithelium (imm),2
+3865.0,40050.0,Epithelium (imm),2
+3712.0,40051.0,Epithelium (imm),2
+3722.0,40049.0,Epithelium (imm),2
+3888.0,40054.0,Epithelium (imm),2
+3529.0,40050.0,Epithelium (imm),2
+3912.0,40052.0,Epithelium (imm),2
+3924.0,40052.0,Epithelium (imm),2
+4016.0,40050.0,Epithelium (imm),2
+3660.0,40052.0,Epithelium (imm),2
+3736.0,40051.0,Epithelium (imm),2
+3783.0,40061.0,Epithelium (imm),2
+3682.0,40055.0,Epithelium (imm),2
+3892.0,40059.0,Epithelium (imm),2
+3739.0,40058.0,Epithelium (imm),2
+3873.0,40063.0,Epithelium (imm),2
+3905.0,40060.0,Epithelium (imm),2
+3965.0,40060.0,Epithelium (imm),2
+4048.0,40059.0,Epithelium (imm),2
+3642.0,40060.0,Epithelium (imm),2
+3600.0,40064.0,Epithelium (imm),2
+3774.0,40063.0,Epithelium (imm),2
+3577.0,40066.0,Epithelium (imm),2
+3750.0,40065.0,Epithelium (imm),2
+3690.0,40066.0,Epithelium (imm),2
+3703.0,40066.0,Epithelium (imm),2
+3728.0,40070.0,Epithelium (imm),2
+3540.0,40072.0,Epithelium (imm),2
+3551.0,40066.0,Epithelium (imm),2
+3967.0,40071.0,Epithelium (imm),2
+3531.0,40070.0,Epithelium (imm),2
+3766.0,40067.0,Epithelium (imm),2
+3514.0,40068.0,Epithelium (imm),2
+3891.0,40075.0,Epithelium (imm),2
+3926.0,40069.0,Epithelium (imm),2
+4047.0,40075.0,Epithelium (imm),2
+3599.0,40077.0,Epithelium (imm),2
+3903.0,40078.0,Epithelium (imm),2
+3584.0,40079.0,Epithelium (imm),2
+3914.0,40079.0,Epithelium (imm),2
+3924.0,40076.0,Epithelium (imm),2
+4003.0,40076.0,Epithelium (imm),2
+3578.0,40079.0,Epithelium (imm),2
+3627.0,40075.0,Epithelium (imm),2
+3888.0,40081.0,Epithelium (imm),2
+3594.0,40081.0,Epithelium (imm),2
+3723.0,40078.0,Epithelium (imm),2
+3520.0,40084.0,Epithelium (imm),2
+3504.0,40080.0,Epithelium (imm),2
+3590.0,40088.0,Epithelium (imm),2
+3733.0,40087.0,Epithelium (imm),2
+3574.0,40091.0,Epithelium (imm),2
+4039.0,40087.0,Epithelium (imm),2
+3769.0,40088.0,Epithelium (imm),2
+3558.0,40090.0,Epithelium (imm),2
+3541.0,40088.0,Epithelium (imm),2
+3741.0,40089.0,Epithelium (imm),2
+3786.0,40088.0,Epithelium (imm),2
+3620.0,40091.0,Epithelium (imm),2
+3998.0,40094.0,Epithelium (imm),2
+4033.0,40091.0,Epithelium (imm),2
+3521.0,40094.0,Epithelium (imm),2
+3680.0,40092.0,Epithelium (imm),2
+3795.0,40094.0,Epithelium (imm),2
+3559.0,40103.0,Epithelium (imm),2
+3629.0,40106.0,Epithelium (imm),2
+4140.0,40099.0,Epithelium (imm),2
+3608.0,40102.0,Epithelium (imm),2
+3576.0,40107.0,Epithelium (imm),2
+3985.0,40103.0,Epithelium (imm),2
+4012.0,40109.0,Epithelium (imm),2
+4023.0,40110.0,Epithelium (imm),2
+3562.0,40111.0,Epithelium (imm),2
+3809.0,40104.0,Epithelium (imm),2
+3539.0,40108.0,Epithelium (imm),2
+3794.0,40116.0,Epithelium (imm),2
+3552.0,40115.0,Epithelium (imm),2
+3775.0,40113.0,Epithelium (imm),2
+3804.0,40119.0,Epithelium (imm),2
+3505.0,40113.0,Epithelium (imm),2
+3526.0,40116.0,Epithelium (imm),2
+3604.0,40120.0,Epithelium (imm),2
+3814.0,40117.0,Epithelium (imm),2
+4157.0,40116.0,Epithelium (imm),2
+3539.0,40120.0,Epithelium (imm),2
+4118.0,40121.0,Epithelium (imm),2
+3556.0,40129.0,Epithelium (imm),2
+3531.0,40131.0,Epithelium (imm),2
+3967.0,40128.0,Epithelium (imm),2
+3832.0,40127.0,Epithelium (imm),2
+3982.0,40132.0,Epithelium (imm),2
+4018.0,40127.0,Epithelium (imm),2
+4145.0,40130.0,Epithelium (imm),2
+3955.0,40133.0,Epithelium (imm),2
+3593.0,40134.0,Epithelium (imm),2
+4002.0,40134.0,Epithelium (imm),2
+4140.0,40138.0,Epithelium (imm),2
+3791.0,40136.0,Epithelium (imm),2
+3823.0,40141.0,Epithelium (imm),2
+3776.0,40140.0,Epithelium (imm),2
+3979.0,40146.0,Epithelium (imm),2
+3546.0,40146.0,Epithelium (imm),2
+3612.0,40145.0,Epithelium (imm),2
+3964.0,40148.0,Epithelium (imm),2
+3510.0,40144.0,Epithelium (imm),2
+3846.0,40148.0,Epithelium (imm),2
+4131.0,40147.0,Epithelium (imm),2
+3937.0,40149.0,Epithelium (imm),2
+4083.0,40150.0,Epithelium (imm),2
+4126.0,40154.0,Epithelium (imm),2
+3836.0,40164.0,Epithelium (imm),2
+4063.0,40158.0,Epithelium (imm),2
+4109.0,40159.0,Epithelium (imm),2
+3584.0,40160.0,Epithelium (imm),2
+3844.0,40162.0,Epithelium (imm),2
+3501.0,40163.0,Epithelium (imm),2
+3811.0,40163.0,Epithelium (imm),2
+3931.0,40164.0,Epithelium (imm),2
+3516.0,40172.0,Epithelium (imm),2
+4099.0,40170.0,Epithelium (imm),2
+4053.0,40170.0,Epithelium (imm),2
+3528.0,40178.0,Epithelium (imm),2
+3923.0,40175.0,Epithelium (imm),2
+4091.0,40175.0,Epithelium (imm),2
+3581.0,40175.0,Epithelium (imm),2
+4076.0,40174.0,Epithelium (imm),2
+3812.0,40178.0,Epithelium (imm),2
+3744.0,40176.0,Epithelium (imm),2
+4034.0,40176.0,Epithelium (imm),2
+3589.0,40179.0,Epithelium (imm),2
+3846.0,40184.0,Epithelium (imm),2
+3866.0,40184.0,Epithelium (imm),2
+3787.0,40178.0,Epithelium (imm),2
+3827.0,40182.0,Epithelium (imm),2
+3915.0,40188.0,Epithelium (imm),2
+3516.0,40189.0,Epithelium (imm),2
+4113.0,40192.0,Epithelium (imm),2
+3853.0,40190.0,Epithelium (imm),2
+4098.0,40192.0,Epithelium (imm),2
+4084.0,40192.0,Epithelium (imm),2
+3832.0,40194.0,Epithelium (imm),2
+4066.0,40191.0,Epithelium (imm),2
+3506.0,40199.0,Epithelium (imm),2
+3791.0,40198.0,Epithelium (imm),2
+4097.0,40198.0,Epithelium (imm),2
+3814.0,40197.0,Epithelium (imm),2
+3844.0,40203.0,Epithelium (imm),2
+3585.0,40198.0,Epithelium (imm),2
+3912.0,40202.0,Epithelium (imm),2
+4040.0,40198.0,Epithelium (imm),2
+3866.0,40204.0,Epithelium (imm),2
+3571.0,40203.0,Epithelium (imm),2
+3919.0,40209.0,Epithelium (imm),2
+3958.0,40202.0,Epithelium (imm),2
+4075.0,40207.0,Epithelium (imm),2
+3523.0,40205.0,Epithelium (imm),2
+3590.0,40203.0,Epithelium (imm),2
+4019.0,40204.0,Epithelium (imm),2
+4061.0,40206.0,Epithelium (imm),2
+3979.0,40205.0,Epithelium (imm),2
+3847.0,40217.0,Epithelium (imm),2
+3782.0,40212.0,Epithelium (imm),2
+3940.0,40212.0,Epithelium (imm),2
+3912.0,40218.0,Epithelium (imm),2
+4067.0,40219.0,Epithelium (imm),2
+3526.0,40216.0,Epithelium (imm),2
+3808.0,40215.0,Epithelium (imm),2
+4044.0,40217.0,Epithelium (imm),2
+3913.0,40220.0,Epithelium (imm),2
+3960.0,40219.0,Epithelium (imm),2
+3763.0,40219.0,Epithelium (imm),2
+4157.0,40220.0,Epithelium (imm),2
+3587.0,40223.0,Epithelium (imm),2
+3798.0,40219.0,Epithelium (imm),2
+3603.0,40227.0,Epithelium (imm),2
+3506.0,40224.0,Epithelium (imm),2
+3724.0,40222.0,Epithelium (imm),2
+4027.0,40223.0,Epithelium (imm),2
+3605.0,40224.0,Epithelium (imm),2
+3990.0,40225.0,Epithelium (imm),2
+4056.0,40232.0,Epithelium (imm),2
+4012.0,40227.0,Epithelium (imm),2
+3716.0,40230.0,Epithelium (imm),2
+3573.0,40232.0,Epithelium (imm),2
+3745.0,40229.0,Epithelium (imm),2
+3931.0,40232.0,Epithelium (imm),2
+4138.0,40232.0,Epithelium (imm),2
+3978.0,40232.0,Epithelium (imm),2
+3765.0,40241.0,Epithelium (imm),2
+3910.0,40240.0,Epithelium (imm),2
+3796.0,40240.0,Epithelium (imm),2
+4015.0,40240.0,Epithelium (imm),2
+3808.0,40242.0,Epithelium (imm),2
+4045.0,40242.0,Epithelium (imm),2
+3823.0,40246.0,Epithelium (imm),2
+3959.0,40240.0,Epithelium (imm),2
+3527.0,40247.0,Epithelium (imm),2
+3690.0,40240.0,Epithelium (imm),2
+4033.0,40244.0,Epithelium (imm),2
+3610.0,40247.0,Epithelium (imm),2
+3786.0,40244.0,Epithelium (imm),2
+3504.0,40246.0,Epithelium (imm),2
+3627.0,40243.0,Epithelium (imm),2
+3743.0,40247.0,Epithelium (imm),2
+3794.0,40246.0,Epithelium (imm),2
+3916.0,40250.0,Epithelium (imm),2
+3994.0,40247.0,Epithelium (imm),2
+3951.0,40248.0,Epithelium (imm),2
+3982.0,40247.0,Epithelium (imm),2
+4123.0,40245.0,Epithelium (imm),2
+3964.0,40251.0,Epithelium (imm),2
+3807.0,40255.0,Epithelium (imm),2
+4035.0,40256.0,Epithelium (imm),2
+3722.0,40253.0,Epithelium (imm),2
+3739.0,40254.0,Epithelium (imm),2
+3569.0,40259.0,Epithelium (imm),2
+4227.0,39502.0,Epithelium (imm),2
+4380.0,39501.0,Epithelium (imm),2
+4431.0,39503.0,Epithelium (imm),2
+4197.0,39506.0,Epithelium (imm),2
+4480.0,39505.0,Epithelium (imm),2
+4211.0,39510.0,Epithelium (imm),2
+4417.0,39508.0,Epithelium (imm),2
+4496.0,39506.0,Epithelium (imm),2
+4249.0,39516.0,Epithelium (imm),2
+4278.0,39509.0,Epithelium (imm),2
+4470.0,39515.0,Epithelium (imm),2
+4203.0,39519.0,Epithelium (imm),2
+4496.0,39520.0,Epithelium (imm),2
+4332.0,39517.0,Epithelium (imm),2
+4227.0,39521.0,Epithelium (imm),2
+4243.0,39526.0,Epithelium (imm),2
+4277.0,39530.0,Epithelium (imm),2
+4204.0,39532.0,Epithelium (imm),2
+4224.0,39531.0,Epithelium (imm),2
+4248.0,39546.0,Epithelium (imm),2
+4232.0,39553.0,Epithelium (imm),2
+4246.0,39551.0,Epithelium (imm),2
+4257.0,39551.0,Epithelium (imm),2
+4242.0,39560.0,Epithelium (imm),2
+4269.0,39559.0,Epithelium (imm),2
+4222.0,39561.0,Epithelium (imm),2
+4277.0,39567.0,Epithelium (imm),2
+4237.0,39574.0,Epithelium (imm),2
+4358.0,39576.0,Epithelium (imm),2
+4400.0,39577.0,Epithelium (imm),2
+4262.0,39580.0,Epithelium (imm),2
+4318.0,39582.0,Epithelium (imm),2
+4303.0,39583.0,Epithelium (imm),2
+4424.0,39583.0,Epithelium (imm),2
+4282.0,39587.0,Epithelium (imm),2
+4364.0,39592.0,Epithelium (imm),2
+4380.0,39585.0,Epithelium (imm),2
+4350.0,39588.0,Epithelium (imm),2
+4245.0,39596.0,Epithelium (imm),2
+4263.0,39591.0,Epithelium (imm),2
+4444.0,39589.0,Epithelium (imm),2
+4425.0,39594.0,Epithelium (imm),2
+4403.0,39598.0,Epithelium (imm),2
+4393.0,39596.0,Epithelium (imm),2
+4457.0,39599.0,Epithelium (imm),2
+4284.0,39607.0,Epithelium (imm),2
+4273.0,39608.0,Epithelium (imm),2
+4426.0,39605.0,Epithelium (imm),2
+4258.0,39611.0,Epithelium (imm),2
+4349.0,39611.0,Epithelium (imm),2
+4442.0,39609.0,Epithelium (imm),2
+4166.0,39614.0,Epithelium (imm),2
+4295.0,39608.0,Epithelium (imm),2
+4418.0,39613.0,Epithelium (imm),2
+4196.0,39610.0,Epithelium (imm),2
+4202.0,39611.0,Epithelium (imm),2
+4312.0,39614.0,Epithelium (imm),2
+4361.0,39618.0,Epithelium (imm),2
+4444.0,39625.0,Epithelium (imm),2
+4479.0,39621.0,Epithelium (imm),2
+4274.0,39626.0,Epithelium (imm),2
+4425.0,39624.0,Epithelium (imm),2
+4370.0,39622.0,Epithelium (imm),2
+4211.0,39626.0,Epithelium (imm),2
+4175.0,39633.0,Epithelium (imm),2
+4263.0,39633.0,Epithelium (imm),2
+4303.0,39630.0,Epithelium (imm),2
+4354.0,39633.0,Epithelium (imm),2
+4458.0,39630.0,Epithelium (imm),2
+4322.0,39633.0,Epithelium (imm),2
+4297.0,39641.0,Epithelium (imm),2
+4161.0,39644.0,Epithelium (imm),2
+4192.0,39639.0,Epithelium (imm),2
+4441.0,39644.0,Epithelium (imm),2
+4459.0,39646.0,Epithelium (imm),2
+4162.0,39647.0,Epithelium (imm),2
+4210.0,39648.0,Epithelium (imm),2
+4222.0,39649.0,Epithelium (imm),2
+4295.0,39648.0,Epithelium (imm),2
+4321.0,39650.0,Epithelium (imm),2
+4279.0,39650.0,Epithelium (imm),2
+4367.0,39653.0,Epithelium (imm),2
+4385.0,39651.0,Epithelium (imm),2
+4455.0,39651.0,Epithelium (imm),2
+4169.0,39661.0,Epithelium (imm),2
+4189.0,39660.0,Epithelium (imm),2
+4275.0,39660.0,Epithelium (imm),2
+4215.0,39665.0,Epithelium (imm),2
+4289.0,39664.0,Epithelium (imm),2
+4153.0,39666.0,Epithelium (imm),2
+4389.0,39667.0,Epithelium (imm),2
+4474.0,39662.0,Epithelium (imm),2
+4373.0,39668.0,Epithelium (imm),2
+4397.0,39666.0,Epithelium (imm),2
+4304.0,39667.0,Epithelium (imm),2
+4493.0,39667.0,Epithelium (imm),2
+4272.0,39675.0,Epithelium (imm),2
+4215.0,39677.0,Epithelium (imm),2
+4288.0,39676.0,Epithelium (imm),2
+4231.0,39681.0,Epithelium (imm),2
+4204.0,39680.0,Epithelium (imm),2
+4187.0,39681.0,Epithelium (imm),2
+4467.0,39681.0,Epithelium (imm),2
+4155.0,39689.0,Epithelium (imm),2
+4217.0,39689.0,Epithelium (imm),2
+4310.0,39686.0,Epithelium (imm),2
+4394.0,39689.0,Epithelium (imm),2
+4412.0,39687.0,Epithelium (imm),2
+4498.0,39689.0,Epithelium (imm),2
+4221.0,39691.0,Epithelium (imm),2
+4302.0,39689.0,Epithelium (imm),2
+4375.0,39688.0,Epithelium (imm),2
+4276.0,39693.0,Epithelium (imm),2
+4482.0,39689.0,Epithelium (imm),2
+4197.0,39698.0,Epithelium (imm),2
+4410.0,39703.0,Epithelium (imm),2
+4460.0,39699.0,Epithelium (imm),2
+4386.0,39704.0,Epithelium (imm),2
+4402.0,39703.0,Epithelium (imm),2
+4290.0,39706.0,Epithelium (imm),2
+4307.0,39706.0,Epithelium (imm),2
+4325.0,39707.0,Epithelium (imm),2
+4430.0,39707.0,Epithelium (imm),2
+4409.0,39714.0,Epithelium (imm),2
+4278.0,39711.0,Epithelium (imm),2
+4465.0,39719.0,Epithelium (imm),2
+4323.0,39722.0,Epithelium (imm),2
+4397.0,39722.0,Epithelium (imm),2
+4451.0,39717.0,Epithelium (imm),2
+4311.0,39725.0,Epithelium (imm),2
+4434.0,39721.0,Epithelium (imm),2
+4299.0,39723.0,Epithelium (imm),2
+4218.0,39720.0,Epithelium (imm),2
+4495.0,39726.0,Epithelium (imm),2
+4282.0,39727.0,Epithelium (imm),2
+4297.0,39727.0,Epithelium (imm),2
+4404.0,39726.0,Epithelium (imm),2
+4433.0,39731.0,Epithelium (imm),2
+4308.0,39738.0,Epithelium (imm),2
+4319.0,39735.0,Epithelium (imm),2
+4438.0,39739.0,Epithelium (imm),2
+4339.0,39737.0,Epithelium (imm),2
+4383.0,39739.0,Epithelium (imm),2
+4241.0,39745.0,Epithelium (imm),2
+4290.0,39749.0,Epithelium (imm),2
+4427.0,39748.0,Epithelium (imm),2
+4303.0,39755.0,Epithelium (imm),2
+4411.0,39751.0,Epithelium (imm),2
+4252.0,39756.0,Epithelium (imm),2
+4410.0,39766.0,Epithelium (imm),2
+4300.0,39769.0,Epithelium (imm),2
+4250.0,39770.0,Epithelium (imm),2
+4341.0,39767.0,Epithelium (imm),2
+4323.0,39773.0,Epithelium (imm),2
+4429.0,39776.0,Epithelium (imm),2
+4369.0,39781.0,Epithelium (imm),2
+4351.0,39788.0,Epithelium (imm),2
+4324.0,39788.0,Epithelium (imm),2
+4364.0,39785.0,Epithelium (imm),2
+4257.0,39788.0,Epithelium (imm),2
+4343.0,39788.0,Epithelium (imm),2
+4327.0,39787.0,Epithelium (imm),2
+4410.0,39795.0,Epithelium (imm),2
+4450.0,39796.0,Epithelium (imm),2
+4437.0,39801.0,Epithelium (imm),2
+4336.0,39805.0,Epithelium (imm),2
+4245.0,39802.0,Epithelium (imm),2
+4448.0,39810.0,Epithelium (imm),2
+4437.0,39814.0,Epithelium (imm),2
+4417.0,39815.0,Epithelium (imm),2
+4232.0,39811.0,Epithelium (imm),2
+4352.0,39818.0,Epithelium (imm),2
+4366.0,39813.0,Epithelium (imm),2
+4440.0,39820.0,Epithelium (imm),2
+4322.0,39821.0,Epithelium (imm),2
+4225.0,39823.0,Epithelium (imm),2
+4209.0,39825.0,Epithelium (imm),2
+4353.0,39833.0,Epithelium (imm),2
+4412.0,39831.0,Epithelium (imm),2
+4184.0,39832.0,Epithelium (imm),2
+4442.0,39838.0,Epithelium (imm),2
+4454.0,39836.0,Epithelium (imm),2
+4351.0,39839.0,Epithelium (imm),2
+4463.0,39834.0,Epithelium (imm),2
+4430.0,39841.0,Epithelium (imm),2
+4171.0,39842.0,Epithelium (imm),2
+4350.0,39848.0,Epithelium (imm),2
+4324.0,39850.0,Epithelium (imm),2
+4362.0,39849.0,Epithelium (imm),2
+4381.0,39849.0,Epithelium (imm),2
+4415.0,39851.0,Epithelium (imm),2
+4459.0,39856.0,Epithelium (imm),2
+4370.0,39849.0,Epithelium (imm),2
+4449.0,39857.0,Epithelium (imm),2
+4348.0,39862.0,Epithelium (imm),2
+4321.0,39864.0,Epithelium (imm),2
+4455.0,39867.0,Epithelium (imm),2
+4232.0,39863.0,Epithelium (imm),2
+4246.0,39864.0,Epithelium (imm),2
+4217.0,39867.0,Epithelium (imm),2
+4338.0,39867.0,Epithelium (imm),2
+4210.0,39870.0,Epithelium (imm),2
+4367.0,39870.0,Epithelium (imm),2
+4453.0,39877.0,Epithelium (imm),2
+4330.0,39876.0,Epithelium (imm),2
+4355.0,39877.0,Epithelium (imm),2
+4198.0,39875.0,Epithelium (imm),2
+4398.0,39875.0,Epithelium (imm),2
+4184.0,39878.0,Epithelium (imm),2
+4372.0,39876.0,Epithelium (imm),2
+4220.0,39885.0,Epithelium (imm),2
+4468.0,39885.0,Epithelium (imm),2
+4244.0,39888.0,Epithelium (imm),2
+4354.0,39890.0,Epithelium (imm),2
+4220.0,39891.0,Epithelium (imm),2
+4230.0,39892.0,Epithelium (imm),2
+4262.0,39892.0,Epithelium (imm),2
+4467.0,39893.0,Epithelium (imm),2
+4418.0,39888.0,Epithelium (imm),2
+4449.0,39893.0,Epithelium (imm),2
+4252.0,39896.0,Epithelium (imm),2
+4328.0,39895.0,Epithelium (imm),2
+4367.0,39894.0,Epithelium (imm),2
+4271.0,39898.0,Epithelium (imm),2
+4184.0,39899.0,Epithelium (imm),2
+4164.0,39897.0,Epithelium (imm),2
+4401.0,39901.0,Epithelium (imm),2
+4242.0,39907.0,Epithelium (imm),2
+4260.0,39907.0,Epithelium (imm),2
+4334.0,39906.0,Epithelium (imm),2
+4460.0,39908.0,Epithelium (imm),2
+4271.0,39909.0,Epithelium (imm),2
+4356.0,39908.0,Epithelium (imm),2
+4255.0,39912.0,Epithelium (imm),2
+4454.0,39913.0,Epithelium (imm),2
+4404.0,39913.0,Epithelium (imm),2
+4356.0,39914.0,Epithelium (imm),2
+4168.0,39917.0,Epithelium (imm),2
+4183.0,39919.0,Epithelium (imm),2
+4248.0,39923.0,Epithelium (imm),2
+4384.0,39916.0,Epithelium (imm),2
+4405.0,39925.0,Epithelium (imm),2
+4359.0,39924.0,Epithelium (imm),2
+4256.0,39925.0,Epithelium (imm),2
+4278.0,39927.0,Epithelium (imm),2
+4340.0,39922.0,Epithelium (imm),2
+4184.0,39928.0,Epithelium (imm),2
+4451.0,39924.0,Epithelium (imm),2
+4411.0,39925.0,Epithelium (imm),2
+4259.0,39931.0,Epithelium (imm),2
+4434.0,39926.0,Epithelium (imm),2
+4155.0,39934.0,Epithelium (imm),2
+4221.0,39930.0,Epithelium (imm),2
+4190.0,39939.0,Epithelium (imm),2
+4451.0,39936.0,Epithelium (imm),2
+4178.0,39934.0,Epithelium (imm),2
+4354.0,39937.0,Epithelium (imm),2
+4400.0,39936.0,Epithelium (imm),2
+4381.0,39936.0,Epithelium (imm),2
+4334.0,39940.0,Epithelium (imm),2
+4286.0,39942.0,Epithelium (imm),2
+4363.0,39941.0,Epithelium (imm),2
+4422.0,39952.0,Epithelium (imm),2
+4401.0,39953.0,Epithelium (imm),2
+4344.0,39953.0,Epithelium (imm),2
+4373.0,39953.0,Epithelium (imm),2
+4385.0,39954.0,Epithelium (imm),2
+4368.0,39960.0,Epithelium (imm),2
+4269.0,39967.0,Epithelium (imm),2
+4251.0,39964.0,Epithelium (imm),2
+4289.0,39969.0,Epithelium (imm),2
+4379.0,39971.0,Epithelium (imm),2
+4291.0,39974.0,Epithelium (imm),2
+4353.0,39977.0,Epithelium (imm),2
+4264.0,39987.0,Epithelium (imm),2
+4155.0,39981.0,Epithelium (imm),2
+4431.0,39981.0,Epithelium (imm),2
+4396.0,39982.0,Epithelium (imm),2
+4420.0,39984.0,Epithelium (imm),2
+4452.0,39991.0,Epithelium (imm),2
+4382.0,39991.0,Epithelium (imm),2
+4459.0,39993.0,Epithelium (imm),2
+4353.0,39994.0,Epithelium (imm),2
+4415.0,39998.0,Epithelium (imm),2
+4430.0,40000.0,Epithelium (imm),2
+4353.0,40002.0,Epithelium (imm),2
+4443.0,40006.0,Epithelium (imm),2
+4463.0,40006.0,Epithelium (imm),2
+4392.0,40006.0,Epithelium (imm),2
+4375.0,40004.0,Epithelium (imm),2
+4278.0,40010.0,Epithelium (imm),2
+4449.0,40007.0,Epithelium (imm),2
+4257.0,40011.0,Epithelium (imm),2
+4459.0,40013.0,Epithelium (imm),2
+4322.0,40009.0,Epithelium (imm),2
+4354.0,40016.0,Epithelium (imm),2
+4416.0,40013.0,Epithelium (imm),2
+4435.0,40015.0,Epithelium (imm),2
+4212.0,40016.0,Epithelium (imm),2
+4469.0,40023.0,Epithelium (imm),2
+4433.0,40024.0,Epithelium (imm),2
+4258.0,40028.0,Epithelium (imm),2
+4238.0,40023.0,Epithelium (imm),2
+4226.0,40030.0,Epithelium (imm),2
+4467.0,40031.0,Epithelium (imm),2
+4454.0,40028.0,Epithelium (imm),2
+4374.0,40033.0,Epithelium (imm),2
+4182.0,40031.0,Epithelium (imm),2
+4248.0,40034.0,Epithelium (imm),2
+4438.0,40037.0,Epithelium (imm),2
+4375.0,40043.0,Epithelium (imm),2
+4396.0,40037.0,Epithelium (imm),2
+4209.0,40039.0,Epithelium (imm),2
+4420.0,40041.0,Epithelium (imm),2
+4320.0,40048.0,Epithelium (imm),2
+4438.0,40048.0,Epithelium (imm),2
+4232.0,40047.0,Epithelium (imm),2
+4305.0,40050.0,Epithelium (imm),2
+4345.0,40054.0,Epithelium (imm),2
+4323.0,40053.0,Epithelium (imm),2
+4212.0,40061.0,Epithelium (imm),2
+4303.0,40065.0,Epithelium (imm),2
+4171.0,40059.0,Epithelium (imm),2
+4323.0,40067.0,Epithelium (imm),2
+4305.0,40070.0,Epithelium (imm),2
+4372.0,40069.0,Epithelium (imm),2
+4335.0,40073.0,Epithelium (imm),2
+4458.0,40074.0,Epithelium (imm),2
+4204.0,40071.0,Epithelium (imm),2
+4434.0,40073.0,Epithelium (imm),2
+4448.0,40076.0,Epithelium (imm),2
+4407.0,40071.0,Epithelium (imm),2
+4300.0,40075.0,Epithelium (imm),2
+4326.0,40084.0,Epithelium (imm),2
+4316.0,40085.0,Epithelium (imm),2
+4460.0,40085.0,Epithelium (imm),2
+4190.0,40081.0,Epithelium (imm),2
+4477.0,40082.0,Epithelium (imm),2
+4434.0,40088.0,Epithelium (imm),2
+4445.0,40087.0,Epithelium (imm),2
+4419.0,40088.0,Epithelium (imm),2
+4295.0,40092.0,Epithelium (imm),2
+4352.0,40086.0,Epithelium (imm),2
+4217.0,40093.0,Epithelium (imm),2
+4200.0,40097.0,Epithelium (imm),2
+4286.0,40097.0,Epithelium (imm),2
+4460.0,40099.0,Epithelium (imm),2
+4313.0,40102.0,Epithelium (imm),2
+4402.0,40095.0,Epithelium (imm),2
+4298.0,40102.0,Epithelium (imm),2
+4441.0,40100.0,Epithelium (imm),2
+4177.0,40100.0,Epithelium (imm),2
+4331.0,40099.0,Epithelium (imm),2
+4277.0,40103.0,Epithelium (imm),2
+4186.0,40114.0,Epithelium (imm),2
+4287.0,40116.0,Epithelium (imm),2
+4268.0,40115.0,Epithelium (imm),2
+4448.0,40119.0,Epithelium (imm),2
+4323.0,40117.0,Epithelium (imm),2
+4175.0,40118.0,Epithelium (imm),2
+4455.0,40130.0,Epithelium (imm),2
+4444.0,40127.0,Epithelium (imm),2
+4487.0,40126.0,Epithelium (imm),2
+4272.0,40134.0,Epithelium (imm),2
+4258.0,40130.0,Epithelium (imm),2
+4288.0,40136.0,Epithelium (imm),2
+4434.0,40134.0,Epithelium (imm),2
+4179.0,40141.0,Epithelium (imm),2
+4308.0,40136.0,Epithelium (imm),2
+4246.0,40141.0,Epithelium (imm),2
+4275.0,40145.0,Epithelium (imm),2
+4453.0,40146.0,Epithelium (imm),2
+4426.0,40142.0,Epithelium (imm),2
+4408.0,40145.0,Epithelium (imm),2
+4443.0,40151.0,Epithelium (imm),2
+4422.0,40145.0,Epithelium (imm),2
+4274.0,40155.0,Epithelium (imm),2
+4394.0,40149.0,Epithelium (imm),2
+4480.0,40151.0,Epithelium (imm),2
+4234.0,40157.0,Epithelium (imm),2
+4275.0,40162.0,Epithelium (imm),2
+4262.0,40163.0,Epithelium (imm),2
+4435.0,40163.0,Epithelium (imm),2
+4401.0,40164.0,Epithelium (imm),2
+4500.0,40165.0,Epithelium (imm),2
+4371.0,40160.0,Epithelium (imm),2
+4387.0,40162.0,Epithelium (imm),2
+4419.0,40166.0,Epithelium (imm),2
+4210.0,40166.0,Epithelium (imm),2
+4245.0,40169.0,Epithelium (imm),2
+4465.0,40166.0,Epithelium (imm),2
+4481.0,40177.0,Epithelium (imm),2
+4436.0,40177.0,Epithelium (imm),2
+4264.0,40178.0,Epithelium (imm),2
+4454.0,40173.0,Epithelium (imm),2
+4484.0,40181.0,Epithelium (imm),2
+4387.0,40182.0,Epithelium (imm),2
+4182.0,40182.0,Epithelium (imm),2
+4417.0,40180.0,Epithelium (imm),2
+4284.0,40178.0,Epithelium (imm),2
+4360.0,40179.0,Epithelium (imm),2
+4233.0,40185.0,Epithelium (imm),2
+4255.0,40184.0,Epithelium (imm),2
+4228.0,40189.0,Epithelium (imm),2
+4449.0,40190.0,Epithelium (imm),2
+4483.0,40187.0,Epithelium (imm),2
+4203.0,40188.0,Epithelium (imm),2
+4421.0,40186.0,Epithelium (imm),2
+4472.0,40193.0,Epithelium (imm),2
+4267.0,40193.0,Epithelium (imm),2
+4356.0,40196.0,Epithelium (imm),2
+4185.0,40201.0,Epithelium (imm),2
+4445.0,40200.0,Epithelium (imm),2
+4199.0,40199.0,Epithelium (imm),2
+4250.0,40201.0,Epithelium (imm),2
+4373.0,40205.0,Epithelium (imm),2
+4458.0,40202.0,Epithelium (imm),2
+4439.0,40203.0,Epithelium (imm),2
+4497.0,40208.0,Epithelium (imm),2
+4213.0,40208.0,Epithelium (imm),2
+4236.0,40209.0,Epithelium (imm),2
+4183.0,40211.0,Epithelium (imm),2
+4231.0,40209.0,Epithelium (imm),2
+4195.0,40214.0,Epithelium (imm),2
+4346.0,40213.0,Epithelium (imm),2
+4428.0,40210.0,Epithelium (imm),2
+4168.0,40213.0,Epithelium (imm),2
+4446.0,40216.0,Epithelium (imm),2
+4258.0,40218.0,Epithelium (imm),2
+4377.0,40224.0,Epithelium (imm),2
+4175.0,40229.0,Epithelium (imm),2
+4340.0,40224.0,Epithelium (imm),2
+4426.0,40229.0,Epithelium (imm),2
+4361.0,40231.0,Epithelium (imm),2
+4459.0,40234.0,Epithelium (imm),2
+4196.0,40234.0,Epithelium (imm),2
+4350.0,40238.0,Epithelium (imm),2
+4365.0,40240.0,Epithelium (imm),2
+4168.0,40242.0,Epithelium (imm),2
+4222.0,40239.0,Epithelium (imm),2
+4208.0,40240.0,Epithelium (imm),2
+4424.0,40245.0,Epithelium (imm),2
+4334.0,40243.0,Epithelium (imm),2
+4459.0,40251.0,Epithelium (imm),2
+4170.0,40253.0,Epithelium (imm),2
+4417.0,40251.0,Epithelium (imm),2
+4177.0,40255.0,Epithelium (imm),2
+3775.0,40258.0,Epithelium (imm),2
+3750.0,40261.0,Epithelium (imm),2
+3956.0,40261.0,Epithelium (imm),2
+3502.0,40258.0,Epithelium (imm),2
+3652.0,40259.0,Epithelium (imm),2
+3921.0,40266.0,Epithelium (imm),2
+3942.0,40266.0,Epithelium (imm),2
+4131.0,40267.0,Epithelium (imm),2
+4114.0,40262.0,Epithelium (imm),2
+3514.0,40266.0,Epithelium (imm),2
+3525.0,40264.0,Epithelium (imm),2
+3991.0,40270.0,Epithelium (imm),2
+3735.0,40271.0,Epithelium (imm),2
+3679.0,40265.0,Epithelium (imm),2
+3697.0,40267.0,Epithelium (imm),2
+3776.0,40269.0,Epithelium (imm),2
+3641.0,40267.0,Epithelium (imm),2
+3771.0,40271.0,Epithelium (imm),2
+3977.0,40271.0,Epithelium (imm),2
+3572.0,40275.0,Epithelium (imm),2
+3758.0,40275.0,Epithelium (imm),2
+3665.0,40272.0,Epithelium (imm),2
+3936.0,40277.0,Epithelium (imm),2
+4103.0,40274.0,Epithelium (imm),2
+4131.0,40275.0,Epithelium (imm),2
+4131.0,40280.0,Epithelium (imm),2
+3504.0,40278.0,Epithelium (imm),2
+3680.0,40281.0,Epithelium (imm),2
+3755.0,40280.0,Epithelium (imm),2
+3953.0,40280.0,Epithelium (imm),2
+3717.0,40275.0,Epithelium (imm),2
+3650.0,40284.0,Epithelium (imm),2
+3700.0,40284.0,Epithelium (imm),2
+3738.0,40284.0,Epithelium (imm),2
+3578.0,40285.0,Epithelium (imm),2
+3652.0,40292.0,Epithelium (imm),2
+3690.0,40290.0,Epithelium (imm),2
+3584.0,40293.0,Epithelium (imm),2
+3597.0,40288.0,Epithelium (imm),2
+3638.0,40291.0,Epithelium (imm),2
+4094.0,40296.0,Epithelium (imm),2
+3624.0,40302.0,Epithelium (imm),2
+3600.0,40304.0,Epithelium (imm),2
+4097.0,40319.0,Epithelium (imm),2
+3740.0,40313.0,Epithelium (imm),2
+3724.0,40319.0,Epithelium (imm),2
+3739.0,40320.0,Epithelium (imm),2
+3708.0,40320.0,Epithelium (imm),2
+3663.0,40321.0,Epithelium (imm),2
+3753.0,40321.0,Epithelium (imm),2
+4131.0,40321.0,Epithelium (imm),2
+3650.0,40324.0,Epithelium (imm),2
+3688.0,40324.0,Epithelium (imm),2
+3631.0,40326.0,Epithelium (imm),2
+3698.0,40326.0,Epithelium (imm),2
+3615.0,40330.0,Epithelium (imm),2
+3704.0,40330.0,Epithelium (imm),2
+3607.0,40333.0,Epithelium (imm),2
+3778.0,40333.0,Epithelium (imm),2
+3618.0,40341.0,Epithelium (imm),2
+3584.0,40335.0,Epithelium (imm),2
+3789.0,40336.0,Epithelium (imm),2
+4122.0,40338.0,Epithelium (imm),2
+4095.0,40342.0,Epithelium (imm),2
+4133.0,40343.0,Epithelium (imm),2
+3683.0,40350.0,Epithelium (imm),2
+3706.0,40351.0,Epithelium (imm),2
+3573.0,40346.0,Epithelium (imm),2
+3726.0,40352.0,Epithelium (imm),2
+4124.0,40359.0,Epithelium (imm),2
+3569.0,40357.0,Epithelium (imm),2
+3804.0,40361.0,Epithelium (imm),2
+4143.0,40358.0,Epithelium (imm),2
+4126.0,40364.0,Epithelium (imm),2
+3553.0,40367.0,Epithelium (imm),2
+4104.0,40370.0,Epithelium (imm),2
+3788.0,40370.0,Epithelium (imm),2
+4148.0,40375.0,Epithelium (imm),2
+3679.0,40370.0,Epithelium (imm),2
+3664.0,40371.0,Epithelium (imm),2
+4128.0,40380.0,Epithelium (imm),2
+3821.0,40377.0,Epithelium (imm),2
+4106.0,40378.0,Epithelium (imm),2
+3543.0,40378.0,Epithelium (imm),2
+3645.0,40379.0,Epithelium (imm),2
+3620.0,40384.0,Epithelium (imm),2
+3819.0,40390.0,Epithelium (imm),2
+3603.0,40387.0,Epithelium (imm),2
+4135.0,40392.0,Epithelium (imm),2
+3537.0,40392.0,Epithelium (imm),2
+3659.0,40391.0,Epithelium (imm),2
+3825.0,40395.0,Epithelium (imm),2
+3574.0,40391.0,Epithelium (imm),2
+3642.0,40396.0,Epithelium (imm),2
+3652.0,40410.0,Epithelium (imm),2
+3626.0,40410.0,Epithelium (imm),2
+3537.0,40412.0,Epithelium (imm),2
+3598.0,40409.0,Epithelium (imm),2
+3831.0,40418.0,Epithelium (imm),2
+3675.0,40413.0,Epithelium (imm),2
+3522.0,40415.0,Epithelium (imm),2
+3619.0,40422.0,Epithelium (imm),2
+3540.0,40421.0,Epithelium (imm),2
+3557.0,40419.0,Epithelium (imm),2
+3514.0,40424.0,Epithelium (imm),2
+3500.0,40430.0,Epithelium (imm),2
+3522.0,40425.0,Epithelium (imm),2
+3530.0,40430.0,Epithelium (imm),2
+3662.0,40428.0,Epithelium (imm),2
+3978.0,40425.0,Epithelium (imm),2
+3833.0,40433.0,Epithelium (imm),2
+4013.0,40427.0,Epithelium (imm),2
+4019.0,40428.0,Epithelium (imm),2
+4001.0,40433.0,Epithelium (imm),2
+3548.0,40437.0,Epithelium (imm),2
+3575.0,40433.0,Epithelium (imm),2
+3967.0,40433.0,Epithelium (imm),2
+4043.0,40435.0,Epithelium (imm),2
+3513.0,40441.0,Epithelium (imm),2
+3524.0,40441.0,Epithelium (imm),2
+3641.0,40435.0,Epithelium (imm),2
+3506.0,40443.0,Epithelium (imm),2
+3693.0,40436.0,Epithelium (imm),2
+3721.0,40436.0,Epithelium (imm),2
+3742.0,40436.0,Epithelium (imm),2
+3540.0,40442.0,Epithelium (imm),2
+3663.0,40441.0,Epithelium (imm),2
+3994.0,40445.0,Epithelium (imm),2
+4006.0,40445.0,Epithelium (imm),2
+3618.0,40441.0,Epithelium (imm),2
+3962.0,40445.0,Epithelium (imm),2
+3519.0,40448.0,Epithelium (imm),2
+3554.0,40449.0,Epithelium (imm),2
+3578.0,40448.0,Epithelium (imm),2
+3828.0,40448.0,Epithelium (imm),2
+3987.0,40452.0,Epithelium (imm),2
+4016.0,40452.0,Epithelium (imm),2
+3568.0,40450.0,Epithelium (imm),2
+3968.0,40456.0,Epithelium (imm),2
+3621.0,40460.0,Epithelium (imm),2
+3993.0,40458.0,Epithelium (imm),2
+3586.0,40454.0,Epithelium (imm),2
+3523.0,40461.0,Epithelium (imm),2
+3940.0,40458.0,Epithelium (imm),2
+4035.0,40457.0,Epithelium (imm),2
+3826.0,40461.0,Epithelium (imm),2
+3984.0,40460.0,Epithelium (imm),2
+3699.0,40460.0,Epithelium (imm),2
+3816.0,40463.0,Epithelium (imm),2
+3562.0,40467.0,Epithelium (imm),2
+3581.0,40466.0,Epithelium (imm),2
+3663.0,40462.0,Epithelium (imm),2
+3968.0,40465.0,Epithelium (imm),2
+3547.0,40463.0,Epithelium (imm),2
+4012.0,40467.0,Epithelium (imm),2
+3566.0,40468.0,Epithelium (imm),2
+3734.0,40465.0,Epithelium (imm),2
+4037.0,40473.0,Epithelium (imm),2
+4049.0,40466.0,Epithelium (imm),2
+3522.0,40474.0,Epithelium (imm),2
+4025.0,40470.0,Epithelium (imm),2
+3692.0,40472.0,Epithelium (imm),2
+3968.0,40476.0,Epithelium (imm),2
+3540.0,40474.0,Epithelium (imm),2
+3639.0,40471.0,Epithelium (imm),2
+3938.0,40476.0,Epithelium (imm),2
+3736.0,40472.0,Epithelium (imm),2
+3997.0,40475.0,Epithelium (imm),2
+3807.0,40476.0,Epithelium (imm),2
+3552.0,40481.0,Epithelium (imm),2
+4014.0,40481.0,Epithelium (imm),2
+4033.0,40484.0,Epithelium (imm),2
+4041.0,40482.0,Epithelium (imm),2
+3966.0,40482.0,Epithelium (imm),2
+3668.0,40483.0,Epithelium (imm),2
+4061.0,40481.0,Epithelium (imm),2
+3650.0,40481.0,Epithelium (imm),2
+3977.0,40484.0,Epithelium (imm),2
+3798.0,40482.0,Epithelium (imm),2
+3686.0,40484.0,Epithelium (imm),2
+3538.0,40489.0,Epithelium (imm),2
+3525.0,40489.0,Epithelium (imm),2
+3933.0,40487.0,Epithelium (imm),2
+4003.0,40491.0,Epithelium (imm),2
+4070.0,40490.0,Epithelium (imm),2
+3979.0,40494.0,Epithelium (imm),2
+3993.0,40491.0,Epithelium (imm),2
+4027.0,40498.0,Epithelium (imm),2
+4056.0,40497.0,Epithelium (imm),2
+3523.0,40499.0,Epithelium (imm),2
+4016.0,40499.0,Epithelium (imm),2
+4042.0,40500.0,Epithelium (imm),2
+3946.0,40498.0,Epithelium (imm),2
+4075.0,40500.0,Epithelium (imm),2
+4354.0,40257.0,Epithelium (imm),2
+4229.0,40257.0,Epithelium (imm),2
+4407.0,40258.0,Epithelium (imm),2
+4159.0,40264.0,Epithelium (imm),2
+4445.0,40264.0,Epithelium (imm),2
+4498.0,40260.0,Epithelium (imm),2
+4472.0,40261.0,Epithelium (imm),2
+4265.0,40265.0,Epithelium (imm),2
+4213.0,40266.0,Epithelium (imm),2
+4353.0,40275.0,Epithelium (imm),2
+4196.0,40271.0,Epithelium (imm),2
+4422.0,40275.0,Epithelium (imm),2
+4180.0,40273.0,Epithelium (imm),2
+4405.0,40278.0,Epithelium (imm),2
+4488.0,40278.0,Epithelium (imm),2
+4352.0,40284.0,Epithelium (imm),2
+4171.0,40285.0,Epithelium (imm),2
+4228.0,40285.0,Epithelium (imm),2
+4377.0,40284.0,Epithelium (imm),2
+4206.0,40289.0,Epithelium (imm),2
+4254.0,40290.0,Epithelium (imm),2
+4268.0,40291.0,Epithelium (imm),2
+4404.0,40295.0,Epithelium (imm),2
+4361.0,40298.0,Epithelium (imm),2
+4283.0,40296.0,Epithelium (imm),2
+4391.0,40298.0,Epithelium (imm),2
+4244.0,40298.0,Epithelium (imm),2
+4170.0,40304.0,Epithelium (imm),2
+4499.0,40305.0,Epithelium (imm),2
+4486.0,40304.0,Epithelium (imm),2
+4218.0,40306.0,Epithelium (imm),2
+4233.0,40309.0,Epithelium (imm),2
+4261.0,40312.0,Epithelium (imm),2
+4156.0,40307.0,Epithelium (imm),2
+4202.0,40310.0,Epithelium (imm),2
+4299.0,40306.0,Epithelium (imm),2
+4472.0,40306.0,Epithelium (imm),2
+4246.0,40318.0,Epithelium (imm),2
+4189.0,40313.0,Epithelium (imm),2
+4263.0,40319.0,Epithelium (imm),2
+4391.0,40326.0,Epithelium (imm),2
+4281.0,40319.0,Epithelium (imm),2
+4490.0,40327.0,Epithelium (imm),2
+4468.0,40328.0,Epithelium (imm),2
+4182.0,40325.0,Epithelium (imm),2
+4202.0,40331.0,Epithelium (imm),2
+4235.0,40332.0,Epithelium (imm),2
+4216.0,40333.0,Epithelium (imm),2
+4247.0,40329.0,Epithelium (imm),2
+4162.0,40330.0,Epithelium (imm),2
+4271.0,40338.0,Epithelium (imm),2
+4313.0,40332.0,Epithelium (imm),2
+4213.0,40342.0,Epithelium (imm),2
+4222.0,40343.0,Epithelium (imm),2
+4198.0,40344.0,Epithelium (imm),2
+4467.0,40345.0,Epithelium (imm),2
+4235.0,40346.0,Epithelium (imm),2
+4309.0,40346.0,Epithelium (imm),2
+4247.0,40348.0,Epithelium (imm),2
+4432.0,40343.0,Epithelium (imm),2
+4261.0,40346.0,Epithelium (imm),2
+4225.0,40352.0,Epithelium (imm),2
+4461.0,40348.0,Epithelium (imm),2
+4280.0,40348.0,Epithelium (imm),2
+4421.0,40348.0,Epithelium (imm),2
+4157.0,40354.0,Epithelium (imm),2
+4496.0,40351.0,Epithelium (imm),2
+4449.0,40351.0,Epithelium (imm),2
+4169.0,40358.0,Epithelium (imm),2
+4229.0,40359.0,Epithelium (imm),2
+4247.0,40358.0,Epithelium (imm),2
+4366.0,40356.0,Epithelium (imm),2
+4186.0,40364.0,Epithelium (imm),2
+4199.0,40364.0,Epithelium (imm),2
+4413.0,40362.0,Epithelium (imm),2
+4440.0,40361.0,Epithelium (imm),2
+4252.0,40364.0,Epithelium (imm),2
+4489.0,40363.0,Epithelium (imm),2
+4324.0,40365.0,Epithelium (imm),2
+4163.0,40366.0,Epithelium (imm),2
+4390.0,40367.0,Epithelium (imm),2
+4269.0,40370.0,Epithelium (imm),2
+4459.0,40371.0,Epithelium (imm),2
+4279.0,40374.0,Epithelium (imm),2
+4301.0,40370.0,Epithelium (imm),2
+4482.0,40375.0,Epithelium (imm),2
+4289.0,40378.0,Epithelium (imm),2
+4465.0,40378.0,Epithelium (imm),2
+4261.0,40380.0,Epithelium (imm),2
+4426.0,40373.0,Epithelium (imm),2
+4386.0,40378.0,Epithelium (imm),2
+4379.0,40382.0,Epithelium (imm),2
+4273.0,40388.0,Epithelium (imm),2
+4298.0,40388.0,Epithelium (imm),2
+4288.0,40389.0,Epithelium (imm),2
+4442.0,40390.0,Epithelium (imm),2
+4424.0,40391.0,Epithelium (imm),2
+4454.0,40388.0,Epithelium (imm),2
+4370.0,40387.0,Epithelium (imm),2
+4477.0,40392.0,Epithelium (imm),2
+4309.0,40386.0,Epithelium (imm),2
+4339.0,40387.0,Epithelium (imm),2
+4282.0,40398.0,Epithelium (imm),2
+4297.0,40398.0,Epithelium (imm),2
+4424.0,40398.0,Epithelium (imm),2
+4322.0,40393.0,Epithelium (imm),2
+4454.0,40403.0,Epithelium (imm),2
+4333.0,40406.0,Epithelium (imm),2
+4472.0,40404.0,Epithelium (imm),2
+4361.0,40404.0,Epithelium (imm),2
+4408.0,40405.0,Epithelium (imm),2
+4384.0,40406.0,Epithelium (imm),2
+4343.0,40410.0,Epithelium (imm),2
+4298.0,40426.0,Epithelium (imm),2
+4476.0,40424.0,Epithelium (imm),2
+4324.0,40426.0,Epithelium (imm),2
+4341.0,40426.0,Epithelium (imm),2
+4399.0,40421.0,Epithelium (imm),2
+4419.0,40427.0,Epithelium (imm),2
+4308.0,40427.0,Epithelium (imm),2
+4430.0,40429.0,Epithelium (imm),2
+4394.0,40429.0,Epithelium (imm),2
+4353.0,40432.0,Epithelium (imm),2
+4405.0,40432.0,Epithelium (imm),2
+4368.0,40431.0,Epithelium (imm),2
+4387.0,40432.0,Epithelium (imm),2
+4330.0,40439.0,Epithelium (imm),2
+4353.0,40439.0,Epithelium (imm),2
+4303.0,40440.0,Epithelium (imm),2
+4342.0,40437.0,Epithelium (imm),2
+4476.0,40443.0,Epithelium (imm),2
+4498.0,40439.0,Epithelium (imm),2
+4384.0,40450.0,Epithelium (imm),2
+4406.0,40450.0,Epithelium (imm),2
+4364.0,40451.0,Epithelium (imm),2
+4399.0,40449.0,Epithelium (imm),2
+4327.0,40454.0,Epithelium (imm),2
+4499.0,40453.0,Epithelium (imm),2
+4366.0,40460.0,Epithelium (imm),2
+4477.0,40459.0,Epithelium (imm),2
+4495.0,40471.0,Epithelium (imm),2
+4476.0,40486.0,Epithelium (imm),2
+4496.0,40498.0,Epithelium (imm),2
+4064.0,39506.0,Epithelium (imm),2
+4077.0,39525.0,Epithelium (imm),2
+4103.0,39585.0,Epithelium (imm),2
+3539.0,39598.0,Epithelium (imm),2
+4149.0,39641.0,Epithelium (imm),2
+4127.0,39652.0,Epithelium (imm),2
+3843.0,39658.0,Epithelium (imm),2
+3788.0,39692.0,Epithelium (imm),2
+3850.0,39699.0,Epithelium (imm),2
+3777.0,39708.0,Epithelium (imm),2
+3847.0,39715.0,Epithelium (imm),2
+3768.0,39718.0,Epithelium (imm),2
+3548.0,39737.0,Epithelium (imm),2
+3813.0,39759.0,Epithelium (imm),2
+4062.0,39752.0,Epithelium (imm),2
+3605.0,39774.0,Epithelium (imm),2
+3833.0,39840.0,Epithelium (imm),2
+3524.0,39863.0,Epithelium (imm),2
+3828.0,39873.0,Epithelium (imm),2
+4071.0,39893.0,Epithelium (imm),2
+3822.0,39898.0,Epithelium (imm),2
+4082.0,39900.0,Epithelium (imm),2
+4109.0,39909.0,Epithelium (imm),2
+3822.0,39912.0,Epithelium (imm),2
+3664.0,39914.0,Epithelium (imm),2
+3827.0,39947.0,Epithelium (imm),2
+3784.0,39994.0,Epithelium (imm),2
+3837.0,40024.0,Epithelium (imm),2
+3807.0,40048.0,Epithelium (imm),2
+3861.0,40065.0,Epithelium (imm),2
+3908.0,40093.0,Epithelium (imm),2
+3957.0,40099.0,Epithelium (imm),2
+3631.0,40125.0,Epithelium (imm),2
+3576.0,40136.0,Epithelium (imm),2
+4117.0,40196.0,Epithelium (imm),2
+4078.0,40224.0,Epithelium (imm),2
+4201.0,39559.0,Epithelium (imm),2
+4216.0,39584.0,Epithelium (imm),2
+4302.0,39781.0,Epithelium (imm),2
+4303.0,39803.0,Epithelium (imm),2
+4300.0,39835.0,Epithelium (imm),2
+4296.0,39924.0,Epithelium (imm),2
+4464.0,39937.0,Epithelium (imm),2
+4341.0,39965.0,Epithelium (imm),2
+4184.0,40145.0,Epithelium (imm),2
+4396.0,40206.0,Epithelium (imm),2
+4400.0,40236.0,Epithelium (imm),2
+3822.0,40260.0,Epithelium (imm),2
+3516.0,40319.0,Epithelium (imm),2
+4115.0,40392.0,Epithelium (imm),2
+3902.0,40453.0,Epithelium (imm),2
+3767.0,40483.0,Epithelium (imm),2
+3633.0,40496.0,Epithelium (imm),2
+4220.0,40372.0,Epithelium (imm),2
+4199.0,40380.0,Epithelium (imm),2
+4160.0,40396.0,Epithelium (imm),2
+4274.0,40408.0,Epithelium (imm),2
+4390.0,40464.0,Epithelium (imm),2
+4366.0,40472.0,Epithelium (imm),2
+4464.0,40475.0,Epithelium (imm),2
+4489.771471669746,39930.33450118127,CD34,0
+4043.4089295141616,39931.02798288503,CD34,0
+3812.468535944291,39692.89454425502,CD34,0
+3566.591480292484,39865.49081734421,CD34,0
+3876.084732786783,40116.67984303162,CD34,0
+3575.5027241417465,40332.18728153208,CD34,0
+3976.7850053504458,40100.57223292547,CD34,0
+4177.112076641843,40173.39437583464,CD34,0
+4036.668982227398,40311.052420361106,CD34,0
+4059.7292338068746,40309.94571490131,CD34,0
+4057.7994216881934,40333.88889399391,CD34,0
+4050.1843094516585,40349.605447864225,CD34,0
+4035.6907815528684,40362.0528431326,CD34,0
+3943.023266691953,40377.47139324517,CD34,0
+4241.2943705726975,40402.05489523722,CD34,0
+4177.0622193778345,40432.58734931113,CD34,0
+3974.2536438362313,40423.717079992646,CD34,0
+3952.4939652360936,40442.88779690766,CD34,0
+4087.49990602642,40471.14369801099,CD34,0
+4283.119877874493,40484.738792926386,CD34,0
+3930.346551596859,40472.05099407119,CD34,0
+4097.462495504282,39543.832667869,SMA,7
+4108.709012664904,39924.55502841544,SMA,7
+4322.405180241714,40013.907968777035,SMA,7
+3783.668705272775,39506.63781351614,SMA,7
+3839.469279965697,39744.98062513598,SMA,7
+3750.7300732731705,39736.533543163765,SMA,7
+3729.969642697888,39755.74303358267,SMA,7
+3712.168182693257,39776.06809253815,SMA,7
+3527.4446659571845,39816.93644651575,SMA,7
+3813.9009349056378,39888.09687063686,SMA,7
+3655.9156107403946,39962.026819519284,SMA,7
+3509.7971797983246,40400.69116055046,SMA,7
+3887.465296612716,40442.36601520323,SMA,7
+4237.618650264652,40135.712091571135,SMA,7
+3964.1116114520946,40298.22947432716,SMA,7
+4019.526671789228,40314.39026289406,SMA,7
+4015.7357314828914,40386.297347179694,SMA,7
+3845.195574270765,39520.033499031946,Epithelium (str),3
+3640.4272761833613,39510.08643468078,Epithelium (str),3
+3629.2416803904116,39514.65616626205,Epithelium (str),3
+3655.794868518485,39526.694779141006,Epithelium (str),3
+3614.3216439486177,39538.09528980383,Epithelium (str),3
+3526.271497249672,39537.68096553436,Epithelium (str),3
+3731.6513083228356,39557.65928363798,Epithelium (str),3
+3860.089021482184,39574.65204194055,Epithelium (str),3
+3577.0304159209236,39570.673876508146,Epithelium (str),3
+3837.4464153689187,39590.78624127709,Epithelium (str),3
+3859.4298719157223,39591.63925836307,Epithelium (str),3
+3639.6340799515883,39582.10983947814,Epithelium (str),3
+3870.150185661759,39599.06050308008,Epithelium (str),3
+3894.093364754362,39600.990315198746,Epithelium (str),3
+3549.8867621574173,39599.64320615215,Epithelium (str),3
+3890.7078856407034,39610.86647493557,Epithelium (str),3
+3846.508331523636,39615.155928912674,Epithelium (str),3
+3890.048736074242,39627.853691358105,Epithelium (str),3
+3546.6862874865137,39630.54234791482,Epithelium (str),3
+3915.641449681371,39638.85428270829,Epithelium (str),3
+3897.2284766909806,39649.14808791132,Epithelium (str),3
+3882.045888798612,39653.56272547695,Epithelium (str),3
+3852.9901490700063,39654.43678991329,Epithelium (str),3
+3897.7624426689226,39661.17783771349,Epithelium (str),3
+3862.5948942794585,39664.81700520094,Epithelium (str),3
+3885.5388253472083,39666.708043815706,Epithelium (str),3
+3547.7929929463057,39653.6025994943,Epithelium (str),3
+3900.643866231758,39664.29190229978,Epithelium (str),3
+3914.9734370381184,39681.86072128096,Epithelium (str),3
+3857.7836585979394,39685.64611970725,Epithelium (str),3
+3903.865388252988,39684.431956812514,Epithelium (str),3
+3541.1383552307166,39670.35717489338,Epithelium (str),3
+3541.6335477047464,39683.38617272039,Epithelium (str),3
+3720.1887561224726,39698.320614119046,Epithelium (str),3
+3543.8170481972134,39704.486701754075,Epithelium (str),3
+3907.388235228701,39722.59724927654,Epithelium (str),3
+3901.276426567843,39725.36235232766,Epithelium (str),3
+3856.1939449376514,39726.61528872629,Epithelium (str),3
+3703.5416381583345,39714.68745447901,Epithelium (str),3
+3886.2101591872033,39726.77924581871,Epithelium (str),3
+3894.8156563718026,39737.12068760245,Epithelium (str),3
+3884.668082107618,39740.72994466278,Epithelium (str),3
+3546.6508351793464,39734.619236515355,Epithelium (str),3
+3669.713436252119,39735.39138539681,Epithelium (str),3
+3682.5097930556813,39740.8916810719,Epithelium (str),3
+3854.147812307242,39753.55621189346,Epithelium (str),3
+3660.022280958056,39753.02888830901,Epithelium (str),3
+3645.149881096963,39749.4495416758,Epithelium (str),3
+3613.135170797702,39749.208037575554,Epithelium (str),3
+3847.221760064285,39777.30552346651,Epithelium (str),3
+3881.4975178638324,39796.649060550735,Epithelium (str),3
+3843.215904888076,39803.16965160102,Epithelium (str),3
+3869.769093016149,39815.20826447997,Epithelium (str),3
+3666.999290978456,39805.33874713664,Epithelium (str),3
+3776.7227061929307,39814.600072690955,Epithelium (str),3
+3857.002646639703,39834.727942930156,Epithelium (str),3
+3836.8625921269704,39837.94946495139,Epithelium (str),3
+3891.8600069978907,39839.08275964154,Epithelium (str),3
+3667.5243938796048,39843.38771908894,Epithelium (str),3
+3837.2026905853627,39854.97545487782,Epithelium (str),3
+3796.0008805428624,39859.381229366656,Epithelium (str),3
+3888.0092458373183,39860.94989567663,Epithelium (str),3
+3659.870508139161,39860.10352098411,Epithelium (str),3
+3787.4640672892915,39873.06051368335,Epithelium (str),3
+3878.968377032924,39887.61940431643,Epithelium (str),3
+3502.979705160175,39880.03530302045,Epithelium (str),3
+3520.927396103651,39881.73247411568,Epithelium (str),3
+3874.3122353670437,39904.451526723315,Epithelium (str),3
+3533.1033768446623,39903.220738188444,Epithelium (str),3
+3663.811000581087,39913.296307324854,Epithelium (str),3
+3511.7314332836177,39912.39897485488,Epithelium (str),3
+3572.724336303667,39913.764910568505,Epithelium (str),3
+3665.916954065733,39936.39533240824,Epithelium (str),3
+3572.870567242514,39935.78714061922,Epithelium (str),3
+3516.641263323281,39940.61056057427,Epithelium (str),3
+3541.622463944649,39941.579898172,Epithelium (str),3
+3592.7004337239705,39940.55960279684,Epithelium (str),3
+3872.829979141691,39968.44217381793,Epithelium (str),3
+3839.622153298028,39973.15813633805,Epithelium (str),3
+3598.075545810546,39956.78021221797,Epithelium (str),3
+3872.2483765830493,39983.430894190744,Epithelium (str),3
+3600.0651787834654,39982.87698137592,Epithelium (str),3
+3669.3146174529265,40003.57759109696,Epithelium (str),3
+3668.1990489163427,40006.53656166763,Epithelium (str),3
+4455.172241051952,39506.67438599318,Epithelium (str),3
+4171.764673955509,39511.68945278448,Epithelium (str),3
+3963.3782557309905,39517.61403631927,Epithelium (str),3
+4001.233360163742,39522.0851735424,Epithelium (str),3
+4022.450209709148,39516.903928975364,Epithelium (str),3
+4190.9741643744155,39532.44988335977,Epithelium (str),3
+4033.248070463004,39522.32667764265,Epithelium (str),3
+4214.607155435743,39542.37367967727,Epithelium (str),3
+4221.7182121214555,39539.647350130086,Epithelium (str),3
+4204.1106196363735,39554.9761689613,Epithelium (str),3
+3999.2647745411505,39547.02760065985,Epithelium (str),3
+4021.0931370723165,39551.87760984527,Epithelium (str),3
+4038.9245075040653,39556.572525015086,Epithelium (str),3
+4027.6613647032973,39563.140752646046,Epithelium (str),3
+4235.117218833989,39581.19812170776,Epithelium (str),3
+4243.188750040644,39579.50981368933,Epithelium (str),3
+4037.033468889291,39579.51645608282,Epithelium (str),3
+4076.38301382093,39597.05536463688,Epithelium (str),3
+4267.04551904864,39609.45734400786,Epithelium (str),3
+4255.74360274396,39617.02481966369,Epithelium (str),3
+4059.619575345064,39616.41994907141,Epithelium (str),3
+4051.625591146226,39616.109761040134,Epithelium (str),3
+4211.195087091709,39630.30750586449,Epithelium (str),3
+4194.896930662759,39637.6811140008,Epithelium (str),3
+4366.496176410406,39651.3448928472,Epithelium (str),3
+4190.357109508606,39651.51549233311,Epithelium (str),3
+4282.094060275694,39660.07889481705,Epithelium (str),3
+4049.0754029649934,39656.04090853043,Epithelium (str),3
+4212.719438017714,39668.39525132071,Epithelium (str),3
+4274.40140103134,39677.79394473708,Epithelium (str),3
+4021.3977832235446,39672.98048837225,Epithelium (str),3
+4427.05370781066,39689.72177898436,Epithelium (str),3
+4276.778769043354,39693.898233646476,Epithelium (str),3
+4384.8138762393955,39695.088027994134,Epithelium (str),3
+4054.024006508565,39683.25324622496,Epithelium (str),3
+4280.620667127136,39698.05031976153,Epithelium (str),3
+4476.473279998664,39705.649926527796,Epithelium (str),3
+4462.6776751702455,39700.110857348795,Epithelium (str),3
+4406.943563725045,39717.96327513087,Epithelium (str),3
+4024.154023197859,39705.111519183236,Epithelium (str),3
+4059.8943110691753,39712.50285347312,Epithelium (str),3
+4105.743399700763,39717.28417872752,Epithelium (str),3
+4299.364875499126,39730.80172663508,Epithelium (str),3
+4413.085282813019,39740.21814620503,Epithelium (str),3
+4408.157726619773,39764.0450047859,Epithelium (str),3
+4039.2413379288255,39754.73382196759,Epithelium (str),3
+4001.269912984345,39753.26042881903,Epithelium (str),3
+4321.912208450989,39768.70446764854,Epithelium (str),3
+4312.841429219478,39770.35400216306,Epithelium (str),3
+4302.538760939657,39777.96025132281,Epithelium (str),3
+4397.467323300855,39781.64373419419,Epithelium (str),3
+4405.306213484055,39785.95091432489,Epithelium (str),3
+4408.91547054438,39796.09848858907,Epithelium (str),3
+4320.632682821977,39801.67965246873,Epithelium (str),3
+4412.942373070917,39821.27355672998,Epithelium (str),3
+4313.70663057902,39825.4289640418,Epithelium (str),3
+4230.002437514679,39816.17650156427,Epithelium (str),3
+3958.051880738552,39809.62710060031,Epithelium (str),3
+3972.6140925683694,39821.20043143236,Epithelium (str),3
+3954.317440089708,39828.49649256083,Epithelium (str),3
+4308.856621393594,39847.25732657295,Epithelium (str),3
+4215.723824485763,39874.666852983784,Epithelium (str),3
+4190.471209337029,39880.69225156004,Epithelium (str),3
+4005.610324738902,39873.51915333678,Epithelium (str),3
+3996.423224995662,39878.16643192588,Epithelium (str),3
+4179.819579522021,39897.29173294348,Epithelium (str),3
+3996.7633234540544,39895.1924218523,Epithelium (str),3
+4251.300155264648,39912.074401523205,Epithelium (str),3
+4432.396688786814,39913.0969175817,Epithelium (str),3
+4327.436872673155,39910.02494769605,Epithelium (str),3
+4332.734437751913,39928.2440531669,Epithelium (str),3
+4154.062908822461,39916.30735584282,Epithelium (str),3
+4429.2349876198205,39942.99681131952,Epithelium (str),3
+3958.4728474015083,39927.732235052725,Epithelium (str),3
+4331.2699076801455,39940.19625596125,Epithelium (str),3
+4115.54865482325,39928.82343504223,Epithelium (str),3
+4257.131686321346,39942.32325679621,Epithelium (str),3
+4346.327311983993,39964.79858462031,Epithelium (str),3
+4010.5799756328006,39951.770687306715,Epithelium (str),3
+4100.4347508619085,39957.258798708295,Epithelium (str),3
+3952.1195346404024,39962.512048403085,Epithelium (str),3
+3975.8300727095493,39970.43734867091,Epithelium (str),3
+4082.7883848729152,39973.58686556435,Epithelium (str),3
+4379.1773132156795,39995.09507647403,Epithelium (str),3
+4073.4074176101285,39983.23038427772,Epithelium (str),3
+4110.069406498477,39992.65898812121,Epithelium (str),3
+3989.044074979326,39990.96513822273,Epithelium (str),3
+4073.7087425646123,40001.255622229015,Epithelium (str),3
+4432.4775569913745,40014.17606210766,Epithelium (str),3
+4056.7990731499012,39998.59797661285,Epithelium (str),3
+4416.101853554605,40023.54816629366,Epithelium (str),3
+4337.044939079351,40023.48280355937,Epithelium (str),3
+3951.3739749893293,40007.51698302546,Epithelium (str),3
+4054.025107022002,40018.50539010213,Epithelium (str),3
+3972.969696497039,40018.362480360025,Epithelium (str),3
+4418.634315582255,40035.65546310364,Epithelium (str),3
+4222.47151467945,40036.04984053624,Epithelium (str),3
+3845.22104333127,40009.40247976018,Epithelium (str),3
+3595.6715885681597,40018.73358975897,Epithelium (str),3
+3866.235162280339,40035.23669746757,Epithelium (str),3
+3695.402523534087,40027.607180274186,Epithelium (str),3
+3672.0708574272417,40035.70862190797,Epithelium (str),3
+3906.011215754981,40041.78387774821,Epithelium (str),3
+3761.925632656349,40041.19673330952,Epithelium (str),3
+3875.7623604819705,40047.615408804915,Epithelium (str),3
+3581.8671206629488,40039.2137427301,Epithelium (str),3
+3566.025383204119,40060.61559671824,Epithelium (str),3
+3604.763415149998,40068.12325151985,Epithelium (str),3
+3763.643851101901,40074.28823864147,Epithelium (str),3
+3657.801107475117,40068.17975117735,Epithelium (str),3
+3685.78005217105,40069.26540928681,Epithelium (str),3
+3673.7115288649743,40070.798623289615,Epithelium (str),3
+3630.5887697805833,40073.12835472092,Epithelium (str),3
+3563.3677375879483,40077.525266132965,Epithelium (str),3
+3792.040441264047,40090.40139062767,Epithelium (str),3
+3545.9540126224147,40087.857844839906,Epithelium (str),3
+3626.6216881082823,40097.99323483056,Epithelium (str),3
+3809.290209137153,40110.085026170265,Epithelium (str),3
+3560.167262917046,40108.42440789564,Epithelium (str),3
+3612.1669337134012,40109.44138207408,Epithelium (str),3
+3535.875122289255,40115.48782800066,Epithelium (str),3
+3600.2446413461716,40132.996826127586,Epithelium (str),3
+3511.001379102823,40137.539968478486,Epithelium (str),3
+3610.654767060931,40148.412055043416,Epithelium (str),3
+3809.5051240070247,40156.1279823214,Epithelium (str),3
+3833.293209083992,40162.054786539506,Epithelium (str),3
+3583.7138438937623,40146.36592241301,Epithelium (str),3
+3577.5931721561137,40175.150247614234,Epithelium (str),3
+3604.572868827193,40176.1971322198,Epithelium (str),3
+3846.119476314673,40192.57505633987,Epithelium (str),3
+3588.9637723918195,40191.60349805882,Epithelium (str),3
+3832.198687897735,40216.05295338556,Epithelium (str),3
+3909.140785811551,40219.0385131866,Epithelium (str),3
+3584.3851777337595,40206.43712441602,Epithelium (str),3
+3909.7522987973107,40229.069766939065,Epithelium (str),3
+3598.9861630674854,40217.011207223215,Epithelium (str),3
+3590.5656703256436,40227.69274746534,Epithelium (str),3
+3810.5553298093237,40232.225926226,Epithelium (str),3
+3812.9714713252474,40247.330967110545,Epithelium (str),3
+3784.2259196279156,40240.21104734804,Epithelium (str),3
+3536.140994936573,40237.58995455247,Epithelium (str),3
+3803.4741835507307,40259.97222989848,Epithelium (str),3
+3590.6343542566697,40251.71347356576,Epithelium (str),3
+3773.651836820726,40254.81203268177,Epithelium (str),3
+3618.690845960422,40250.800635625514,Epithelium (str),3
+3534.3275033296186,40258.53538957052,Epithelium (str),3
+3576.295920373519,40260.16387673472,Epithelium (str),3
+3632.1762627575645,40264.333689003346,Epithelium (str),3
+3757.926419873627,40273.21614259538,Epithelium (str),3
+3773.8368412634823,40275.83501470763,Epithelium (str),3
+3651.1619752298066,40265.070385577645,Epithelium (str),3
+3741.5119429329447,40283.58749480623,Epithelium (str),3
+3513.6446197621535,40275.74638393972,Epithelium (str),3
+3714.6097932696853,40280.54211415095,Epithelium (str),3
+3717.374896320792,40286.653922811805,Epithelium (str),3
+3755.7551036546947,40329.17403198724,Epithelium (str),3
+3716.8619776931782,40325.66336928505,Epithelium (str),3
+3658.556630716418,40332.407738282,Epithelium (str),3
+3683.5766048416963,40332.37782785489,Epithelium (str),3
+3618.5479362183187,40331.856046150475,Epithelium (str),3
+3702.2133557787515,40342.107756652855,Epithelium (str),3
+3789.070386933294,40347.47954754268,Epithelium (str),3
+3583.225293813218,40339.49220573735,Epithelium (str),3
+3799.5192861519645,40361.895528433655,Epithelium (str),3
+3574.45583953619,40359.16697820316,Epithelium (str),3
+3821.9979351727998,40375.77754334668,Epithelium (str),3
+3562.882508704146,40373.729190032966,Epithelium (str),3
+3540.5888641260653,40380.8701571458,Epithelium (str),3
+3819.068875029262,40399.68194893539,Epithelium (str),3
+3673.4412148510446,40413.04550334075,Epithelium (str),3
+3658.336173966495,40415.461644856674,Epithelium (str),3
+3528.3563837275588,40412.41958539815,Epithelium (str),3
+3635.2371488831077,40417.56759834132,Epithelium (str),3
+3550.8350327483954,40426.30160031117,Epithelium (str),3
+3513.746535317043,40427.864724741085,Epithelium (str),3
+3578.4262424052345,40437.379738669195,Epithelium (str),3
+3629.3103446650066,40441.35568341828,Epithelium (str),3
+3800.909590412657,40455.0194622647,Epithelium (str),3
+3604.1740500280007,40444.383337919964,Epithelium (str),3
+3564.0490350181726,40446.829389863,Epithelium (str),3
+3543.7151129858935,40455.04715200851,Epithelium (str),3
+3691.371179640938,40466.78111873624,Epithelium (str),3
+3622.5393864376892,40461.10800289192,Epithelium (str),3
+3548.129750551524,40470.22973990088,Epithelium (str),3
+3598.2860193138085,40467.17217497208,Epithelium (str),3
+3525.4184605072314,40462.34321313698,Epithelium (str),3
+3610.1219015964284,40471.63444911841,Epithelium (str),3
+3746.097179984491,40474.90914960039,Epithelium (str),3
+3770.079132581005,40475.83971369422,Epithelium (str),3
+3567.9596170329814,40475.00220207849,Epithelium (str),3
+3581.7164483574907,40481.540519282345,Epithelium (str),3
+3672.996980154459,40476.07567591441,Epithelium (str),3
+3627.6818575008087,40483.32410046219,Epithelium (str),3
+3534.5966971736807,40483.71515669803,Epithelium (str),3
+3552.544388117156,40485.412327793245,Epithelium (str),3
+3643.5535053867566,40486.9422205993,Epithelium (str),3
+3521.9853448128715,40499.237843048766,Epithelium (str),3
+3981.21736906966,40063.71637651758,Epithelium (str),3
+3923.285352175154,40215.584350141915,Epithelium (str),3
+4039.1438440841193,40040.94526561904,Epithelium (str),3
+4454.5596078963235,40064.06977941937,Epithelium (str),3
+4019.925490588421,40046.20405719389,Epithelium (str),3
+4287.064811683032,40073.582572664156,Epithelium (str),3
+3964.307699654949,40061.05873090141,Epithelium (str),3
+4203.089204091323,40071.324846360614,Epithelium (str),3
+4062.195232586804,40065.85778230939,Epithelium (str),3
+4041.9000840584335,40073.07629643004,Epithelium (str),3
+4440.677592983295,40086.548428440205,Epithelium (str),3
+3947.0878422089627,40066.39506948407,Epithelium (str),3
+4191.515873259277,40085.88705819043,Epithelium (str),3
+4221.415766997101,40089.048759357436,Epithelium (str),3
+4018.452097439861,40084.17548213838,Epithelium (str),3
+4431.025211193141,40103.18668332755,Epithelium (str),3
+3938.2020674202067,40089.067586024445,Epithelium (str),3
+3997.274021398365,40088.35747868055,Epithelium (str),3
+4048.390764681594,40086.337935280506,Epithelium (str),3
+4200.965524453093,40100.2642655775,Epithelium (str),3
+4286.900854590601,40103.59878691371,Epithelium (str),3
+4178.0603668892545,40097.373978937874,Epithelium (str),3
+4444.626948502011,40113.72199263084,Epithelium (str),3
+4305.615152535476,40111.330219661984,Epithelium (str),3
+4021.7899399728194,40101.31779257654,Epithelium (str),3
+4493.318687192528,40122.61663049638,Epithelium (str),3
+4181.398209422211,40114.51628937605,Epithelium (str),3
+4257.341059311171,40117.463075673164,Epithelium (str),3
+3973.2056587172406,40115.444632786566,Epithelium (str),3
+4296.923245266265,40129.00649607808,Epithelium (str),3
+4165.100052993259,40121.88989751232,Epithelium (str),3
+4152.760115159817,40130.4178476891,Epithelium (str),3
+4480.552240816082,40142.13630894657,Epithelium (str),3
+4132.775154662722,40129.64237761093,Epithelium (str),3
+3949.52503107521,40132.53930664403,Epithelium (str),3
+4145.1062294193725,40147.13364958427,Epithelium (str),3
+4233.961756623626,40152.582987481925,Epithelium (str),3
+4126.042969939314,40148.39544905969,Epithelium (str),3
+4373.352424552467,40171.00150235235,Epithelium (str),3
+4457.444352655903,40170.26148458134,Epithelium (str),3
+4080.533979766117,40160.64011373174,Epithelium (str),3
+4216.509258154181,40163.91481421371,Epithelium (str),3
+3945.1702143638136,40167.39666700222,Epithelium (str),3
+4233.642705515559,40186.5961938309,Epithelium (str),3
+4174.803392560858,40181.31081302567,Epithelium (str),3
+4351.747839967965,40186.17522716794,Epithelium (str),3
+3937.5551021272786,40183.113220872525,Epithelium (str),3
+4224.2617382527715,40196.23971254425,Epithelium (str),3
+3919.568637679894,40182.41529780216,Epithelium (str),3
+4078.3715266239783,40190.57878097347,Epithelium (str),3
+4065.18743478132,40195.07096554693,Epithelium (str),3
+4226.794200280422,40208.347009354235,Epithelium (str),3
+4422.879454175408,40209.951127971384,Epithelium (str),3
+4092.739870934249,40207.1483519298,Epithelium (str),3
+4347.393023256569,40221.032587526126,Epithelium (str),3
+4146.6992642764035,40209.242121140895,Epithelium (str),3
+4045.4262522308895,40214.31922946974,Epithelium (str),3
+4028.245168288812,40218.65632002755,Epithelium (str),3
+3937.0034099957547,40223.121915370626,Epithelium (str),3
+4018.709107010387,40232.296830840336,Epithelium (str),3
+3998.646599505473,40233.519856811865,Epithelium (str),3
+4043.34134609657,40242.259400661766,Epithelium (str),3
+4007.2133231861617,40244.86054662044,Epithelium (str),3
+4024.122992600875,40247.51819223662,Epithelium (str),3
+3944.221924116403,40243.417063899,Epithelium (str),3
+3978.196356961464,40244.73536303193,Epithelium (str),3
+3907.822486678628,40253.01294603166,Epithelium (str),3
+4014.7420253380865,40257.16171094998,Epithelium (str),3
+3970.464924213201,40263.449660976796,Epithelium (str),3
+3955.7476183677472,40255.873322244166,Epithelium (str),3
+3923.8015919995128,40279.65254424434,Epithelium (str),3
+3944.708253513643,40282.46528387615,Epithelium (str),3
+4088.319691488568,40321.06262676324,Epithelium (str),3
+4275.411713159861,40322.31778384516,Epithelium (str),3
+4169.33632850962,40322.20478453019,Epithelium (str),3
+4252.846654054414,40336.45348713198,Epithelium (str),3
+4279.554936198127,40344.49510791152,Epithelium (str),3
+4109.139942918087,40351.893084594885,Epithelium (str),3
+4090.1930039497565,40350.15713999574,Epithelium (str),3
+4099.914069670939,40357.53961120883,Epithelium (str),3
+4144.880230789402,40359.284418884745,Epithelium (str),3
+4153.795916005276,40361.63187646965,Epithelium (str),3
+4262.481309690986,40371.85367654491,Epithelium (str),3
+4426.659310721647,40396.237769137355,Epithelium (str),3
+4306.827094746895,40389.58645261852,Epithelium (str),3
+4274.036914369447,40409.32990901535,Epithelium (str),3
+4335.107364397314,40408.69734867928,Epithelium (str),3
+4475.574827358828,40425.1561410039,Epithelium (str),3
+4300.590102497521,40421.36852189432,Epithelium (str),3
+4388.523928684738,40424.780590238355,Epithelium (str),3
+4493.474881721604,40453.87178227413,Epithelium (str),3
+3996.499651833611,40443.59458305481,Epithelium (str),3
+4466.912830516738,40467.8523915453,Epithelium (str),3
+3999.721173854842,40463.73463756755,Epithelium (str),3
+4475.402007189607,40481.19157740358,Epithelium (str),3
+4025.5465284854263,40468.73974076859,Epithelium (str),3
+4468.824916481837,40495.94765675296,Epithelium (str),3
+4017.048488735765,40481.41977706045,Epithelium (str),3
+4034.229572677842,40477.08268650262,Epithelium (str),3
+4038.4891162278373,40496.262266494414,Epithelium (str),3
+4009.5109235070495,40495.13783488104,Epithelium (str),3
+4049.6747120207865,40491.692534913134,Epithelium (str),3
+4142.98034875427,39505.56878104682,Epithelium (str),3
+4212.978668271547,39584.342096721186,Epithelium (str),3
+4255.448920182962,39805.15486286376,Epithelium (str),3
+3603.1061377285505,39517.64504725982,Epithelium (str),3
+3599.2553765679772,39539.51218329491,Epithelium (str),3
+3569.2391623184258,39539.34822620246,Epithelium (str),3
+3664.2973299783266,39952.34452730201,Epithelium (str),3
+3528.5436088536217,40201.268064122516,Epithelium (str),3
+3760.342561389546,40288.321183479915,Epithelium (str),3
+3586.2407640413658,40287.570081948805,Epithelium (str),3
+3645.6528164779165,40303.88596453134,Epithelium (str),3
+3620.55529534482,40305.914371008155,Epithelium (str),3
+4143.602925843696,40160.08510040346,Epithelium (str),3

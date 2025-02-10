@@ -1,0 +1,2916 @@
+x,y,Celltype,Celltype_asNumeric
+20141.0,32577.0,T Helper Cell,10
+19943.0,33307.0,T Helper Cell,10
+19807.0,32581.0,Treg Cell,11
+20130.0,32791.0,Cytotoxic T Cell,2
+19668.0,32968.0,Cytotoxic T Cell,2
+19799.0,33315.0,Cytotoxic T Cell,2
+19817.0,33325.0,Cytotoxic T Cell,2
+20316.0,32777.0,Cytotoxic T Cell,2
+20111.0,32869.0,Cytotoxic T Cell,2
+20435.0,33030.0,Cytotoxic T Cell,2
+19892.0,32921.0,Cytotoxic T Cell,2
+19678.0,32969.0,Cytotoxic T Cell,2
+19681.0,32989.0,Cytotoxic T Cell,2
+20396.0,33250.0,Cytotoxic T Cell,2
+20436.0,33420.0,Cytotoxic T Cell,2
+19760.0,33147.0,Cytotoxic T Cell,2
+19875.0,33282.0,Cytotoxic T Cell,2
+19676.0,33459.0,Cytotoxic T Cell,2
+19686.0,33488.0,Cytotoxic T Cell,2
+20180.0,32568.0,Macrophage,5
+20179.0,32639.0,Macrophage,5
+20160.0,32663.0,Macrophage,5
+20347.0,32747.0,Macrophage,5
+20130.0,32791.0,Macrophage,5
+20155.0,32801.0,Macrophage,5
+20146.0,32808.0,Macrophage,5
+20160.0,32821.0,Macrophage,5
+20375.0,33041.0,Macrophage,5
+19992.0,33074.0,Macrophage,5
+19602.0,32725.0,Macrophage,5
+19665.0,32858.0,Macrophage,5
+20230.0,33407.0,Macrophage,5
+20212.0,33417.0,Macrophage,5
+20205.0,33439.0,Macrophage,5
+19781.0,33284.0,Macrophage,5
+20456.0,32504.0,Macrophage,5
+20318.0,32518.0,Macrophage,5
+19920.0,32518.0,Macrophage,5
+20099.0,32522.0,Macrophage,5
+20082.0,32533.0,Macrophage,5
+20295.0,32535.0,Macrophage,5
+20099.0,32539.0,Macrophage,5
+20314.0,32546.0,Macrophage,5
+20127.0,32556.0,Macrophage,5
+20242.0,32554.0,Macrophage,5
+20154.0,32558.0,Macrophage,5
+20281.0,32557.0,Macrophage,5
+20099.0,32559.0,Macrophage,5
+20295.0,32563.0,Macrophage,5
+19936.0,32573.0,Macrophage,5
+20141.0,32577.0,Macrophage,5
+20283.0,32578.0,Macrophage,5
+20053.0,32584.0,Macrophage,5
+20163.0,32584.0,Macrophage,5
+20082.0,32587.0,Macrophage,5
+20129.0,32604.0,Macrophage,5
+20074.0,32616.0,Macrophage,5
+20059.0,32621.0,Macrophage,5
+20280.0,32627.0,Macrophage,5
+20124.0,32634.0,Macrophage,5
+20161.0,32635.0,Macrophage,5
+20040.0,32639.0,Macrophage,5
+20074.0,32639.0,Macrophage,5
+19962.0,32646.0,Macrophage,5
+20064.0,32657.0,Macrophage,5
+20085.0,32663.0,Macrophage,5
+20132.0,32667.0,Macrophage,5
+20274.0,32669.0,Macrophage,5
+20256.0,32674.0,Macrophage,5
+20059.0,32680.0,Macrophage,5
+20398.0,32679.0,Macrophage,5
+20135.0,32685.0,Macrophage,5
+20367.0,32684.0,Macrophage,5
+20349.0,32686.0,Macrophage,5
+20407.0,32696.0,Macrophage,5
+20031.0,32702.0,Macrophage,5
+20396.0,32701.0,Macrophage,5
+20364.0,32708.0,Macrophage,5
+20092.0,32702.0,Macrophage,5
+20133.0,32702.0,Macrophage,5
+20275.0,32704.0,Macrophage,5
+20253.0,32707.0,Macrophage,5
+20274.0,32719.0,Macrophage,5
+20071.0,32718.0,Macrophage,5
+20121.0,32724.0,Macrophage,5
+20279.0,32725.0,Macrophage,5
+20363.0,32723.0,Macrophage,5
+19961.0,32724.0,Macrophage,5
+20015.0,32736.0,Macrophage,5
+20169.0,32738.0,Macrophage,5
+20063.0,32737.0,Macrophage,5
+20151.0,32744.0,Macrophage,5
+20078.0,32747.0,Macrophage,5
+20137.0,32748.0,Macrophage,5
+20270.0,32748.0,Macrophage,5
+20167.0,32755.0,Macrophage,5
+20062.0,32756.0,Macrophage,5
+20140.0,32766.0,Macrophage,5
+20097.0,32768.0,Macrophage,5
+20129.0,32773.0,Macrophage,5
+20106.0,32785.0,Macrophage,5
+20154.0,32783.0,Macrophage,5
+20067.0,32789.0,Macrophage,5
+20116.0,32799.0,Macrophage,5
+20283.0,32810.0,Macrophage,5
+20080.0,32804.0,Macrophage,5
+20134.0,32808.0,Macrophage,5
+20140.0,32828.0,Macrophage,5
+20280.0,32840.0,Macrophage,5
+20076.0,32841.0,Macrophage,5
+20137.0,32851.0,Macrophage,5
+20198.0,32853.0,Macrophage,5
+20269.0,32861.0,Macrophage,5
+20111.0,32869.0,Macrophage,5
+20144.0,32866.0,Macrophage,5
+20171.0,32869.0,Macrophage,5
+20129.0,32882.0,Macrophage,5
+20256.0,32889.0,Macrophage,5
+20275.0,32888.0,Macrophage,5
+20239.0,32895.0,Macrophage,5
+20210.0,32903.0,Macrophage,5
+20257.0,32906.0,Macrophage,5
+20139.0,32902.0,Macrophage,5
+20177.0,32909.0,Macrophage,5
+20295.0,32909.0,Macrophage,5
+19919.0,32912.0,Macrophage,5
+20295.0,32930.0,Macrophage,5
+19939.0,32940.0,Macrophage,5
+20306.0,32952.0,Macrophage,5
+20292.0,32953.0,Macrophage,5
+19956.0,32964.0,Macrophage,5
+19938.0,32973.0,Macrophage,5
+19965.0,32982.0,Macrophage,5
+20480.0,32989.0,Macrophage,5
+20450.0,33006.0,Macrophage,5
+20435.0,33030.0,Macrophage,5
+20460.0,33034.0,Macrophage,5
+20401.0,33050.0,Macrophage,5
+20390.0,33058.0,Macrophage,5
+19778.0,32500.0,Macrophage,5
+19799.0,32502.0,Macrophage,5
+19892.0,32503.0,Macrophage,5
+19523.0,32509.0,Macrophage,5
+19706.0,32521.0,Macrophage,5
+19538.0,32526.0,Macrophage,5
+19778.0,32528.0,Macrophage,5
+19512.0,32529.0,Macrophage,5
+19882.0,32529.0,Macrophage,5
+19903.0,32535.0,Macrophage,5
+19747.0,32530.0,Macrophage,5
+19728.0,32533.0,Macrophage,5
+19784.0,32540.0,Macrophage,5
+19720.0,32544.0,Macrophage,5
+19681.0,32545.0,Macrophage,5
+19860.0,32545.0,Macrophage,5
+19819.0,32551.0,Macrophage,5
+19769.0,32547.0,Macrophage,5
+19882.0,32551.0,Macrophage,5
+19730.0,32553.0,Macrophage,5
+19512.0,32553.0,Macrophage,5
+19557.0,32553.0,Macrophage,5
+19696.0,32553.0,Macrophage,5
+19876.0,32563.0,Macrophage,5
+19674.0,32564.0,Macrophage,5
+19800.0,32563.0,Macrophage,5
+19677.0,32575.0,Macrophage,5
+19775.0,32572.0,Macrophage,5
+19598.0,32572.0,Macrophage,5
+19846.0,32573.0,Macrophage,5
+19921.0,32573.0,Macrophage,5
+19622.0,32574.0,Macrophage,5
+19719.0,32575.0,Macrophage,5
+19698.0,32576.0,Macrophage,5
+19807.0,32581.0,Macrophage,5
+19663.0,32578.0,Macrophage,5
+19796.0,32582.0,Macrophage,5
+19740.0,32584.0,Macrophage,5
+19675.0,32589.0,Macrophage,5
+19622.0,32587.0,Macrophage,5
+19775.0,32593.0,Macrophage,5
+19537.0,32592.0,Macrophage,5
+19650.0,32598.0,Macrophage,5
+19801.0,32602.0,Macrophage,5
+19571.0,32605.0,Macrophage,5
+19593.0,32606.0,Macrophage,5
+19728.0,32606.0,Macrophage,5
+19631.0,32610.0,Macrophage,5
+19895.0,32609.0,Macrophage,5
+19706.0,32610.0,Macrophage,5
+19660.0,32611.0,Macrophage,5
+19516.0,32612.0,Macrophage,5
+19540.0,32614.0,Macrophage,5
+19839.0,32613.0,Macrophage,5
+19815.0,32615.0,Macrophage,5
+19761.0,32619.0,Macrophage,5
+19781.0,32624.0,Macrophage,5
+19546.0,32631.0,Macrophage,5
+19622.0,32627.0,Macrophage,5
+19867.0,32628.0,Macrophage,5
+19643.0,32631.0,Macrophage,5
+19525.0,32634.0,Macrophage,5
+19558.0,32636.0,Macrophage,5
+19769.0,32639.0,Macrophage,5
+19845.0,32638.0,Macrophage,5
+19542.0,32641.0,Macrophage,5
+19788.0,32643.0,Macrophage,5
+19824.0,32646.0,Macrophage,5
+19661.0,32648.0,Macrophage,5
+19674.0,32649.0,Macrophage,5
+19640.0,32653.0,Macrophage,5
+19619.0,32655.0,Macrophage,5
+19853.0,32659.0,Macrophage,5
+19838.0,32659.0,Macrophage,5
+19783.0,32662.0,Macrophage,5
+19807.0,32661.0,Macrophage,5
+19759.0,32662.0,Macrophage,5
+19669.0,32670.0,Macrophage,5
+19713.0,32669.0,Macrophage,5
+19623.0,32677.0,Macrophage,5
+19774.0,32679.0,Macrophage,5
+19822.0,32679.0,Macrophage,5
+19712.0,32692.0,Macrophage,5
+19793.0,32694.0,Macrophage,5
+19754.0,32696.0,Macrophage,5
+19631.0,32701.0,Macrophage,5
+19826.0,32707.0,Macrophage,5
+19701.0,32709.0,Macrophage,5
+19671.0,32710.0,Macrophage,5
+19784.0,32714.0,Macrophage,5
+19731.0,32713.0,Macrophage,5
+19694.0,32725.0,Macrophage,5
+19755.0,32719.0,Macrophage,5
+19547.0,32720.0,Macrophage,5
+19649.0,32721.0,Macrophage,5
+19774.0,32727.0,Macrophage,5
+19676.0,32739.0,Macrophage,5
+19739.0,32743.0,Macrophage,5
+19690.0,32747.0,Macrophage,5
+19762.0,32742.0,Macrophage,5
+19638.0,32743.0,Macrophage,5
+19564.0,32745.0,Macrophage,5
+19676.0,32761.0,Macrophage,5
+19766.0,32765.0,Macrophage,5
+19693.0,32769.0,Macrophage,5
+19514.0,32768.0,Macrophage,5
+19725.0,32770.0,Macrophage,5
+19634.0,32774.0,Macrophage,5
+19744.0,32779.0,Macrophage,5
+19796.0,32778.0,Macrophage,5
+19500.0,32781.0,Macrophage,5
+19634.0,32792.0,Macrophage,5
+19526.0,32798.0,Macrophage,5
+19746.0,32805.0,Macrophage,5
+19549.0,32813.0,Macrophage,5
+19762.0,32811.0,Macrophage,5
+19508.0,32814.0,Macrophage,5
+19537.0,32825.0,Macrophage,5
+19759.0,32832.0,Macrophage,5
+19521.0,32836.0,Macrophage,5
+19552.0,32840.0,Macrophage,5
+19540.0,32863.0,Macrophage,5
+19567.0,32872.0,Macrophage,5
+19531.0,32882.0,Macrophage,5
+19539.0,32885.0,Macrophage,5
+19549.0,32896.0,Macrophage,5
+19508.0,32912.0,Macrophage,5
+19563.0,32918.0,Macrophage,5
+19549.0,32925.0,Macrophage,5
+19529.0,32925.0,Macrophage,5
+19509.0,32933.0,Macrophage,5
+19586.0,32944.0,Macrophage,5
+19545.0,32950.0,Macrophage,5
+19561.0,32956.0,Macrophage,5
+19528.0,32983.0,Macrophage,5
+19558.0,32996.0,Macrophage,5
+19593.0,32996.0,Macrophage,5
+19541.0,33005.0,Macrophage,5
+19737.0,33005.0,Macrophage,5
+19556.0,33013.0,Macrophage,5
+19510.0,33008.0,Macrophage,5
+19579.0,33014.0,Macrophage,5
+19598.0,33019.0,Macrophage,5
+19541.0,33026.0,Macrophage,5
+20226.0,33099.0,Macrophage,5
+20418.0,33242.0,Macrophage,5
+20396.0,33250.0,Macrophage,5
+20113.0,33281.0,Macrophage,5
+20087.0,33302.0,Macrophage,5
+20455.0,33402.0,Macrophage,5
+20379.0,33415.0,Macrophage,5
+20390.0,33417.0,Macrophage,5
+20419.0,33434.0,Macrophage,5
+20470.0,33480.0,Macrophage,5
+19644.0,33131.0,Macrophage,5
+19831.0,33159.0,Macrophage,5
+19863.0,33303.0,Macrophage,5
+19887.0,33330.0,Macrophage,5
+19859.0,33327.0,Macrophage,5
+19676.0,33459.0,Macrophage,5
+19686.0,33488.0,Macrophage,5
+20381.0,32740.0,Neutrophil,6
+20391.0,32764.0,Neutrophil,6
+20043.0,32928.0,Neutrophil,6
+20500.0,33110.0,Neutrophil,6
+20154.0,32558.0,Neutrophil,6
+20350.0,32563.0,Neutrophil,6
+20392.0,32589.0,Neutrophil,6
+20161.0,32635.0,Neutrophil,6
+20488.0,32756.0,Neutrophil,6
+20275.0,32888.0,Neutrophil,6
+20193.0,32929.0,Neutrophil,6
+20320.0,32947.0,Neutrophil,6
+20064.0,33021.0,Neutrophil,6
+20051.0,33037.0,Neutrophil,6
+19778.0,32500.0,Neutrophil,6
+19799.0,32502.0,Neutrophil,6
+19523.0,32509.0,Neutrophil,6
+19706.0,32521.0,Neutrophil,6
+19538.0,32526.0,Neutrophil,6
+19778.0,32528.0,Neutrophil,6
+19512.0,32529.0,Neutrophil,6
+19882.0,32529.0,Neutrophil,6
+19903.0,32535.0,Neutrophil,6
+19747.0,32530.0,Neutrophil,6
+19681.0,32545.0,Neutrophil,6
+19860.0,32545.0,Neutrophil,6
+19573.0,32550.0,Neutrophil,6
+19730.0,32553.0,Neutrophil,6
+19512.0,32553.0,Neutrophil,6
+19557.0,32553.0,Neutrophil,6
+19696.0,32553.0,Neutrophil,6
+19642.0,32561.0,Neutrophil,6
+19674.0,32564.0,Neutrophil,6
+19677.0,32575.0,Neutrophil,6
+19775.0,32572.0,Neutrophil,6
+19598.0,32572.0,Neutrophil,6
+19622.0,32574.0,Neutrophil,6
+19719.0,32575.0,Neutrophil,6
+19698.0,32576.0,Neutrophil,6
+19663.0,32578.0,Neutrophil,6
+19740.0,32584.0,Neutrophil,6
+19675.0,32589.0,Neutrophil,6
+19622.0,32587.0,Neutrophil,6
+19537.0,32592.0,Neutrophil,6
+19650.0,32598.0,Neutrophil,6
+19593.0,32606.0,Neutrophil,6
+19728.0,32606.0,Neutrophil,6
+19631.0,32610.0,Neutrophil,6
+19660.0,32611.0,Neutrophil,6
+19516.0,32612.0,Neutrophil,6
+19686.0,32612.0,Neutrophil,6
+19761.0,32619.0,Neutrophil,6
+19546.0,32631.0,Neutrophil,6
+19622.0,32627.0,Neutrophil,6
+19643.0,32631.0,Neutrophil,6
+19525.0,32634.0,Neutrophil,6
+19558.0,32636.0,Neutrophil,6
+19590.0,32637.0,Neutrophil,6
+19769.0,32639.0,Neutrophil,6
+19845.0,32638.0,Neutrophil,6
+19542.0,32641.0,Neutrophil,6
+19661.0,32648.0,Neutrophil,6
+19619.0,32655.0,Neutrophil,6
+19853.0,32659.0,Neutrophil,6
+19599.0,32660.0,Neutrophil,6
+19557.0,32665.0,Neutrophil,6
+19623.0,32677.0,Neutrophil,6
+19586.0,32681.0,Neutrophil,6
+19521.0,32682.0,Neutrophil,6
+19631.0,32701.0,Neutrophil,6
+19533.0,32711.0,Neutrophil,6
+19784.0,32714.0,Neutrophil,6
+19806.0,32715.0,Neutrophil,6
+19547.0,32720.0,Neutrophil,6
+19797.0,32734.0,Neutrophil,6
+19690.0,32747.0,Neutrophil,6
+19762.0,32742.0,Neutrophil,6
+19783.0,32761.0,Neutrophil,6
+19693.0,32769.0,Neutrophil,6
+19579.0,32774.0,Neutrophil,6
+19796.0,32778.0,Neutrophil,6
+19500.0,32781.0,Neutrophil,6
+19772.0,32781.0,Neutrophil,6
+19575.0,32790.0,Neutrophil,6
+19731.0,32804.0,Neutrophil,6
+19746.0,32805.0,Neutrophil,6
+19790.0,32809.0,Neutrophil,6
+19762.0,32811.0,Neutrophil,6
+19697.0,32815.0,Neutrophil,6
+19774.0,32814.0,Neutrophil,6
+19778.0,32830.0,Neutrophil,6
+19759.0,32832.0,Neutrophil,6
+19728.0,32832.0,Neutrophil,6
+19739.0,32834.0,Neutrophil,6
+19764.0,32842.0,Neutrophil,6
+19733.0,32855.0,Neutrophil,6
+19759.0,32856.0,Neutrophil,6
+19745.0,32861.0,Neutrophil,6
+19539.0,32885.0,Neutrophil,6
+19549.0,32896.0,Neutrophil,6
+19594.0,32897.0,Neutrophil,6
+19563.0,32918.0,Neutrophil,6
+19549.0,32925.0,Neutrophil,6
+19586.0,32944.0,Neutrophil,6
+19593.0,32996.0,Neutrophil,6
+19579.0,33014.0,Neutrophil,6
+19598.0,33019.0,Neutrophil,6
+19865.0,33022.0,Neutrophil,6
+19524.0,33045.0,Neutrophil,6
+19734.0,33058.0,Neutrophil,6
+19529.0,33071.0,Neutrophil,6
+19539.0,33096.0,Neutrophil,6
+20130.0,33138.0,Neutrophil,6
+19524.0,33110.0,Neutrophil,6
+19738.0,33130.0,Neutrophil,6
+19564.0,33174.0,Neutrophil,6
+19863.0,33265.0,Neutrophil,6
+19545.0,33277.0,Neutrophil,6
+19712.0,33354.0,Neutrophil,6
+19677.0,33433.0,Neutrophil,6
+19647.0,32535.0,Neutrophil,6
+19810.0,32821.0,Neutrophil,6
+20255.0,32502.0,Epithelium (imm),3
+20238.0,32510.0,Epithelium (imm),3
+20262.0,32517.0,Epithelium (imm),3
+20201.0,32519.0,Epithelium (imm),3
+20191.0,32526.0,Epithelium (imm),3
+20223.0,32532.0,Epithelium (imm),3
+20254.0,32535.0,Epithelium (imm),3
+20206.0,32539.0,Epithelium (imm),3
+20169.0,32538.0,Epithelium (imm),3
+20195.0,32548.0,Epithelium (imm),3
+20402.0,32552.0,Epithelium (imm),3
+20419.0,32552.0,Epithelium (imm),3
+20180.0,32568.0,Epithelium (imm),3
+20224.0,32582.0,Epithelium (imm),3
+20264.0,32587.0,Epithelium (imm),3
+20243.0,32594.0,Epithelium (imm),3
+20185.0,32597.0,Epithelium (imm),3
+20219.0,32600.0,Epithelium (imm),3
+20265.0,32603.0,Epithelium (imm),3
+20203.0,32606.0,Epithelium (imm),3
+20187.0,32621.0,Epithelium (imm),3
+20244.0,32624.0,Epithelium (imm),3
+19918.0,32628.0,Epithelium (imm),3
+20242.0,32636.0,Epithelium (imm),3
+19916.0,32642.0,Epithelium (imm),3
+20179.0,32639.0,Epithelium (imm),3
+20202.0,32641.0,Epithelium (imm),3
+20235.0,32643.0,Epithelium (imm),3
+20181.0,32663.0,Epithelium (imm),3
+19924.0,32665.0,Epithelium (imm),3
+20160.0,32663.0,Epithelium (imm),3
+20202.0,32666.0,Epithelium (imm),3
+20219.0,32667.0,Epithelium (imm),3
+19940.0,32674.0,Epithelium (imm),3
+20224.0,32673.0,Epithelium (imm),3
+19922.0,32682.0,Epithelium (imm),3
+20191.0,32678.0,Epithelium (imm),3
+20208.0,32680.0,Epithelium (imm),3
+19941.0,32690.0,Epithelium (imm),3
+20212.0,32691.0,Epithelium (imm),3
+19926.0,32694.0,Epithelium (imm),3
+19934.0,32699.0,Epithelium (imm),3
+20231.0,32703.0,Epithelium (imm),3
+20171.0,32700.0,Epithelium (imm),3
+20214.0,32707.0,Epithelium (imm),3
+19919.0,32708.0,Epithelium (imm),3
+20386.0,32708.0,Epithelium (imm),3
+20402.0,32719.0,Epithelium (imm),3
+20424.0,32720.0,Epithelium (imm),3
+20241.0,32729.0,Epithelium (imm),3
+20187.0,32731.0,Epithelium (imm),3
+20401.0,32736.0,Epithelium (imm),3
+20211.0,32730.0,Epithelium (imm),3
+19919.0,32738.0,Epithelium (imm),3
+20429.0,32734.0,Epithelium (imm),3
+20413.0,32745.0,Epithelium (imm),3
+20381.0,32740.0,Epithelium (imm),3
+20442.0,32744.0,Epithelium (imm),3
+20453.0,32741.0,Epithelium (imm),3
+20347.0,32747.0,Epithelium (imm),3
+19995.0,32750.0,Epithelium (imm),3
+19959.0,32752.0,Epithelium (imm),3
+20224.0,32754.0,Epithelium (imm),3
+20398.0,32752.0,Epithelium (imm),3
+20430.0,32758.0,Epithelium (imm),3
+20379.0,32754.0,Epithelium (imm),3
+20366.0,32755.0,Epithelium (imm),3
+20188.0,32761.0,Epithelium (imm),3
+20453.0,32760.0,Epithelium (imm),3
+20431.0,32767.0,Epithelium (imm),3
+20227.0,32768.0,Epithelium (imm),3
+20391.0,32764.0,Epithelium (imm),3
+20447.0,32766.0,Epithelium (imm),3
+19934.0,32762.0,Epithelium (imm),3
+20004.0,32766.0,Epithelium (imm),3
+20206.0,32763.0,Epithelium (imm),3
+20416.0,32764.0,Epithelium (imm),3
+19985.0,32765.0,Epithelium (imm),3
+20459.0,32773.0,Epithelium (imm),3
+20447.0,32778.0,Epithelium (imm),3
+20338.0,32776.0,Epithelium (imm),3
+20426.0,32781.0,Epithelium (imm),3
+19933.0,32784.0,Epithelium (imm),3
+20176.0,32783.0,Epithelium (imm),3
+20130.0,32791.0,Epithelium (imm),3
+20192.0,32785.0,Epithelium (imm),3
+20458.0,32790.0,Epithelium (imm),3
+20338.0,32795.0,Epithelium (imm),3
+20250.0,32790.0,Epithelium (imm),3
+20395.0,32790.0,Epithelium (imm),3
+20216.0,32793.0,Epithelium (imm),3
+20349.0,32794.0,Epithelium (imm),3
+20421.0,32791.0,Epithelium (imm),3
+19926.0,32796.0,Epithelium (imm),3
+20155.0,32801.0,Epithelium (imm),3
+20429.0,32803.0,Epithelium (imm),3
+20450.0,32803.0,Epithelium (imm),3
+20177.0,32805.0,Epithelium (imm),3
+19924.0,32804.0,Epithelium (imm),3
+20032.0,32807.0,Epithelium (imm),3
+19996.0,32804.0,Epithelium (imm),3
+20326.0,32807.0,Epithelium (imm),3
+20196.0,32811.0,Epithelium (imm),3
+19976.0,32810.0,Epithelium (imm),3
+19928.0,32817.0,Epithelium (imm),3
+20023.0,32818.0,Epithelium (imm),3
+20179.0,32821.0,Epithelium (imm),3
+19934.0,32823.0,Epithelium (imm),3
+20229.0,32818.0,Epithelium (imm),3
+20344.0,32817.0,Epithelium (imm),3
+19940.0,32818.0,Epithelium (imm),3
+20160.0,32821.0,Epithelium (imm),3
+20371.0,32818.0,Epithelium (imm),3
+20002.0,32824.0,Epithelium (imm),3
+20416.0,32819.0,Epithelium (imm),3
+20322.0,32827.0,Epithelium (imm),3
+20359.0,32821.0,Epithelium (imm),3
+20439.0,32823.0,Epithelium (imm),3
+20342.0,32827.0,Epithelium (imm),3
+20347.0,32834.0,Epithelium (imm),3
+20190.0,32838.0,Epithelium (imm),3
+20202.0,32838.0,Epithelium (imm),3
+20427.0,32836.0,Epithelium (imm),3
+19926.0,32837.0,Epithelium (imm),3
+20325.0,32838.0,Epithelium (imm),3
+20225.0,32837.0,Epithelium (imm),3
+20004.0,32839.0,Epithelium (imm),3
+20018.0,32840.0,Epithelium (imm),3
+19993.0,32841.0,Epithelium (imm),3
+20345.0,32847.0,Epithelium (imm),3
+20323.0,32849.0,Epithelium (imm),3
+20033.0,32847.0,Epithelium (imm),3
+20420.0,32848.0,Epithelium (imm),3
+20439.0,32850.0,Epithelium (imm),3
+20006.0,32856.0,Epithelium (imm),3
+20004.0,32856.0,Epithelium (imm),3
+20403.0,32852.0,Epithelium (imm),3
+20030.0,32863.0,Epithelium (imm),3
+20050.0,32857.0,Epithelium (imm),3
+20338.0,32864.0,Epithelium (imm),3
+20421.0,32863.0,Epithelium (imm),3
+20315.0,32860.0,Epithelium (imm),3
+20063.0,32862.0,Epithelium (imm),3
+20403.0,32870.0,Epithelium (imm),3
+20310.0,32867.0,Epithelium (imm),3
+20436.0,32867.0,Epithelium (imm),3
+20025.0,32872.0,Epithelium (imm),3
+20049.0,32873.0,Epithelium (imm),3
+20392.0,32870.0,Epithelium (imm),3
+20064.0,32878.0,Epithelium (imm),3
+20500.0,32872.0,Epithelium (imm),3
+20439.0,32873.0,Epithelium (imm),3
+20325.0,32878.0,Epithelium (imm),3
+20010.0,32880.0,Epithelium (imm),3
+20042.0,32880.0,Epithelium (imm),3
+20051.0,32882.0,Epithelium (imm),3
+20418.0,32881.0,Epithelium (imm),3
+20058.0,32884.0,Epithelium (imm),3
+20319.0,32888.0,Epithelium (imm),3
+20389.0,32883.0,Epithelium (imm),3
+20370.0,32882.0,Epithelium (imm),3
+20468.0,32882.0,Epithelium (imm),3
+20488.0,32882.0,Epithelium (imm),3
+20077.0,32883.0,Epithelium (imm),3
+20445.0,32884.0,Epithelium (imm),3
+20342.0,32885.0,Epithelium (imm),3
+20021.0,32888.0,Epithelium (imm),3
+20099.0,32885.0,Epithelium (imm),3
+20387.0,32892.0,Epithelium (imm),3
+19976.0,32889.0,Epithelium (imm),3
+20328.0,32896.0,Epithelium (imm),3
+20369.0,32896.0,Epithelium (imm),3
+20466.0,32895.0,Epithelium (imm),3
+20405.0,32897.0,Epithelium (imm),3
+20474.0,32892.0,Epithelium (imm),3
+20379.0,32899.0,Epithelium (imm),3
+20093.0,32900.0,Epithelium (imm),3
+20106.0,32895.0,Epithelium (imm),3
+20348.0,32901.0,Epithelium (imm),3
+20448.0,32904.0,Epithelium (imm),3
+20404.0,32905.0,Epithelium (imm),3
+20429.0,32902.0,Epithelium (imm),3
+20458.0,32909.0,Epithelium (imm),3
+19976.0,32911.0,Epithelium (imm),3
+20001.0,32905.0,Epithelium (imm),3
+20474.0,32912.0,Epithelium (imm),3
+20119.0,32906.0,Epithelium (imm),3
+20033.0,32911.0,Epithelium (imm),3
+20406.0,32914.0,Epithelium (imm),3
+20392.0,32917.0,Epithelium (imm),3
+20425.0,32912.0,Epithelium (imm),3
+20452.0,32919.0,Epithelium (imm),3
+19998.0,32928.0,Epithelium (imm),3
+20364.0,32926.0,Epithelium (imm),3
+19983.0,32929.0,Epithelium (imm),3
+20043.0,32928.0,Epithelium (imm),3
+20396.0,32932.0,Epithelium (imm),3
+20418.0,32932.0,Epithelium (imm),3
+20115.0,32935.0,Epithelium (imm),3
+20494.0,32935.0,Epithelium (imm),3
+20017.0,32936.0,Epithelium (imm),3
+20096.0,32937.0,Epithelium (imm),3
+20144.0,32938.0,Epithelium (imm),3
+20026.0,32938.0,Epithelium (imm),3
+20427.0,32943.0,Epithelium (imm),3
+20490.0,32942.0,Epithelium (imm),3
+20008.0,32943.0,Epithelium (imm),3
+20163.0,32948.0,Epithelium (imm),3
+20405.0,32949.0,Epithelium (imm),3
+20452.0,32944.0,Epithelium (imm),3
+20474.0,32944.0,Epithelium (imm),3
+20085.0,32952.0,Epithelium (imm),3
+20343.0,32950.0,Epithelium (imm),3
+19996.0,32951.0,Epithelium (imm),3
+20431.0,32957.0,Epithelium (imm),3
+20364.0,32952.0,Epithelium (imm),3
+20489.0,32959.0,Epithelium (imm),3
+20129.0,32957.0,Epithelium (imm),3
+20407.0,32960.0,Epithelium (imm),3
+20475.0,32961.0,Epithelium (imm),3
+20116.0,32962.0,Epithelium (imm),3
+20460.0,32959.0,Epithelium (imm),3
+20024.0,32964.0,Epithelium (imm),3
+20371.0,32962.0,Epithelium (imm),3
+20499.0,32966.0,Epithelium (imm),3
+20330.0,32964.0,Epithelium (imm),3
+20456.0,32970.0,Epithelium (imm),3
+20169.0,32966.0,Epithelium (imm),3
+19998.0,32972.0,Epithelium (imm),3
+20026.0,32978.0,Epithelium (imm),3
+20385.0,32978.0,Epithelium (imm),3
+19989.0,32979.0,Epithelium (imm),3
+20011.0,32985.0,Epithelium (imm),3
+20024.0,32987.0,Epithelium (imm),3
+20070.0,32980.0,Epithelium (imm),3
+20328.0,32982.0,Epithelium (imm),3
+20021.0,32987.0,Epithelium (imm),3
+20192.0,32993.0,Epithelium (imm),3
+20397.0,33002.0,Epithelium (imm),3
+20076.0,32999.0,Epithelium (imm),3
+20148.0,33002.0,Epithelium (imm),3
+20006.0,33005.0,Epithelium (imm),3
+20381.0,33004.0,Epithelium (imm),3
+20364.0,33004.0,Epithelium (imm),3
+19990.0,33007.0,Epithelium (imm),3
+20336.0,33014.0,Epithelium (imm),3
+20014.0,33009.0,Epithelium (imm),3
+20415.0,33010.0,Epithelium (imm),3
+20354.0,33019.0,Epithelium (imm),3
+20170.0,33014.0,Epithelium (imm),3
+20394.0,33020.0,Epithelium (imm),3
+20412.0,33023.0,Epithelium (imm),3
+20382.0,33024.0,Epithelium (imm),3
+20201.0,33022.0,Epithelium (imm),3
+20217.0,33024.0,Epithelium (imm),3
+19994.0,33026.0,Epithelium (imm),3
+20224.0,33027.0,Epithelium (imm),3
+20110.0,33026.0,Epithelium (imm),3
+20149.0,33029.0,Epithelium (imm),3
+20206.0,33037.0,Epithelium (imm),3
+20103.0,33034.0,Epithelium (imm),3
+19996.0,33042.0,Epithelium (imm),3
+20230.0,33039.0,Epithelium (imm),3
+20017.0,33039.0,Epithelium (imm),3
+20213.0,33046.0,Epithelium (imm),3
+20184.0,33042.0,Epithelium (imm),3
+20200.0,33044.0,Epithelium (imm),3
+20495.0,33054.0,Epithelium (imm),3
+19988.0,33052.0,Epithelium (imm),3
+20113.0,33053.0,Epithelium (imm),3
+20136.0,33049.0,Epithelium (imm),3
+20209.0,33054.0,Epithelium (imm),3
+20179.0,33055.0,Epithelium (imm),3
+20158.0,33057.0,Epithelium (imm),3
+20473.0,33057.0,Epithelium (imm),3
+20193.0,33064.0,Epithelium (imm),3
+20009.0,33067.0,Epithelium (imm),3
+20115.0,33070.0,Epithelium (imm),3
+20024.0,33067.0,Epithelium (imm),3
+20088.0,33065.0,Epithelium (imm),3
+20434.0,33068.0,Epithelium (imm),3
+20474.0,33076.0,Epithelium (imm),3
+20013.0,33076.0,Epithelium (imm),3
+19992.0,33074.0,Epithelium (imm),3
+20024.0,33078.0,Epithelium (imm),3
+20119.0,33077.0,Epithelium (imm),3
+20475.0,33081.0,Epithelium (imm),3
+20443.0,33082.0,Epithelium (imm),3
+19988.0,33091.0,Epithelium (imm),3
+20130.0,33091.0,Epithelium (imm),3
+20162.0,33095.0,Epithelium (imm),3
+19902.0,32633.0,Epithelium (imm),3
+19914.0,32669.0,Epithelium (imm),3
+19919.0,32689.0,Epithelium (imm),3
+19573.0,32718.0,Epithelium (imm),3
+19602.0,32725.0,Epithelium (imm),3
+19912.0,32726.0,Epithelium (imm),3
+19906.0,32732.0,Epithelium (imm),3
+19601.0,32740.0,Epithelium (imm),3
+19888.0,32740.0,Epithelium (imm),3
+19613.0,32747.0,Epithelium (imm),3
+19870.0,32755.0,Epithelium (imm),3
+19905.0,32752.0,Epithelium (imm),3
+19888.0,32754.0,Epithelium (imm),3
+19868.0,32765.0,Epithelium (imm),3
+19569.0,32761.0,Epithelium (imm),3
+19915.0,32761.0,Epithelium (imm),3
+19893.0,32768.0,Epithelium (imm),3
+19610.0,32775.0,Epithelium (imm),3
+19874.0,32775.0,Epithelium (imm),3
+19917.0,32781.0,Epithelium (imm),3
+19898.0,32786.0,Epithelium (imm),3
+19891.0,32791.0,Epithelium (imm),3
+19911.0,32796.0,Epithelium (imm),3
+19883.0,32807.0,Epithelium (imm),3
+19858.0,32808.0,Epithelium (imm),3
+19908.0,32812.0,Epithelium (imm),3
+19857.0,32818.0,Epithelium (imm),3
+19922.0,32823.0,Epithelium (imm),3
+19881.0,32818.0,Epithelium (imm),3
+19906.0,32822.0,Epithelium (imm),3
+19886.0,32828.0,Epithelium (imm),3
+19609.0,32825.0,Epithelium (imm),3
+19904.0,32831.0,Epithelium (imm),3
+19915.0,32829.0,Epithelium (imm),3
+19815.0,32837.0,Epithelium (imm),3
+19613.0,32839.0,Epithelium (imm),3
+19660.0,32843.0,Epithelium (imm),3
+19888.0,32843.0,Epithelium (imm),3
+19876.0,32846.0,Epithelium (imm),3
+19667.0,32844.0,Epithelium (imm),3
+19615.0,32849.0,Epithelium (imm),3
+19904.0,32849.0,Epithelium (imm),3
+19861.0,32851.0,Epithelium (imm),3
+19876.0,32853.0,Epithelium (imm),3
+19890.0,32856.0,Epithelium (imm),3
+19665.0,32858.0,Epithelium (imm),3
+19918.0,32856.0,Epithelium (imm),3
+19906.0,32862.0,Epithelium (imm),3
+19619.0,32864.0,Epithelium (imm),3
+19873.0,32865.0,Epithelium (imm),3
+19837.0,32863.0,Epithelium (imm),3
+19899.0,32869.0,Epithelium (imm),3
+19854.0,32869.0,Epithelium (imm),3
+19687.0,32869.0,Epithelium (imm),3
+19625.0,32882.0,Epithelium (imm),3
+19804.0,32880.0,Epithelium (imm),3
+19830.0,32881.0,Epithelium (imm),3
+19703.0,32885.0,Epithelium (imm),3
+19849.0,32889.0,Epithelium (imm),3
+19777.0,32891.0,Epithelium (imm),3
+19810.0,32896.0,Epithelium (imm),3
+19732.0,32892.0,Epithelium (imm),3
+19746.0,32904.0,Epithelium (imm),3
+19639.0,32903.0,Epithelium (imm),3
+19759.0,32907.0,Epithelium (imm),3
+19825.0,32907.0,Epithelium (imm),3
+19785.0,32909.0,Epithelium (imm),3
+19812.0,32913.0,Epithelium (imm),3
+19827.0,32916.0,Epithelium (imm),3
+19805.0,32919.0,Epithelium (imm),3
+19722.0,32917.0,Epithelium (imm),3
+19641.0,32921.0,Epithelium (imm),3
+19754.0,32927.0,Epithelium (imm),3
+19775.0,32927.0,Epithelium (imm),3
+19753.0,32943.0,Epithelium (imm),3
+19657.0,32946.0,Epithelium (imm),3
+19651.0,32962.0,Epithelium (imm),3
+19668.0,32968.0,Epithelium (imm),3
+19648.0,32983.0,Epithelium (imm),3
+19673.0,33002.0,Epithelium (imm),3
+19650.0,33010.0,Epithelium (imm),3
+19681.0,33017.0,Epithelium (imm),3
+19629.0,33025.0,Epithelium (imm),3
+19682.0,33033.0,Epithelium (imm),3
+19658.0,33032.0,Epithelium (imm),3
+19643.0,33037.0,Epithelium (imm),3
+19626.0,33050.0,Epithelium (imm),3
+19674.0,33051.0,Epithelium (imm),3
+19653.0,33068.0,Epithelium (imm),3
+19636.0,33072.0,Epithelium (imm),3
+19671.0,33077.0,Epithelium (imm),3
+19619.0,33080.0,Epithelium (imm),3
+19640.0,33086.0,Epithelium (imm),3
+19654.0,33091.0,Epithelium (imm),3
+19654.0,33103.0,Epithelium (imm),3
+20408.0,33099.0,Epithelium (imm),3
+20382.0,33101.0,Epithelium (imm),3
+19989.0,33107.0,Epithelium (imm),3
+20003.0,33106.0,Epithelium (imm),3
+20177.0,33103.0,Epithelium (imm),3
+20009.0,33109.0,Epithelium (imm),3
+20415.0,33113.0,Epithelium (imm),3
+20500.0,33110.0,Epithelium (imm),3
+20003.0,33116.0,Epithelium (imm),3
+20114.0,33109.0,Epithelium (imm),3
+20368.0,33112.0,Epithelium (imm),3
+20387.0,33119.0,Epithelium (imm),3
+20201.0,33124.0,Epithelium (imm),3
+20153.0,33123.0,Epithelium (imm),3
+20346.0,33123.0,Epithelium (imm),3
+20097.0,33125.0,Epithelium (imm),3
+20365.0,33128.0,Epithelium (imm),3
+19980.0,33126.0,Epithelium (imm),3
+20220.0,33126.0,Epithelium (imm),3
+20406.0,33127.0,Epithelium (imm),3
+20182.0,33133.0,Epithelium (imm),3
+20037.0,33136.0,Epithelium (imm),3
+20069.0,33130.0,Epithelium (imm),3
+20113.0,33141.0,Epithelium (imm),3
+20373.0,33140.0,Epithelium (imm),3
+20067.0,33145.0,Epithelium (imm),3
+20091.0,33141.0,Epithelium (imm),3
+20220.0,33143.0,Epithelium (imm),3
+20083.0,33146.0,Epithelium (imm),3
+20198.0,33148.0,Epithelium (imm),3
+20152.0,33146.0,Epithelium (imm),3
+20037.0,33152.0,Epithelium (imm),3
+20228.0,33158.0,Epithelium (imm),3
+19998.0,33152.0,Epithelium (imm),3
+19984.0,33153.0,Epithelium (imm),3
+20227.0,33160.0,Epithelium (imm),3
+20028.0,33157.0,Epithelium (imm),3
+20398.0,33156.0,Epithelium (imm),3
+19965.0,33169.0,Epithelium (imm),3
+20209.0,33170.0,Epithelium (imm),3
+20056.0,33164.0,Epithelium (imm),3
+20195.0,33167.0,Epithelium (imm),3
+20010.0,33165.0,Epithelium (imm),3
+20392.0,33170.0,Epithelium (imm),3
+19990.0,33174.0,Epithelium (imm),3
+20403.0,33173.0,Epithelium (imm),3
+20082.0,33169.0,Epithelium (imm),3
+20220.0,33170.0,Epithelium (imm),3
+20199.0,33177.0,Epithelium (imm),3
+20171.0,33171.0,Epithelium (imm),3
+20147.0,33174.0,Epithelium (imm),3
+20023.0,33179.0,Epithelium (imm),3
+20388.0,33185.0,Epithelium (imm),3
+20407.0,33184.0,Epithelium (imm),3
+19984.0,33186.0,Epithelium (imm),3
+20094.0,33181.0,Epithelium (imm),3
+20204.0,33186.0,Epithelium (imm),3
+20438.0,33181.0,Epithelium (imm),3
+19998.0,33185.0,Epithelium (imm),3
+20053.0,33189.0,Epithelium (imm),3
+19949.0,33184.0,Epithelium (imm),3
+20427.0,33183.0,Epithelium (imm),3
+20182.0,33189.0,Epithelium (imm),3
+20064.0,33188.0,Epithelium (imm),3
+20411.0,33192.0,Epithelium (imm),3
+20138.0,33188.0,Epithelium (imm),3
+20148.0,33192.0,Epithelium (imm),3
+20234.0,33195.0,Epithelium (imm),3
+20397.0,33197.0,Epithelium (imm),3
+20432.0,33200.0,Epithelium (imm),3
+19988.0,33201.0,Epithelium (imm),3
+20213.0,33199.0,Epithelium (imm),3
+20414.0,33202.0,Epithelium (imm),3
+20452.0,33197.0,Epithelium (imm),3
+20166.0,33198.0,Epithelium (imm),3
+20009.0,33200.0,Epithelium (imm),3
+20183.0,33205.0,Epithelium (imm),3
+20203.0,33206.0,Epithelium (imm),3
+20485.0,33205.0,Epithelium (imm),3
+19987.0,33210.0,Epithelium (imm),3
+20209.0,33208.0,Epithelium (imm),3
+20037.0,33206.0,Epithelium (imm),3
+19989.0,33214.0,Epithelium (imm),3
+20409.0,33210.0,Epithelium (imm),3
+20023.0,33210.0,Epithelium (imm),3
+20165.0,33218.0,Epithelium (imm),3
+19975.0,33212.0,Epithelium (imm),3
+19949.0,33216.0,Epithelium (imm),3
+20009.0,33218.0,Epithelium (imm),3
+20427.0,33221.0,Epithelium (imm),3
+19992.0,33225.0,Epithelium (imm),3
+20255.0,33218.0,Epithelium (imm),3
+20188.0,33223.0,Epithelium (imm),3
+20196.0,33224.0,Epithelium (imm),3
+20006.0,33224.0,Epithelium (imm),3
+20038.0,33225.0,Epithelium (imm),3
+20137.0,33221.0,Epithelium (imm),3
+19970.0,33221.0,Epithelium (imm),3
+19979.0,33228.0,Epithelium (imm),3
+20152.0,33221.0,Epithelium (imm),3
+20121.0,33224.0,Epithelium (imm),3
+20273.0,33228.0,Epithelium (imm),3
+20439.0,33226.0,Epithelium (imm),3
+19999.0,33235.0,Epithelium (imm),3
+20422.0,33233.0,Epithelium (imm),3
+20018.0,33233.0,Epithelium (imm),3
+20038.0,33235.0,Epithelium (imm),3
+20160.0,33232.0,Epithelium (imm),3
+20482.0,33230.0,Epithelium (imm),3
+19976.0,33238.0,Epithelium (imm),3
+20464.0,33231.0,Epithelium (imm),3
+20064.0,33233.0,Epithelium (imm),3
+20138.0,33239.0,Epithelium (imm),3
+20168.0,33237.0,Epithelium (imm),3
+20050.0,33236.0,Epithelium (imm),3
+20032.0,33246.0,Epithelium (imm),3
+20453.0,33242.0,Epithelium (imm),3
+20018.0,33248.0,Epithelium (imm),3
+20079.0,33242.0,Epithelium (imm),3
+20161.0,33246.0,Epithelium (imm),3
+20099.0,33243.0,Epithelium (imm),3
+20115.0,33244.0,Epithelium (imm),3
+20124.0,33249.0,Epithelium (imm),3
+20270.0,33245.0,Epithelium (imm),3
+20469.0,33249.0,Epithelium (imm),3
+20228.0,33246.0,Epithelium (imm),3
+20255.0,33246.0,Epithelium (imm),3
+20291.0,33246.0,Epithelium (imm),3
+20052.0,33253.0,Epithelium (imm),3
+20467.0,33256.0,Epithelium (imm),3
+20492.0,33256.0,Epithelium (imm),3
+19986.0,33254.0,Epithelium (imm),3
+20108.0,33260.0,Epithelium (imm),3
+20150.0,33260.0,Epithelium (imm),3
+20232.0,33263.0,Epithelium (imm),3
+20272.0,33261.0,Epithelium (imm),3
+20496.0,33263.0,Epithelium (imm),3
+20258.0,33265.0,Epithelium (imm),3
+20211.0,33269.0,Epithelium (imm),3
+20248.0,33280.0,Epithelium (imm),3
+20292.0,33281.0,Epithelium (imm),3
+20275.0,33284.0,Epithelium (imm),3
+20487.0,33284.0,Epithelium (imm),3
+20164.0,33285.0,Epithelium (imm),3
+20155.0,33300.0,Epithelium (imm),3
+20273.0,33302.0,Epithelium (imm),3
+20134.0,33305.0,Epithelium (imm),3
+20175.0,33311.0,Epithelium (imm),3
+20157.0,33311.0,Epithelium (imm),3
+20235.0,33313.0,Epithelium (imm),3
+20273.0,33320.0,Epithelium (imm),3
+20170.0,33317.0,Epithelium (imm),3
+20131.0,33318.0,Epithelium (imm),3
+20149.0,33323.0,Epithelium (imm),3
+20196.0,33318.0,Epithelium (imm),3
+20116.0,33319.0,Epithelium (imm),3
+20151.0,33332.0,Epithelium (imm),3
+20099.0,33329.0,Epithelium (imm),3
+20134.0,33334.0,Epithelium (imm),3
+20175.0,33332.0,Epithelium (imm),3
+20257.0,33333.0,Epithelium (imm),3
+20283.0,33336.0,Epithelium (imm),3
+20122.0,33341.0,Epithelium (imm),3
+20092.0,33341.0,Epithelium (imm),3
+20078.0,33343.0,Epithelium (imm),3
+20110.0,33349.0,Epithelium (imm),3
+20156.0,33351.0,Epithelium (imm),3
+20250.0,33352.0,Epithelium (imm),3
+20139.0,33356.0,Epithelium (imm),3
+20310.0,33350.0,Epithelium (imm),3
+20148.0,33358.0,Epithelium (imm),3
+20079.0,33361.0,Epithelium (imm),3
+20159.0,33362.0,Epithelium (imm),3
+20061.0,33359.0,Epithelium (imm),3
+20274.0,33358.0,Epithelium (imm),3
+20170.0,33357.0,Epithelium (imm),3
+20133.0,33365.0,Epithelium (imm),3
+20096.0,33365.0,Epithelium (imm),3
+20253.0,33368.0,Epithelium (imm),3
+20147.0,33370.0,Epithelium (imm),3
+20231.0,33364.0,Epithelium (imm),3
+20244.0,33364.0,Epithelium (imm),3
+20121.0,33370.0,Epithelium (imm),3
+20195.0,33365.0,Epithelium (imm),3
+20261.0,33369.0,Epithelium (imm),3
+20146.0,33374.0,Epithelium (imm),3
+20021.0,33368.0,Epithelium (imm),3
+20294.0,33371.0,Epithelium (imm),3
+20117.0,33377.0,Epithelium (imm),3
+20171.0,33378.0,Epithelium (imm),3
+20054.0,33374.0,Epithelium (imm),3
+20219.0,33372.0,Epithelium (imm),3
+20329.0,33375.0,Epithelium (imm),3
+20071.0,33377.0,Epithelium (imm),3
+20306.0,33377.0,Epithelium (imm),3
+20238.0,33382.0,Epithelium (imm),3
+20047.0,33385.0,Epithelium (imm),3
+20015.0,33386.0,Epithelium (imm),3
+20333.0,33393.0,Epithelium (imm),3
+20194.0,33394.0,Epithelium (imm),3
+20324.0,33393.0,Epithelium (imm),3
+20210.0,33395.0,Epithelium (imm),3
+20001.0,33396.0,Epithelium (imm),3
+20028.0,33399.0,Epithelium (imm),3
+20036.0,33401.0,Epithelium (imm),3
+20190.0,33399.0,Epithelium (imm),3
+20220.0,33403.0,Epithelium (imm),3
+20206.0,33405.0,Epithelium (imm),3
+20250.0,33398.0,Epithelium (imm),3
+20108.0,33399.0,Epithelium (imm),3
+19976.0,33405.0,Epithelium (imm),3
+20334.0,33406.0,Epithelium (imm),3
+20230.0,33407.0,Epithelium (imm),3
+19944.0,33409.0,Epithelium (imm),3
+20053.0,33411.0,Epithelium (imm),3
+20171.0,33414.0,Epithelium (imm),3
+20235.0,33415.0,Epithelium (imm),3
+20195.0,33418.0,Epithelium (imm),3
+19997.0,33424.0,Epithelium (imm),3
+20178.0,33428.0,Epithelium (imm),3
+20096.0,33428.0,Epithelium (imm),3
+20114.0,33430.0,Epithelium (imm),3
+20156.0,33430.0,Epithelium (imm),3
+20123.0,33433.0,Epithelium (imm),3
+20072.0,33435.0,Epithelium (imm),3
+20098.0,33441.0,Epithelium (imm),3
+20358.0,33436.0,Epithelium (imm),3
+20144.0,33437.0,Epithelium (imm),3
+20086.0,33437.0,Epithelium (imm),3
+20251.0,33445.0,Epithelium (imm),3
+20122.0,33447.0,Epithelium (imm),3
+20235.0,33448.0,Epithelium (imm),3
+20326.0,33441.0,Epithelium (imm),3
+20129.0,33443.0,Epithelium (imm),3
+20114.0,33450.0,Epithelium (imm),3
+20221.0,33448.0,Epithelium (imm),3
+19980.0,33450.0,Epithelium (imm),3
+20335.0,33457.0,Epithelium (imm),3
+20314.0,33454.0,Epithelium (imm),3
+20085.0,33462.0,Epithelium (imm),3
+20112.0,33462.0,Epithelium (imm),3
+19969.0,33461.0,Epithelium (imm),3
+19944.0,33458.0,Epithelium (imm),3
+20101.0,33463.0,Epithelium (imm),3
+20204.0,33461.0,Epithelium (imm),3
+20033.0,33460.0,Epithelium (imm),3
+19927.0,33462.0,Epithelium (imm),3
+20268.0,33464.0,Epithelium (imm),3
+20280.0,33469.0,Epithelium (imm),3
+20238.0,33464.0,Epithelium (imm),3
+20318.0,33468.0,Epithelium (imm),3
+19941.0,33469.0,Epithelium (imm),3
+20232.0,33475.0,Epithelium (imm),3
+20091.0,33478.0,Epithelium (imm),3
+20118.0,33476.0,Epithelium (imm),3
+20018.0,33472.0,Epithelium (imm),3
+20006.0,33473.0,Epithelium (imm),3
+19971.0,33484.0,Epithelium (imm),3
+20219.0,33481.0,Epithelium (imm),3
+19992.0,33482.0,Epithelium (imm),3
+20320.0,33487.0,Epithelium (imm),3
+20110.0,33490.0,Epithelium (imm),3
+20029.0,33487.0,Epithelium (imm),3
+20202.0,33488.0,Epithelium (imm),3
+20334.0,33492.0,Epithelium (imm),3
+20011.0,33494.0,Epithelium (imm),3
+20076.0,33495.0,Epithelium (imm),3
+19969.0,33496.0,Epithelium (imm),3
+20270.0,33495.0,Epithelium (imm),3
+20301.0,33496.0,Epithelium (imm),3
+20359.0,33495.0,Epithelium (imm),3
+20252.0,33497.0,Epithelium (imm),3
+20318.0,33499.0,Epithelium (imm),3
+19924.0,33500.0,Epithelium (imm),3
+19618.0,33098.0,Epithelium (imm),3
+19650.0,33109.0,Epithelium (imm),3
+19633.0,33111.0,Epithelium (imm),3
+19625.0,33123.0,Epithelium (imm),3
+19608.0,33127.0,Epithelium (imm),3
+19598.0,33136.0,Epithelium (imm),3
+19519.0,33137.0,Epithelium (imm),3
+19626.0,33142.0,Epithelium (imm),3
+19614.0,33152.0,Epithelium (imm),3
+19523.0,33162.0,Epithelium (imm),3
+19513.0,33159.0,Epithelium (imm),3
+19517.0,33172.0,Epithelium (imm),3
+19545.0,33174.0,Epithelium (imm),3
+19612.0,33173.0,Epithelium (imm),3
+19651.0,33172.0,Epithelium (imm),3
+19621.0,33177.0,Epithelium (imm),3
+19527.0,33181.0,Epithelium (imm),3
+19639.0,33180.0,Epithelium (imm),3
+19514.0,33189.0,Epithelium (imm),3
+19620.0,33196.0,Epithelium (imm),3
+19679.0,33195.0,Epithelium (imm),3
+19646.0,33198.0,Epithelium (imm),3
+19667.0,33197.0,Epithelium (imm),3
+19698.0,33203.0,Epithelium (imm),3
+19634.0,33210.0,Epithelium (imm),3
+19661.0,33213.0,Epithelium (imm),3
+19685.0,33213.0,Epithelium (imm),3
+19503.0,33211.0,Epithelium (imm),3
+19694.0,33217.0,Epithelium (imm),3
+19678.0,33221.0,Epithelium (imm),3
+19674.0,33227.0,Epithelium (imm),3
+19712.0,33224.0,Epithelium (imm),3
+19672.0,33236.0,Epithelium (imm),3
+19599.0,33236.0,Epithelium (imm),3
+19697.0,33243.0,Epithelium (imm),3
+19718.0,33244.0,Epithelium (imm),3
+19724.0,33240.0,Epithelium (imm),3
+19531.0,33241.0,Epithelium (imm),3
+19687.0,33247.0,Epithelium (imm),3
+19708.0,33256.0,Epithelium (imm),3
+19751.0,33255.0,Epithelium (imm),3
+19598.0,33256.0,Epithelium (imm),3
+19685.0,33262.0,Epithelium (imm),3
+19733.0,33258.0,Epithelium (imm),3
+19659.0,33260.0,Epithelium (imm),3
+19728.0,33274.0,Epithelium (imm),3
+19677.0,33273.0,Epithelium (imm),3
+19502.0,33272.0,Epithelium (imm),3
+19752.0,33275.0,Epithelium (imm),3
+19616.0,33276.0,Epithelium (imm),3
+19596.0,33278.0,Epithelium (imm),3
+19781.0,33284.0,Epithelium (imm),3
+19573.0,33283.0,Epithelium (imm),3
+19745.0,33283.0,Epithelium (imm),3
+19729.0,33297.0,Epithelium (imm),3
+19772.0,33298.0,Epithelium (imm),3
+19570.0,33300.0,Epithelium (imm),3
+19606.0,33298.0,Epithelium (imm),3
+19591.0,33309.0,Epithelium (imm),3
+19777.0,33309.0,Epithelium (imm),3
+19558.0,33307.0,Epithelium (imm),3
+19740.0,33314.0,Epithelium (imm),3
+19784.0,33308.0,Epithelium (imm),3
+19762.0,33314.0,Epithelium (imm),3
+19638.0,33312.0,Epithelium (imm),3
+19799.0,33315.0,Epithelium (imm),3
+19654.0,33315.0,Epithelium (imm),3
+19608.0,33322.0,Epithelium (imm),3
+19626.0,33321.0,Epithelium (imm),3
+19758.0,33324.0,Epithelium (imm),3
+19771.0,33325.0,Epithelium (imm),3
+19698.0,33321.0,Epithelium (imm),3
+19817.0,33325.0,Epithelium (imm),3
+19535.0,33326.0,Epithelium (imm),3
+19668.0,33328.0,Epithelium (imm),3
+19580.0,33327.0,Epithelium (imm),3
+19773.0,33334.0,Epithelium (imm),3
+19516.0,33329.0,Epithelium (imm),3
+19576.0,33335.0,Epithelium (imm),3
+19644.0,33334.0,Epithelium (imm),3
+19755.0,33338.0,Epithelium (imm),3
+19602.0,33339.0,Epithelium (imm),3
+19615.0,33342.0,Epithelium (imm),3
+19823.0,33343.0,Epithelium (imm),3
+19803.0,33342.0,Epithelium (imm),3
+19764.0,33347.0,Epithelium (imm),3
+19736.0,33343.0,Epithelium (imm),3
+19787.0,33346.0,Epithelium (imm),3
+19734.0,33350.0,Epithelium (imm),3
+19585.0,33360.0,Epithelium (imm),3
+19768.0,33356.0,Epithelium (imm),3
+19666.0,33354.0,Epithelium (imm),3
+19837.0,33354.0,Epithelium (imm),3
+19823.0,33362.0,Epithelium (imm),3
+19783.0,33356.0,Epithelium (imm),3
+19500.0,33359.0,Epithelium (imm),3
+19802.0,33364.0,Epithelium (imm),3
+19617.0,33363.0,Epithelium (imm),3
+19599.0,33366.0,Epithelium (imm),3
+19791.0,33364.0,Epithelium (imm),3
+19846.0,33365.0,Epithelium (imm),3
+19765.0,33372.0,Epithelium (imm),3
+19838.0,33371.0,Epithelium (imm),3
+19822.0,33373.0,Epithelium (imm),3
+19777.0,33373.0,Epithelium (imm),3
+19658.0,33371.0,Epithelium (imm),3
+19618.0,33380.0,Epithelium (imm),3
+19641.0,33381.0,Epithelium (imm),3
+19833.0,33382.0,Epithelium (imm),3
+19785.0,33383.0,Epithelium (imm),3
+19816.0,33381.0,Epithelium (imm),3
+19596.0,33383.0,Epithelium (imm),3
+19753.0,33382.0,Epithelium (imm),3
+19669.0,33382.0,Epithelium (imm),3
+19853.0,33383.0,Epithelium (imm),3
+19656.0,33389.0,Epithelium (imm),3
+19508.0,33384.0,Epithelium (imm),3
+19836.0,33392.0,Epithelium (imm),3
+19560.0,33386.0,Epithelium (imm),3
+19628.0,33392.0,Epithelium (imm),3
+19800.0,33392.0,Epithelium (imm),3
+19829.0,33394.0,Epithelium (imm),3
+19865.0,33388.0,Epithelium (imm),3
+19569.0,33393.0,Epithelium (imm),3
+19530.0,33397.0,Epithelium (imm),3
+19666.0,33406.0,Epithelium (imm),3
+19811.0,33404.0,Epithelium (imm),3
+19842.0,33406.0,Epithelium (imm),3
+19892.0,33402.0,Epithelium (imm),3
+19599.0,33410.0,Epithelium (imm),3
+19616.0,33407.0,Epithelium (imm),3
+19575.0,33412.0,Epithelium (imm),3
+19878.0,33410.0,Epithelium (imm),3
+19915.0,33411.0,Epithelium (imm),3
+19815.0,33421.0,Epithelium (imm),3
+19508.0,33420.0,Epithelium (imm),3
+19898.0,33420.0,Epithelium (imm),3
+19513.0,33418.0,Epithelium (imm),3
+19914.0,33421.0,Epithelium (imm),3
+19628.0,33424.0,Epithelium (imm),3
+19579.0,33428.0,Epithelium (imm),3
+19561.0,33426.0,Epithelium (imm),3
+19812.0,33430.0,Epithelium (imm),3
+19856.0,33429.0,Epithelium (imm),3
+19878.0,33430.0,Epithelium (imm),3
+19888.0,33432.0,Epithelium (imm),3
+19533.0,33433.0,Epithelium (imm),3
+19514.0,33445.0,Epithelium (imm),3
+19557.0,33440.0,Epithelium (imm),3
+19622.0,33440.0,Epithelium (imm),3
+19633.0,33442.0,Epithelium (imm),3
+19809.0,33448.0,Epithelium (imm),3
+19897.0,33442.0,Epithelium (imm),3
+19829.0,33449.0,Epithelium (imm),3
+19839.0,33443.0,Epithelium (imm),3
+19875.0,33450.0,Epithelium (imm),3
+19888.0,33450.0,Epithelium (imm),3
+19850.0,33444.0,Epithelium (imm),3
+19525.0,33450.0,Epithelium (imm),3
+19594.0,33447.0,Epithelium (imm),3
+19578.0,33448.0,Epithelium (imm),3
+19620.0,33455.0,Epithelium (imm),3
+19889.0,33452.0,Epithelium (imm),3
+19868.0,33454.0,Epithelium (imm),3
+19515.0,33458.0,Epithelium (imm),3
+19640.0,33457.0,Epithelium (imm),3
+19537.0,33460.0,Epithelium (imm),3
+19833.0,33460.0,Epithelium (imm),3
+19525.0,33462.0,Epithelium (imm),3
+19824.0,33463.0,Epithelium (imm),3
+19904.0,33458.0,Epithelium (imm),3
+19501.0,33465.0,Epithelium (imm),3
+19551.0,33461.0,Epithelium (imm),3
+19597.0,33468.0,Epithelium (imm),3
+19565.0,33466.0,Epithelium (imm),3
+19515.0,33470.0,Epithelium (imm),3
+19536.0,33473.0,Epithelium (imm),3
+19809.0,33473.0,Epithelium (imm),3
+19600.0,33476.0,Epithelium (imm),3
+19622.0,33474.0,Epithelium (imm),3
+19580.0,33475.0,Epithelium (imm),3
+19601.0,33482.0,Epithelium (imm),3
+19874.0,33476.0,Epithelium (imm),3
+19532.0,33484.0,Epithelium (imm),3
+19799.0,33480.0,Epithelium (imm),3
+19884.0,33493.0,Epithelium (imm),3
+19832.0,33494.0,Epithelium (imm),3
+19842.0,33499.0,Epithelium (imm),3
+20280.0,32600.0,Epithelium (imm),3
+20420.0,32607.0,Epithelium (imm),3
+20388.0,32610.0,Epithelium (imm),3
+20409.0,32610.0,Epithelium (imm),3
+20300.0,32703.0,Epithelium (imm),3
+20146.0,32716.0,Epithelium (imm),3
+19982.0,32725.0,Epithelium (imm),3
+20135.0,32727.0,Epithelium (imm),3
+20151.0,32744.0,Epithelium (imm),3
+20137.0,32748.0,Epithelium (imm),3
+20167.0,32755.0,Epithelium (imm),3
+20140.0,32766.0,Epithelium (imm),3
+20129.0,32773.0,Epithelium (imm),3
+20035.0,32778.0,Epithelium (imm),3
+20154.0,32783.0,Epithelium (imm),3
+20162.0,32855.0,Epithelium (imm),3
+20198.0,32853.0,Epithelium (imm),3
+20059.0,32908.0,Epithelium (imm),3
+20202.0,32964.0,Epithelium (imm),3
+20064.0,33021.0,Epithelium (imm),3
+20032.0,33030.0,Epithelium (imm),3
+20074.0,33042.0,Epithelium (imm),3
+20056.0,33071.0,Epithelium (imm),3
+20398.0,33074.0,Epithelium (imm),3
+19799.0,32502.0,Epithelium (imm),3
+19892.0,32503.0,Epithelium (imm),3
+19578.0,32506.0,Epithelium (imm),3
+19637.0,32507.0,Epithelium (imm),3
+19624.0,32510.0,Epithelium (imm),3
+19593.0,32516.0,Epithelium (imm),3
+19863.0,32514.0,Epithelium (imm),3
+19613.0,32517.0,Epithelium (imm),3
+19856.0,32528.0,Epithelium (imm),3
+19784.0,32540.0,Epithelium (imm),3
+19843.0,32538.0,Epithelium (imm),3
+19720.0,32544.0,Epithelium (imm),3
+19819.0,32551.0,Epithelium (imm),3
+19573.0,32550.0,Epithelium (imm),3
+19557.0,32553.0,Epithelium (imm),3
+19696.0,32553.0,Epithelium (imm),3
+19824.0,32561.0,Epithelium (imm),3
+19800.0,32563.0,Epithelium (imm),3
+19598.0,32572.0,Epithelium (imm),3
+19846.0,32573.0,Epithelium (imm),3
+19856.0,32591.0,Epithelium (imm),3
+19622.0,32587.0,Epithelium (imm),3
+19650.0,32598.0,Epithelium (imm),3
+19869.0,32601.0,Epithelium (imm),3
+19571.0,32605.0,Epithelium (imm),3
+19593.0,32606.0,Epithelium (imm),3
+19516.0,32612.0,Epithelium (imm),3
+19867.0,32628.0,Epithelium (imm),3
+19542.0,32641.0,Epithelium (imm),3
+19883.0,32660.0,Epithelium (imm),3
+19838.0,32659.0,Epithelium (imm),3
+19822.0,32679.0,Epithelium (imm),3
+19858.0,32681.0,Epithelium (imm),3
+19521.0,32682.0,Epithelium (imm),3
+19550.0,32688.0,Epithelium (imm),3
+19522.0,32698.0,Epithelium (imm),3
+19571.0,32694.0,Epithelium (imm),3
+19602.0,32700.0,Epithelium (imm),3
+19826.0,32707.0,Epithelium (imm),3
+19533.0,32711.0,Epithelium (imm),3
+19513.0,32724.0,Epithelium (imm),3
+19547.0,32720.0,Epithelium (imm),3
+19797.0,32734.0,Epithelium (imm),3
+19576.0,32742.0,Epithelium (imm),3
+19542.0,32745.0,Epithelium (imm),3
+19564.0,32745.0,Epithelium (imm),3
+19661.0,32752.0,Epithelium (imm),3
+19543.0,32761.0,Epithelium (imm),3
+19725.0,32770.0,Epithelium (imm),3
+19579.0,32774.0,Epithelium (imm),3
+19656.0,32777.0,Epithelium (imm),3
+19544.0,32780.0,Epithelium (imm),3
+19575.0,32790.0,Epithelium (imm),3
+19600.0,32801.0,Epithelium (imm),3
+19570.0,32804.0,Epithelium (imm),3
+19635.0,32801.0,Epithelium (imm),3
+19713.0,32803.0,Epithelium (imm),3
+19731.0,32804.0,Epithelium (imm),3
+19746.0,32805.0,Epithelium (imm),3
+19572.0,32818.0,Epithelium (imm),3
+19697.0,32815.0,Epithelium (imm),3
+19778.0,32830.0,Epithelium (imm),3
+19659.0,32829.0,Epithelium (imm),3
+19759.0,32832.0,Epithelium (imm),3
+19709.0,32832.0,Epithelium (imm),3
+19578.0,32832.0,Epithelium (imm),3
+19739.0,32834.0,Epithelium (imm),3
+19745.0,32861.0,Epithelium (imm),3
+19585.0,32867.0,Epithelium (imm),3
+19604.0,32882.0,Epithelium (imm),3
+19594.0,32897.0,Epithelium (imm),3
+19610.0,32904.0,Epithelium (imm),3
+19625.0,32903.0,Epithelium (imm),3
+19618.0,32930.0,Epithelium (imm),3
+19621.0,32950.0,Epithelium (imm),3
+19586.0,32944.0,Epithelium (imm),3
+19561.0,32956.0,Epithelium (imm),3
+19528.0,32983.0,Epithelium (imm),3
+19558.0,32996.0,Epithelium (imm),3
+19541.0,33005.0,Epithelium (imm),3
+19556.0,33013.0,Epithelium (imm),3
+19510.0,33008.0,Epithelium (imm),3
+19577.0,33042.0,Epithelium (imm),3
+19524.0,33045.0,Epithelium (imm),3
+19529.0,33071.0,Epithelium (imm),3
+19548.0,33071.0,Epithelium (imm),3
+19506.0,33076.0,Epithelium (imm),3
+19583.0,33081.0,Epithelium (imm),3
+19515.0,33094.0,Epithelium (imm),3
+20350.0,33098.0,Epithelium (imm),3
+20477.0,33109.0,Epithelium (imm),3
+19968.0,33152.0,Epithelium (imm),3
+20499.0,33211.0,Epithelium (imm),3
+20292.0,33212.0,Epithelium (imm),3
+20183.0,33261.0,Epithelium (imm),3
+20379.0,33415.0,Epithelium (imm),3
+20269.0,33425.0,Epithelium (imm),3
+20310.0,33437.0,Epithelium (imm),3
+20270.0,33439.0,Epithelium (imm),3
+19587.0,33094.0,Epithelium (imm),3
+19524.0,33110.0,Epithelium (imm),3
+19545.0,33277.0,Epithelium (imm),3
+19529.0,33282.0,Epithelium (imm),3
+19690.0,33335.0,Epithelium (imm),3
+19902.0,33357.0,Epithelium (imm),3
+19690.0,33360.0,Epithelium (imm),3
+19675.0,33390.0,Epithelium (imm),3
+19708.0,33394.0,Epithelium (imm),3
+19704.0,33403.0,Epithelium (imm),3
+19703.0,33415.0,Epithelium (imm),3
+19683.0,33418.0,Epithelium (imm),3
+19654.0,33419.0,Epithelium (imm),3
+19710.0,33427.0,Epithelium (imm),3
+19774.0,33438.0,Epithelium (imm),3
+19724.0,33447.0,Epithelium (imm),3
+19791.0,33461.0,Epithelium (imm),3
+19721.0,33466.0,Epithelium (imm),3
+19764.0,33462.0,Epithelium (imm),3
+19642.0,33475.0,Epithelium (imm),3
+19748.0,33471.0,Epithelium (imm),3
+19772.0,33481.0,Epithelium (imm),3
+19779.0,33476.0,Epithelium (imm),3
+19768.0,33482.0,Epithelium (imm),3
+19651.0,32515.0,Epithelium (imm),3
+19883.0,32705.0,Epithelium (imm),3
+19868.0,32718.0,Epithelium (imm),3
+19816.0,32766.0,Epithelium (imm),3
+19810.0,32821.0,Epithelium (imm),3
+19694.0,32843.0,Epithelium (imm),3
+20380.915048207848,33341.13983823871,CD34,1
+20304.00235209294,33365.8266211225,CD34,1
+19890.85098857433,33288.39308320496,CD34,1
+19875.67781428935,33306.1349767961,CD34,1
+20380.7720773851,33296.09564236415,CD34,1
+20390.570599412466,33312.648254551,CD34,1
+20384.101808262898,33323.96879972163,CD34,1
+20271.420025955802,33333.33982307905,CD34,1
+20265.236662343257,33350.65357536465,CD34,1
+20245.0690202687,33347.60952907811,CD34,1
+20295.10755540573,33347.2287019745,CD34,1
+20344.575363995813,33355.88525679949,CD34,1
+20317.225490456225,33370.20253405473,CD34,1
+20284.73856388565,33381.76106403335,CD34,1
+20303.33661156078,33393.89006350467,CD34,1
+20316.840293430578,32605.354929527337,Podoplanin,8
+20480.80247609281,33441.501693414204,Podoplanin,8
+20479.470737974232,33455.58098586147,Podoplanin,8
+20475.71325137224,33481.78940630716,Podoplanin,8
+20380.915048207848,33341.13983823871,Podoplanin,8
+20304.00235209294,33365.8266211225,Podoplanin,8
+19604.743171223367,32725.36615551713,Podoplanin,8
+19585.336669247554,32738.303994870508,Podoplanin,8
+19909.350937613373,32814.97703532487,Podoplanin,8
+19851.607015720547,32842.75543575136,Podoplanin,8
+19941.220337543542,32937.599796373615,Podoplanin,8
+20382.864827075304,33276.974439398255,Podoplanin,8
+20380.7720773851,33296.09564236415,Podoplanin,8
+20390.570599412466,33312.648254551,Podoplanin,8
+20384.101808262898,33323.96879972163,Podoplanin,8
+20314.323772356856,33330.29539121116,Podoplanin,8
+20271.420025955802,33333.33982307905,Podoplanin,8
+20392.473321132227,33331.5791724922,Podoplanin,8
+20265.236662343257,33350.65357536465,Podoplanin,8
+20295.10755540573,33347.2287019745,Podoplanin,8
+20344.575363995813,33355.88525679949,Podoplanin,8
+20317.225490456225,33370.20253405473,Podoplanin,8
+20284.73856388565,33381.76106403335,Podoplanin,8
+20303.33661156078,33393.89006350467,Podoplanin,8
+20380.915048207848,33341.13983823871,CD146,0
+20304.00235209294,33365.8266211225,CD146,0
+19890.85098857433,33288.39308320496,CD146,0
+19875.67781428935,33306.1349767961,CD146,0
+20390.570599412466,33312.648254551,CD146,0
+20384.101808262898,33323.96879972163,CD146,0
+20314.323772356856,33330.29539121116,CD146,0
+20271.420025955802,33333.33982307905,CD146,0
+20265.236662343257,33350.65357536465,CD146,0
+20245.0690202687,33347.60952907811,CD146,0
+20295.10755540573,33347.2287019745,CD146,0
+20344.575363995813,33355.88525679949,CD146,0
+20317.225490456225,33370.20253405473,CD146,0
+20284.73856388565,33381.76106403335,CD146,0
+20303.33661156078,33393.89006350467,CD146,0
+20366.408642672,33499.00865871602,CD146,0
+20496.778706539488,32515.693522339687,SMA,9
+20374.395858205495,32888.93800006897,SMA,9
+20103.17964341604,32932.88985643123,SMA,9
+20112.026868847093,32950.48890772674,SMA,9
+20318.935228081813,32943.638261256616,SMA,9
+20352.13572349496,32947.06274906541,SMA,9
+20372.160780328133,32968.133987953006,SMA,9
+20331.73099630225,33065.16714046765,SMA,9
+20120.779851455623,33113.25679642705,SMA,9
+20150.745887030433,33111.829658741895,SMA,9
+20352.613106909223,33230.360777651375,SMA,9
+19962.816916682925,33264.94302445453,SMA,9
+19819.313073244157,33299.8091564693,SMA,9
+20032.215025175195,33355.74447093777,SMA,9
+20421.579989445094,32807.60130565719,SMA,9
+20423.054698386426,32838.56620908449,SMA,9
+20387.00044171142,32859.304834760245,SMA,9
+20450.786170192336,33000.430243917544,SMA,9
+20452.68902043922,33040.384958017275,SMA,9
+20415.826052409295,33044.142830200624,SMA,9
+20479.470737974232,33455.58098586147,SMA,9
+20475.71325137224,33481.78940630716,SMA,9
+19837.478481164573,32567.115479719265,SMA,9
+19902.880732665504,32595.035822751553,SMA,9
+19696.115472780664,32667.954461254798,SMA,9
+20380.915048207848,33341.13983823871,SMA,9
+20304.00235209294,33365.8266211225,SMA,9
+20316.127238696467,32674.467096374086,SMA,9
+19792.436213196797,32882.61539292013,SMA,9
+19811.414830921287,32902.7353352114,SMA,9
+19831.963043045234,32913.770324317884,SMA,9
+19741.066196995424,32939.12310478808,SMA,9
+19659.349703696982,33010.09080767978,SMA,9
+19769.605737520662,33012.84891232081,SMA,9
+19724.51448449841,33096.088199925216,SMA,9
+19723.658458941547,33120.15617089741,SMA,9
+19673.905351341546,33126.53020511599,SMA,9
+19854.17727735214,33127.95605752997,SMA,9
+19839.860385678265,33163.677572466004,SMA,9
+19755.00431799959,33189.743793251655,SMA,9
+19832.05998493724,33210.101206242434,SMA,9
+19759.52320175457,33221.564850762945,SMA,9
+19833.4871226224,33240.06724181725,SMA,9
+19802.712504219777,33245.537422168556,SMA,9
+19868.35261200157,33278.45210446331,SMA,9
+20296.248622918265,33266.082549641644,SMA,9
+19890.85098857433,33288.39308320496,SMA,9
+19875.67781428935,33306.1349767961,SMA,9
+20351.662195894263,33294.47860523565,SMA,9
+20390.570599412466,33312.648254551,SMA,9
+20051.098243333105,33331.81908520697,SMA,9
+20384.101808262898,33323.96879972163,SMA,9
+20392.473321132227,33331.5791724922,SMA,9
+20295.10755540573,33347.2287019745,SMA,9
+20284.73856388565,33381.76106403335,SMA,9
+20303.33661156078,33393.89006350467,SMA,9
+20389.429788954167,33435.84199920094,SMA,9
+20363.649509814015,33441.07432327139,SMA,9
+20412.926519270935,33361.640222052236,SMA,9
+19644.274499520965,33492.3539524638,SMA,9
+19661.39796678188,33494.541844666346,SMA,9
+20363.887494622,33467.09245869239,SMA,9
+20275.321254543254,33478.31837545915,SMA,9
+20391.66563799425,33482.78878826813,SMA,9
+20366.408642672,33499.00865871602,SMA,9
+19868.823569059903,32510.560325122275,Periostin,7
+20350.326344907888,32635.796420609626,Periostin,7
+19568.4496444692,32509.848684186465,Periostin,7
+19884.805454699796,32509.79918502352,Periostin,7
+19851.36723153291,32522.404154110787,Periostin,7
+19773.312825269877,32523.118108534727,Periostin,7
+19824.44549929887,32545.711242038473,Periostin,7
+19747.675388425363,32552.3708323212,Periostin,7
+19816.454685006036,32567.115608246386,Periostin,7
+20158.020047829832,32570.871166941597,Periostin,7
+19823.351745988264,32585.808669906735,Periostin,7
+20322.16737443201,32570.061555896842,Periostin,7
+20360.504922876153,32576.244790982255,Periostin,7
+19812.174043113268,32603.360278473196,Periostin,7
+19593.564697185655,32616.774987132336,Periostin,7
+20348.75649345421,32602.833781477337,Periostin,7
+19834.291978163757,32626.334110553424,Periostin,7
+20316.840293430578,32605.354929527337,Periostin,7
+20350.897071454834,32626.759038681015,Periostin,7
+19858.169792638382,32644.218460858854,Periostin,7
+20334.20174549947,32633.5609571509,Periostin,7
+19877.956993190688,32660.295360483982,Periostin,7
+20202.636616507327,32645.833570080566,Periostin,7
+19530.921064434224,32562.69379491053,Periostin,7
+19506.092081890398,32566.87967987231,Periostin,7
+19569.40171222823,32634.945022029035,Periostin,7
+20496.778706539488,32515.693522339687,Periostin,7
+20483.46055419099,32530.343669861002,Periostin,7
+20479.560353820467,32553.55548674923,Periostin,7
+20483.60352501373,32575.387865735564,Periostin,7
+20477.182305120343,32587.707278758695,Periostin,7
+20480.17916573207,32629.612157307267,Periostin,7
+20192.172482474904,32678.36819643443,Periostin,7
+20157.022079667175,32718.08531130756,Periostin,7
+20046.1001767842,32722.366852890154,Periostin,7
+20115.212343630952,32723.079907624247,Periostin,7
+19864.449069925977,32755.045221229484,Periostin,7
+20140.231739726587,32743.913290230994,Periostin,7
+19588.38110111545,32781.20774127155,Periostin,7
+20330.682629286806,32748.85890149322,Periostin,7
+19676.471757159583,32781.01694213839,Periostin,7
+19698.58956368296,32782.96697806009,Periostin,7
+19676.043744381153,32793.05092762449,Periostin,7
+19621.01086998166,32793.66961100897,Periostin,7
+20026.884216887313,32781.34775597057,Periostin,7
+20149.840105256386,32777.49422716641,Periostin,7
+20345.427919320467,32764.17478954671,Periostin,7
+19583.862602941816,32812.45807223589,Periostin,7
+20019.13125887534,32807.746461440955,Periostin,7
+20331.72945397683,32812.881586565156,Periostin,7
+20367.30825514434,32824.20187468157,Periostin,7
+19635.566260571988,32868.061416128105,Periostin,7
+19601.366897306343,32864.68449957548,Periostin,7
+20254.05574629029,32842.610279967594,Periostin,7
+20343.38312646778,32847.36624884073,Periostin,7
+20319.315155495584,32846.51022328387,Periostin,7
+20361.26773382745,32865.5360266832,Periostin,7
+20344.667550384427,32874.335680858065,Periostin,7
+20370.875970830126,32878.09316746005,Periostin,7
+20050.144247667293,32891.365804986286,Periostin,7
+20326.06963123642,32883.23047754528,Periostin,7
+19996.776238706698,32905.9210670495,Periostin,7
+20084.72418098232,32902.73366435885,Periostin,7
+20028.50215370563,32899.404447589535,Periostin,7
+20374.395858205495,32888.93800006897,Periostin,7
+20070.83517355975,32905.39739765025,Periostin,7
+19971.13867333507,32914.14999467743,Periostin,7
+20252.676693969777,32897.73829687943,Periostin,7
+20315.7480824454,32897.737911298085,Periostin,7
+20089.43322123487,32917.526397121575,Periostin,7
+20076.733366689492,32924.13803056676,Periostin,7
+20297.29287706592,32909.629311542776,Periostin,7
+20103.17964341604,32932.88985643123,Periostin,7
+20354.989484756803,32922.89963558088,Periostin,7
+20121.254407273274,32934.031309525126,Periostin,7
+20250.536501550516,32936.88442815138,Periostin,7
+20140.70860903237,32943.11613418279,Periostin,7
+20361.83897448287,32940.593829388716,Periostin,7
+19947.308815697972,32960.33590070011,Periostin,7
+20318.935228081813,32943.638261256616,Periostin,7
+20302.144888141218,32969.46624018006,Periostin,7
+20180.283138664105,32996.29372959158,Periostin,7
+20319.50634021011,32997.67226780363,Periostin,7
+20024.74518121212,33009.70805266938,Periostin,7
+20287.732853955007,33003.19001941112,Periostin,7
+20343.812167463166,33003.52263262294,Periostin,7
+19947.832485097213,33034.394835553176,Periostin,7
+20338.009373900015,33028.827327728504,Periostin,7
+20096.426067365035,33043.33617527961,Periostin,7
+20355.418268697947,33037.00842704601,Periostin,7
+20373.68331757987,33042.14535154989,Periostin,7
+20313.27566239564,33056.03474455381,Periostin,7
+20002.960759063295,33077.82148019075,Periostin,7
+20331.73099630225,33065.16714046765,Periostin,7
+19905.832849617665,33098.46534893552,Periostin,7
+19961.817020613482,33096.80022644238,Periostin,7
+19921.909877769907,33099.70194454175,Periostin,7
+20282.310887495456,33078.53324965368,Periostin,7
+20013.044708627698,33100.36729949256,Periostin,7
+19907.59285756891,33114.39966331926,Periostin,7
+19604.55532821394,33120.82281111943,Periostin,7
+19987.31200074372,33106.59849141553,Periostin,7
+20163.39817031965,33104.2191574442,Periostin,7
+19907.02213102197,33123.43704524786,Periostin,7
+20150.745887030433,33111.829658741895,Periostin,7
+20001.248707949584,33125.95742213515,Periostin,7
+20209.393791317652,33124.05354367132,Periostin,7
+19609.882794796726,33148.60082596457,Periostin,7
+20182.23407427563,33121.34249617799,Periostin,7
+19980.700624352758,33135.946229187204,Periostin,7
+20243.545583327126,33126.431592371446,Periostin,7
+19644.557870624096,33161.96642104211,Periostin,7
+20188.417694942404,33146.07633620946,Periostin,7
+20067.602256046834,33152.83132605879,Periostin,7
+20223.853782341394,33154.400020768386,Periostin,7
+20316.1301948202,33158.01440802051,Periostin,7
+20293.203805469017,33160.107414764956,Periostin,7
+20089.625048584985,33173.80742243402,Periostin,7
+19677.663480579144,33205.440765463005,Periostin,7
+20266.995513550442,33177.373724321515,Periostin,7
+19692.93192590358,33210.72040373538,Periostin,7
+20057.47112080762,33192.3580273801,Periostin,7
+20355.133740850746,33178.181793040836,Periostin,7
+20238.21863085281,33182.74876216048,Periostin,7
+20314.51315769171,33187.12428951135,Periostin,7
+20387.525653436092,33185.649323515776,Periostin,7
+20324.977548778366,33196.63725547456,Periostin,7
+19693.740765785624,33248.72495338631,Periostin,7
+19886.95040262246,33248.533511617556,Periostin,7
+19612.309314442857,33262.61447491736,Periostin,7
+19962.816916682925,33264.94302445453,Periostin,7
+19611.26300386131,33282.68697447958,Periostin,7
+20208.30055211553,33248.24615617375,Periostin,7
+19758.952732261867,33272.64982500864,Periostin,7
+20375.777481068384,33254.28590632793,Periostin,7
+20394.89868403429,33256.37865601814,Periostin,7
+19819.313073244157,33299.8091564693,Periostin,7
+19641.56216675645,33309.275707920424,Periostin,7
+20082.44345975555,33296.287726768496,Periostin,7
+20107.700583604932,33301.09165247916,Periostin,7
+20219.193341561968,33308.7965251265,Periostin,7
+19646.98477585158,33339.05145847054,Periostin,7
+19674.715219440543,33332.72512403524,Periostin,7
+20066.509273898944,33319.0715308783,Periostin,7
+19678.472963096774,33348.564295906646,Periostin,7
+19899.8887560843,33352.03519822753,Periostin,7
+19944.124497658173,33376.959066229465,Periostin,7
+20154.838428859537,33428.99405180029,Periostin,7
+20133.006178400312,33454.061019152105,Periostin,7
+19549.377169503543,32697.968967775614,Periostin,7
+19507.567433467328,32702.963564092308,Periostin,7
+19507.615518831975,32788.05761657896,Periostin,7
+19514.03712430672,32838.809592031466,Periostin,7
+19520.030459948804,32859.54796065297,Periostin,7
+19532.159845001483,32904.021301453475,Periostin,7
+19544.336801310328,32949.493510106455,Periostin,7
+19541.626010871238,33018.700819465565,Periostin,7
+19551.757531691805,33042.24550661986,Periostin,7
+19530.78143531656,33064.26829915802,Periostin,7
+19536.394200909264,33077.015724959565,Periostin,7
+19521.078441382888,33112.78481115177,Periostin,7
+19583.29380430165,33136.852396542614,Periostin,7
+19517.46366854941,33141.98983515496,Periostin,7
+19532.63709988862,33166.295533880875,Periostin,7
+19532.732370928083,33189.31706574441,Periostin,7
+19514.752749583204,33190.17334835551,Periostin,7
+19524.313543856828,33222.75541743843,Periostin,7
+19535.824502579268,33254.24347615651,Periostin,7
+19580.488256931574,33267.13335867234,Periostin,7
+19514.991634081005,33363.3580568863,Periostin,7
+20492.641421050837,32660.053776916673,Periostin,7
+20476.84982043562,32664.810388425398,Periostin,7
+20485.173890575894,32692.44568950203,Periostin,7
+20459.393611435742,32697.67801357246,Periostin,7
+20447.074455466856,32733.30438599616,Periostin,7
+20392.89786367845,32751.902690725525,Periostin,7
+20474.3770148045,32760.03583320552,Periostin,7
+20383.622753996086,32767.36142107465,Periostin,7
+20443.79268142657,32769.50148496679,Periostin,7
+20470.048673128436,32774.25783942128,Periostin,7
+20400.270765749523,32801.60822706935,Periostin,7
+20421.579989445094,32807.60130565719,Periostin,7
+20489.360418173266,32822.393652838546,Periostin,7
+20454.73304212919,32831.05072177202,Periostin,7
+20394.7533997234,32832.90612928985,Periostin,7
+20466.814727398574,32853.50139856149,Periostin,7
+20387.00044171142,32859.304834760245,Periostin,7
+20449.453532383926,32867.34296325501,Periostin,7
+20469.43088943381,32866.391538131575,Periostin,7
+20470.239600788722,32883.372291623964,Periostin,7
+20424.814963391895,32896.54811578531,Periostin,7
+20481.274975476565,32925.89546797564,Periostin,7
+20423.578624839905,32954.67273625462,Periostin,7
+20393.327290255183,32971.13046298337,Periostin,7
+20493.7848020515,32957.33595543756,Periostin,7
+20426.004630377567,32984.59120057326,Periostin,7
+20450.786170192336,33000.430243917544,Periostin,7
+20474.75899865219,32999.288533769395,Periostin,7
+20420.29697932676,33011.89363138381,Periostin,7
+20452.68902043922,33040.384958017275,Periostin,7
+20415.826052409295,33044.142830200624,Periostin,7
+20457.82620199732,33064.167501452444,Periostin,7
+20431.903209088654,33066.403221965404,Periostin,7
+20430.238600703993,33094.514235603754,Periostin,7
+20411.4503965313,33099.41356088099,Periostin,7
+20465.436960349252,33118.867377058734,Periostin,7
+20491.5502382826,33120.62712795574,Periostin,7
+20423.81750933772,33127.857444785426,Periostin,7
+20439.514095967705,33142.12689373024,Periostin,7
+20454.63982752363,33144.40992844515,Periostin,7
+20472.476735099994,33140.55704227656,Periostin,7
+20481.751973309478,33146.12210808598,Periostin,7
+20417.967144518385,33152.163272038466,Periostin,7
+20457.493845839712,33162.294407277695,Periostin,7
+20467.910665670195,33170.80850538841,Periostin,7
+20444.223264747383,33177.9434226515,Periostin,7
+20435.09176852336,33343.56532966789,Periostin,7
+20493.02648954936,33403.877585285525,Periostin,7
+20481.65850164967,33417.433722442016,Periostin,7
+20462.204428417685,33429.37269394289,Periostin,7
+20475.71325137224,33481.78940630716,Periostin,7
+20111.601940719513,33467.09400101781,Periostin,7
+20088.580537383106,33488.21306821582,Periostin,7
+20475.231626563054,32504.70610448937,Periostin,7
+20428.99827781131,32500.901175158324,Periostin,7
+20385.190806070103,32505.990913987378,Periostin,7
+20431.995009895916,32521.78225754835,Periostin,7
+20401.98140306493,32522.210527381023,Periostin,7
+20443.696125115923,32536.241991517858,Periostin,7
+20465.671217870786,32535.19542388208,Periostin,7
+20419.913581680754,32541.379173075973,Periostin,7
+20381.86146077366,32541.189145105523,Periostin,7
+20405.02583493282,32565.114273782077,Periostin,7
+20422.244444706073,32569.299901689614,Periostin,7
+20380.529851182197,32576.2922337113,Periostin,7
+20398.129031004828,32588.46880443881,Periostin,7
+20415.728210827456,32600.645375166307,Periostin,7
+20444.45752226891,32594.27146947484,Periostin,7
+20390.51878676137,32617.864113466676,Periostin,7
+20438.55958619342,32617.5784288754,Periostin,7
+20404.455493967227,32637.223044186307,Periostin,7
+20457.82363145495,32643.69157828163,Periostin,7
+19501.954282293264,32627.144749815132,Periostin,7
+19536.486644352113,32637.51374133521,Periostin,7
+19527.92497498522,32646.93169331321,Periostin,7
+19551.99294595741,32647.78771887006,Periostin,7
+19507.424462644572,32657.91936821775,Periostin,7
+19554.942106785842,32667.669933407597,Periostin,7
+19540.434801560154,32678.372180775114,Periostin,7
+19710.24130826714,32502.094697957553,Periostin,7
+19689.45536838946,32507.08916574713,Periostin,7
+19712.952612814708,32516.982573232603,Periostin,7
+19751.718174037276,32511.13182283192,Periostin,7
+19680.322972475617,32525.544499653737,Periostin,7
+19958.911960809022,32510.274383476757,Periostin,7
+20005.002595792248,32511.082709250317,Periostin,7
+19697.68429601739,32532.726731118768,Periostin,7
+20203.159000635387,32509.65454334821,Periostin,7
+20069.358279657397,32517.02795952776,Periostin,7
+20032.352597858953,32517.789228153622,Periostin,7
+19727.745474104537,32533.297329138593,Periostin,7
+20324.164724555634,32506.89502490888,Periostin,7
+19658.20529447936,32544.61825989058,Periostin,7
+19903.926786192817,32532.915730872257,Periostin,7
+20082.866845557706,32527.39707957496,Periostin,7
+20122.773988401288,32524.495361475572,Periostin,7
+19842.13969310672,32538.861752312405,Periostin,7
+20201.11382220134,32529.774614166603,Periostin,7
+19999.247373485265,32537.386272208372,Periostin,7
+19603.648132641574,32555.225621799986,Periostin,7
+20304.99607886069,32524.827203524725,Periostin,7
+19883.75927264537,32550.895480744268,Periostin,7
+19664.959641693076,32560.314717993453,Periostin,7
+20361.02782111268,32524.160948884077,Periostin,7
+20034.73103214044,32546.708824619775,Periostin,7
+20061.51017913308,32541.42892929316,Periostin,7
+20099.752585064878,32545.61442867359,Periostin,7
+20192.647295346796,32541.19030184959,Periostin,7
+20267.419670515308,32534.625854079208,Periostin,7
+19699.11143370255,32562.692766693577,Periostin,7
+20255.5759700539,32538.193312710744,Periostin,7
+20117.970062690623,32549.752485324956,Periostin,7
+19867.206660458523,32560.694002771637,Periostin,7
+20058.41856159038,32560.59770351524,Periostin,7
+19837.478481164573,32567.115479719265,Periostin,7
+20078.25320487174,32556.6496748343,Periostin,7
+20229.320106879142,32554.4607544148,Periostin,7
+19893.55779467274,32567.448092931114,Periostin,7
+20331.91806814897,32543.567707914117,Periostin,7
+19952.443426713697,32563.642520964466,Periostin,7
+19915.48531617143,32565.402657442846,Periostin,7
+19679.9427880076,32580.62494530942,Periostin,7
+19979.508001243372,32564.355832752823,Periostin,7
+19633.947295536713,32581.814355240833,Periostin,7
+20005.859135457584,32571.109922912292,Periostin,7
+20034.0177203521,32573.773399149457,Periostin,7
+20185.702920162632,32563.545964653822,Periostin,7
+20207.773155429833,32564.497132723023,Periostin,7
+20354.60672974641,32557.50415806574,Periostin,7
+19665.578196550425,32594.323796234414,Periostin,7
+20078.205762142687,32576.674603140353,Periostin,7
+20111.21597253115,32576.10361953916,Periostin,7
+19921.573794325854,32588.13876176934,Periostin,7
+19965.4764085794,32585.04675864527,Periostin,7
+20237.168464457704,32572.107376966476,Periostin,7
+20292.106196344852,32569.490957877017,Periostin,7
+20201.78007684199,32585.8063564186,Periostin,7
+20262.425588307076,32576.91130267714,Periostin,7
+20045.861549340625,32591.22973667644,Periostin,7
+19882.998518127974,32597.98498357999,Periostin,7
+19734.21477936258,32606.07196860212,Periostin,7
+20062.224005029897,32598.45953939764,Periostin,7
+20061.225137177404,32598.507110653816,Periostin,7
+19999.39047283514,32603.454264241464,Periostin,7
+19617.632668157843,32617.631012689206,Periostin,7
+20296.149367538124,32591.323336863366,Periostin,7
+19647.646274988827,32617.202742856527,Periostin,7
+20018.55924705721,32606.545881784175,Periostin,7
+20087.623842647787,32606.260068665786,Periostin,7
+20192.504967159628,32601.26508676772,Periostin,7
+19973.134609660392,32619.72170594552,Periostin,7
+20039.05988792497,32616.582003038162,Periostin,7
+20010.330576483517,32622.955908729622,Periostin,7
+19865.256881591064,32624.859401612102,Periostin,7
+20293.15289250776,32612.489846790424,Periostin,7
+19983.551429490875,32628.235804056236,Periostin,7
+20078.301161709263,32620.719931162417,Periostin,7
+19886.756390311322,32634.847951609914,Periostin,7
+19954.061106477788,32639.651620266333,Periostin,7
+20056.89692402847,32633.752913028122,Periostin,7
+20002.05433465365,32638.36706782257,Periostin,7
+19749.38833922891,32651.40146348659,Periostin,7
+20036.253697919306,32641.7439843752,Periostin,7
+20016.323912125597,32643.694277351122,Periostin,7
+20262.996700435382,32630.94530922414,Periostin,7
+19576.108616712896,32670.666408437966,Periostin,7
+20220.378381571354,32639.982948206994,Periostin,7
+19914.724818708273,32654.53975259565,Periostin,7
+19986.786017856324,32654.111225708737,Periostin,7
+20008.285526576597,32664.09977570655,Periostin,7
+20362.455472906324,32638.22216909303,Periostin,7
+19935.03517455135,32660.580402439653,Periostin,7
+19776.453042285706,32673.138571433472,Periostin,7
+20380.915048207848,33341.13983823871,Periostin,7
+19959.72157185378,32674.421710078925,Periostin,7
+19725.796209345557,32681.557912613214,Periostin,7
+19755.04880460491,32686.171553299184,Periostin,7
+19997.1078237016,32681.65138427301,Periostin,7
+19920.147427803407,32684.315503145765,Periostin,7
+20278.788558104832,32668.236290032488,Periostin,7
+19974.086291838074,32681.74665531248,Periostin,7
+20347.94829620775,32669.948212619092,Periostin,7
+20009.379665468554,32687.073736313912,Periostin,7
+19880.620855009205,32695.208164065087,Periostin,7
+19938.460047941495,32690.451295502116,Periostin,7
+20316.127238696467,32674.467096374086,Periostin,7
+19682.94016272779,32706.62500849214,Periostin,7
+19729.98209430734,32706.386895157037,Periostin,7
+19877.33895244181,32710.38146687718,Periostin,7
+19943.88252850951,32699.2032498937,Periostin,7
+20211.531541721663,32685.45528538711,Periostin,7
+20234.790929866052,32690.354353610113,Periostin,7
+20056.18386929436,32702.86507987488,Periostin,7
+20270.940457580506,32692.63725979789,Periostin,7
+20372.7774072787,32686.78612381587,Periostin,7
+19965.524750998295,32712.188403449007,Periostin,7
+19604.743171223367,32725.36615551713,Periostin,7
+20020.3673403731,32707.574248654557,Periostin,7
+20330.063945902326,32693.826027093724,Periostin,7
+19585.336669247554,32738.303994870508,Periostin,7
+19924.666311558394,32716.136560657047,Periostin,7
+20209.533934543786,32706.574224058,Periostin,7
+19987.69012877784,32715.1373072232,Periostin,7
+20189.60414875009,32708.524517033926,Periostin,7
+20242.6392874446,32708.000976161795,Periostin,7
+19680.276686490633,32734.78359338665,Periostin,7
+20208.91563674068,32714.61273813411,Periostin,7
+20293.67669043412,32707.572577802017,Periostin,7
+20025.361808162685,32728.360188532228,Periostin,7
+20008.190769645607,32725.173428477196,Periostin,7
+19952.777453723847,32738.824965200252,Periostin,7
+19892.464812524857,32733.688297750632,Periostin,7
+19585.14651274999,32755.33231961907,Periostin,7
+20318.12523145569,32716.419546178822,Periostin,7
+19966.761603658757,32738.15896761384,Periostin,7
+19632.56901437891,32763.085149103903,Periostin,7
+20225.84894750402,32733.828955085242,Periostin,7
+20199.973525851514,32737.063543450695,Periostin,7
+19897.411709058266,32753.47536977581,Periostin,7
+20288.967907235812,32734.82743735638,Periostin,7
+19924.428712331774,32753.18981371166,Periostin,7
+19939.506872631515,32754.473980574065,Periostin,7
+20255.196685275703,32740.4403314762,Periostin,7
+20175.334828332387,32745.24489982245,Periostin,7
+19993.87387797174,32760.894943413216,Periostin,7
+20218.904572319854,32756.184617889478,Periostin,7
+20290.062046127758,32757.801397963725,Periostin,7
+20189.984975853702,32758.563052170968,Periostin,7
+19957.39147999118,32772.64375841651,Periostin,7
+19890.610047642618,32778.827636137525,Periostin,7
+19982.743746352902,32779.44541983217,Periostin,7
+20247.586441032254,32769.83564050406,Periostin,7
+20193.93300453463,32778.397695452324,Periostin,7
+19909.065381549222,32787.96003205137,Periostin,7
+19936.177527335076,32789.67221169221,Periostin,7
+20267.801654362986,32773.878554643095,Periostin,7
+19881.00206769418,32808.31808767774,Periostin,7
+20167.819855128397,32797.661740713855,Periostin,7
+19965.763121387623,32801.27792734565,Periostin,7
+20262.950157396157,32798.13681063997,Periostin,7
+19909.350937613373,32814.97703532487,Periostin,7
+20048.574139159377,32816.355573536915,Periostin,7
+20146.368046191423,32809.69585472708,Periostin,7
+19864.63974053201,32822.11208111507,Periostin,7
+20123.34651432789,32809.79112576652,Periostin,7
+20174.764487366796,32817.3536702267,Periostin,7
+20249.58443379148,32811.7880903088,Periostin,7
+20014.32733316468,32833.00358529034,Periostin,7
+20225.04087878468,32821.967182385546,Periostin,7
+19916.34314110795,32835.66783269021,Periostin,7
+19943.740714430827,32843.37321944601,Periostin,7
+19894.368048353084,32836.71440032599,Periostin,7
+19851.607015720547,32842.75543575136,Periostin,7
+20129.387421226147,32831.52836224053,Periostin,7
+20200.211896240857,32826.15306734733,Periostin,7
+19957.91514939043,32846.702693269566,Periostin,7
+19875.770129205084,32845.60919701321,Periostin,7
+20024.601439226655,32838.52107984358,Periostin,7
+20084.723795400965,32839.66227588324,Periostin,7
+20134.096461478704,32846.321095003244,Periostin,7
+20225.46914861735,32851.980789216526,Periostin,7
+20055.376186156387,32854.074695650816,Periostin,7
+19989.54605040414,32859.21213426316,Periostin,7
+19925.808792869233,32866.25216606813,Periostin,7
+20084.676352671908,32859.687204189286,Periostin,7
+20187.55974147876,32854.78736480355,Periostin,7
+20149.840619364863,32861.58941180057,Periostin,7
+19892.03757090913,32871.86506018796,Periostin,7
+20054.234733062494,32872.14945950804,Periostin,7
+20230.70134416068,32856.73727219814,Periostin,7
+20021.937962989494,32866.6796647381,Periostin,7
+19792.436213196797,32882.61539292013,Periostin,7
+20066.363861060934,32874.57520799146,Periostin,7
+20112.406924787992,32874.384665912534,Periostin,7
+19974.61073240003,32881.94836711676,Periostin,7
+19951.684343048844,32884.04137386121,Periostin,7
+20172.43413844996,32873.5281262472,Periostin,7
+19992.970923794303,32889.08302732562,Periostin,7
+20079.872426961243,32884.94432803865,Periostin,7
+19902.073949217367,32893.41201163728,Periostin,7
+19862.16680637379,32896.31372973664,Periostin,7
+19802.662876529714,32908.15781577941,Periostin,7
+19811.414830921287,32902.7353352114,Periostin,7
+19779.498630897666,32905.256483261386,Periostin,7
+20126.343631993856,32893.743596632165,Periostin,7
+20217.09789280227,32886.41800876304,Periostin,7
+19918.10353464055,32914.673535549555,Periostin,7
+19831.963043045234,32913.770324317884,Periostin,7
+20142.84880145164,32903.97000291086,Periostin,7
+20161.6845768805,32900.06954548609,Periostin,7
+19962.05372015028,32912.58040027799,Periostin,7
+19854.50899087416,32924.710170912025,Periostin,7
+20173.10026456349,32908.536072340656,Periostin,7
+19802.80571882535,32932.178215495434,Periostin,7
+19871.68002939124,32927.89693096707,Periostin,7
+19690.076365262066,32940.55037100036,Periostin,7
+20206.681330026015,32919.9515029694,Periostin,7
+19850.65636175982,32948.92085565273,Periostin,7
+19897.222580777645,32938.69406379269,Periostin,7
+19763.421859799655,32946.06747997224,Periostin,7
+19941.220337543542,32937.599796373615,Periostin,7
+19824.400370057952,32944.16450119824,Periostin,7
+19922.66998965171,32947.49346091333,Periostin,7
+20161.304263885366,32934.12619498324,Periostin,7
+19744.01535782385,32959.0053193256,Periostin,7
+20179.521741511115,32938.26425163461,Periostin,7
+19787.20453176194,32961.954094572684,Periostin,7
+19840.382384224966,32964.427157258026,Periostin,7
+19676.520485159825,32971.22997541774,Periostin,7
+19929.471908121595,32964.18878686869,Periostin,7
+20197.31120635843,32954.43629377208,Periostin,7
+19727.89088694255,32977.793652025415,Periostin,7
+20178.142560663477,32972.368472387905,Periostin,7
+19839.764214948966,32993.4894674927,Periostin,7
+19877.67362208756,32990.68289190566,Periostin,7
+19861.834450216178,32994.4406355619,Periostin,7
+19927.90244224928,32994.29753621203,Periostin,7
+19659.349703696982,33010.09080767978,Periostin,7
+19695.45166015527,33011.37484601506,Periostin,7
+19716.6657413385,33015.37018889793,Periostin,7
+19769.605737520662,33012.84891232081,Periostin,7
+19685.32039638894,33029.87775117784,Periostin,7
+19753.19583910234,33025.64403790565,Periostin,7
+19853.6059081696,33031.87445866589,Periostin,7
+19816.647797627338,33033.63459514425,Periostin,7
+19881.241337773346,33044.57418468415,Periostin,7
+19719.186889388497,33047.286388921544,Periostin,7
+19779.9751146221,33041.38793873758,Periostin,7
+19658.160807874036,33048.190499843055,Periostin,7
+19907.164330682004,33042.33846417118,Periostin,7
+19827.635472531885,33054.1351074849,Periostin,7
+19685.93895124629,33063.88682941881,Periostin,7
+19791.77137235446,33057.84540841207,Periostin,7
+19868.779339508812,33056.18015739182,Periostin,7
+19663.393131944486,33073.97077898321,Periostin,7
+19711.243646351842,33069.68962298196,Periostin,7
+19851.227859469473,33066.026250675364,Periostin,7
+19749.533623539806,33074.87399021487,Periostin,7
+19894.607318432256,33072.970497332404,Periostin,7
+19843.99805674828,33082.38870636463,Periostin,7
+19833.10565288319,33084.90972588752,Periostin,7
+19643.368332165555,33094.947132412686,Periostin,7
+19782.30610617453,33090.33246350975,Periostin,7
+19887.329944454887,33088.33408516919,Periostin,7
+19664.629984604955,33099.94134314804,Periostin,7
+19682.419320925157,33095.089589126976,Periostin,7
+19724.51448449841,33096.088199925216,Periostin,7
+19849.7535361095,33098.13273572367,Periostin,7
+19832.05934230165,33104.98222544974,Periostin,7
+19814.032149700593,33104.83964020833,Periostin,7
+19629.43188201393,33117.63579401014,Periostin,7
+19755.003803891115,33105.64860861749,Periostin,7
+19798.145406573032,33107.598516012076,Periostin,7
+19884.28589816835,33108.501727243754,Periostin,7
+19831.583758267043,33116.01734308333,Periostin,7
+19723.658458941547,33120.15617089741,Periostin,7
+19654.498720838623,33118.44424831083,Periostin,7
+19736.69131228014,33120.53661241968,Periostin,7
+19673.905351341546,33126.53020511599,Periostin,7
+19781.02206783924,33126.434419968056,Periostin,7
+19811.273530951086,33131.00048939787,Periostin,7
+19836.24522726343,33129.81120799356,Periostin,7
+19656.734441351586,33144.367241219494,Periostin,7
+19629.765009334256,33145.65166513613,Periostin,7
+19741.733351325896,33142.32142014985,Periostin,7
+19798.145663627274,33149.64610832916,Periostin,7
+19731.41180253488,33156.82885390265,Periostin,7
+19752.435598693417,33156.82872537553,Periostin,7
+19774.45826270445,33156.781025592245,Periostin,7
+19786.68253321523,33161.204509780655,Periostin,7
+19697.402852821033,33178.47120491856,Periostin,7
+19796.57619775495,33179.75485767249,Periostin,7
+19726.89330436124,33188.079184867,Periostin,7
+19755.00431799959,33189.743793251655,Periostin,7
+19815.221816686244,33192.8827249963,Periostin,7
+19844.18898440856,33191.50315856731,Periostin,7
+19867.68622883381,33201.396566052776,Periostin,7
+19832.05998493724,33210.101206242434,Periostin,7
+19848.470011882688,33218.32987681612,Periostin,7
+19810.513033487925,33220.13758455066,Periostin,7
+19854.796346317966,33246.060320405086,Periostin,7
+19833.4871226224,33240.06724181725,Periostin,7
+19865.355751389852,33236.54722591475,Periostin,7
+19802.712504219777,33245.537422168556,Periostin,7
+20288.019566763218,33219.421188111475,Periostin,7
+20266.37747280156,33227.4598307147,Periostin,7
+19872.395526140608,33258.23689113258,Periostin,7
+20251.775025063533,33236.16434237723,Periostin,7
+20330.97101294757,33238.39942025462,Periostin,7
+19896.74892464983,33265.0861238044,Periostin,7
+20232.178238063036,33245.10671032063,Periostin,7
+19834.91426030756,33270.03327739205,Periostin,7
+19848.945981498644,33270.36614765815,Periostin,7
+19812.08301346872,33274.12401984149,Periostin,7
+20269.75477493554,33256.33185592468,Periostin,7
+19868.35261200157,33278.45210446331,Periostin,7
+20349.99720192824,33259.51823039837,Periostin,7
+20263.52384006683,33272.64674035779,Periostin,7
+19961.009594529747,33290.057434535396,Periostin,7
+20382.864827075304,33276.974439398255,Periostin,7
+20353.089076525182,33282.397048493396,Periostin,7
+19845.521493689852,33303.56664307129,Periostin,7
+20324.835349118326,33277.735836551234,Periostin,7
+19875.67781428935,33306.1349767961,Periostin,7
+20028.647309489406,33301.85317815927,Periostin,7
+19949.784320398576,33306.61017524935,Periostin,7
+20268.7085928811,33297.42815164545,Periostin,7
+20380.7720773851,33296.09564236415,Periostin,7
+20303.62139646222,33294.76428982693,Periostin,7
+19883.526171867907,33323.7815993478,Periostin,7
+19908.97345221485,33311.55720030989,Periostin,7
+20351.662195894263,33294.47860523565,Periostin,7
+20390.570599412466,33312.648254551,Periostin,7
+20296.439164997195,33312.1256133687,Periostin,7
+19867.021130937228,33334.57898922766,Periostin,7
+20025.88869073991,33328.01402734879,Periostin,7
+20346.57284264656,33313.74252197006,Periostin,7
+19991.974755011295,33330.630317911135,Periostin,7
+19926.239761771394,33337.76549222848,Periostin,7
+20051.098243333105,33331.81908520697,Periostin,7
+20384.101808262898,33323.96879972163,Periostin,7
+20230.27615897886,33331.29477317212,Periostin,7
+19970.57051733049,33343.66329977684,Periostin,7
+20005.626034680117,33343.99604151582,Periostin,7
+20271.420025955802,33333.33982307905,Periostin,7
+20392.473321132227,33331.5791724922,Periostin,7
+19944.076797874885,33354.93640221843,Periostin,7
+20245.0690202687,33347.60952907811,Periostin,7
+20295.10755540573,33347.2287019745,Periostin,7
+19967.716756068643,33367.82641326139,Periostin,7
+20344.575363995813,33355.88525679949,Periostin,7
+20377.680716896633,33357.3120089033,Periostin,7
+20317.225490456225,33370.20253405473,Periostin,7
+20223.236898336596,33393.70029258846,Periostin,7
+20385.05349044058,33385.99374908858,Periostin,7
+20209.395462170196,33397.36289373235,Periostin,7
+20242.691100095697,33402.785117246116,Periostin,7
+20266.616485826486,33421.66833540404,Periostin,7
+20399.418338951982,33414.342490480674,Periostin,7
+20351.615395800796,33419.622514334405,Periostin,7
+20315.98915190423,33428.32715452405,Periostin,7
+20261.38441881028,33437.93564858097,Periostin,7
+20389.429788954167,33435.84199920094,Periostin,7
+20269.851074191945,33447.543757056534,Periostin,7
+20331.92359481507,33447.59094273135,Periostin,7
+20300.95869138777,33449.065651672696,Periostin,7
+19505.28465580666,32760.13688796532,Periostin,7
+19520.411544106653,32951.63408810708,Periostin,7
+19513.942881484207,32983.97842943625,Periostin,7
+19532.5885004155,32997.10629676007,Periostin,7
+19510.80382121244,33023.17213196437,Periostin,7
+19524.4075296251,33035.53898771656,Periostin,7
+20439.082998538423,32649.589771411363,Periostin,7
+20429.37974755052,32656.058691088052,Periostin,7
+20387.71272528281,32664.049890962244,Periostin,7
+20397.17824851698,32673.610428181637,Periostin,7
+20427.524854141164,32680.17423331642,Periostin,7
+20408.118352165355,32693.11207266979,Periostin,7
+20391.28224034826,33012.274329960295,Periostin,7
+20403.554210642335,33038.72047815975,Periostin,7
+20417.11189012424,33302.3740199619,Periostin,7
+20415.066711690208,33322.49409078031,Periostin,7
+20412.926519270935,33361.640222052236,Periostin,7
+20436.61404872088,33375.52910094769,Periostin,7
+20412.16563622642,33387.70592872942,Periostin,7
+20436.614305775114,33417.576693264775,Periostin,7
+20425.15117536308,33429.135094716265,Periostin,7
+20435.282824710772,33473.70357802911,Periostin,7
+20425.484559737637,33499.19855815934,Periostin,7
+19661.39796678188,33494.541844666346,Periostin,7
+20253.869317079163,33469.32869331382,Periostin,7
+20299.198940490754,33475.17892960604,Periostin,7
+20363.887494622,33467.09245869239,Periostin,7
+20337.393775166383,33478.36556113397,Periostin,7
+20391.66563799425,33482.78878826813,Periostin,7
+20359.226282679847,33495.34618609924,Periostin,7
+20366.408642672,33499.00865871602,Periostin,7
+20350.326344907888,32635.796420609626,Epithelium (str),4
+19568.4496444692,32509.848684186465,Epithelium (str),4
+19854.36370656327,32501.23764418373,Epithelium (str),4
+19884.805454699796,32509.79918502352,Epithelium (str),4
+19814.83713376907,32512.13030510307,Epithelium (str),4
+19851.36723153291,32522.404154110787,Epithelium (str),4
+20157.544078213876,32518.834896099586,Epithelium (str),4
+19567.26074864626,32547.94837634974,Epithelium (str),4
+19798.04679382848,32537.958284026496,Epithelium (str),4
+19824.44549929887,32545.711242038473,Epithelium (str),4
+20142.275761416557,32534.57905398574,Epithelium (str),4
+19782.873619543505,32555.700177617637,Epithelium (str),4
+19800.61551313465,32570.873351902625,Epithelium (str),4
+20158.30534683975,32555.840577898027,Epithelium (str),4
+19765.750280809716,32574.536081573624,Epithelium (str),4
+20158.020047829832,32570.871166941597,Epithelium (str),4
+20136.948680415124,32569.87242761623,Epithelium (str),4
+20360.504922876153,32576.244790982255,Epithelium (str),4
+19812.174043113268,32603.360278473196,Epithelium (str),4
+19794.47984930541,32610.209768199253,Epithelium (str),4
+20172.432467597417,32600.21877618619,Epithelium (str),4
+20149.31579322154,32598.316311520648,Epithelium (str),4
+20119.587613927586,32604.737788468283,Epithelium (str),4
+20338.76781492927,32603.309494039055,Epithelium (str),4
+19802.328206883958,32627.856390750934,Epithelium (str),4
+20348.75649345421,32602.833781477337,Epithelium (str),4
+20316.840293430578,32605.354929527337,Epithelium (str),4
+20103.177715509264,32617.532914053132,Epithelium (str),4
+19810.08142195017,32643.505277597633,Epithelium (str),4
+20186.60703108413,32624.572046168287,Epithelium (str),4
+20350.897071454834,32626.759038681015,Epithelium (str),4
+20076.208412019056,32639.841134128314,Epithelium (str),4
+19858.169792638382,32644.218460858854,Epithelium (str),4
+19814.457463409522,32651.305935392895,Epithelium (str),4
+20315.889125361366,32627.425164794535,Epithelium (str),4
+20152.265082577083,32639.222322216727,Epithelium (str),4
+20169.388549838008,32641.410214419277,Epithelium (str),4
+20334.20174549947,32633.5609571509,Epithelium (str),4
+20135.47461410939,32644.02650498162,Epithelium (str),4
+19877.956993190688,32660.295360483982,Epithelium (str),4
+20110.740774077898,32650.210125648377,Epithelium (str),4
+20187.510884951407,32643.55053536566,Epithelium (str),4
+19849.22768174923,32666.66926617544,Epithelium (str),4
+19837.146125006962,32665.24238554451,Epithelium (str),4
+20086.006934046418,32656.393746315163,Epithelium (str),4
+20202.636616507327,32645.833570080566,Epithelium (str),4
+19515.890218336408,32520.360903583536,Epithelium (str),4
+19536.96158575112,32521.359642908916,Epithelium (str),4
+19530.921064434224,32562.69379491053,Epithelium (str),4
+19548.710786335778,32620.913429365075,Epithelium (str),4
+20496.778706539488,32515.693522339687,Epithelium (str),4
+20483.46055419099,32530.343669861002,Epithelium (str),4
+20479.560353820467,32553.55548674923,Epithelium (str),4
+20483.60352501373,32575.387865735564,Epithelium (str),4
+20477.182305120343,32587.707278758695,Epithelium (str),4
+20480.17916573207,32629.612157307267,Epithelium (str),4
+20169.436506675527,32705.48047074739,Epithelium (str),4
+19814.64787696133,32676.325202961412,Epithelium (str),4
+20173.622006055946,32667.238064815603,Epithelium (str),4
+20150.648045448597,32668.332203707563,Epithelium (str),4
+20306.94714299934,32670.899766269657,Epithelium (str),4
+19850.74996194674,32698.633037455234,Epithelium (str),4
+20153.406921252343,32684.218946835117,Epithelium (str),4
+20079.39555765546,32685.74148408685,Epithelium (str),4
+19845.13732488115,32706.90940781222,Epithelium (str),4
+20136.56888152846,32688.024261747516,Epithelium (str),4
+20159.06725810122,32697.965240489168,Epithelium (str),4
+19811.699101714254,32719.51437689949,Epithelium (str),4
+19837.574523366748,32716.27978853404,Epithelium (str),4
+20091.334529156327,32705.195557318824,Epithelium (str),4
+20124.392310800962,32705.623441570155,Epithelium (str),4
+19771.363946092246,32734.450080484967,Epithelium (str),4
+20115.212343630952,32723.079907624247,Epithelium (str),4
+19604.125001947366,32754.428465751793,Epithelium (str),4
+19835.767201213574,32741.394198614908,Epithelium (str),4
+19850.940504025664,32744.676101182304,Epithelium (str),4
+19818.97673274587,32746.198381379792,Epithelium (str),4
+20060.702753049343,32734.68613738616,Epithelium (str),4
+20088.052755116052,32741.392656289474,Epithelium (str),4
+19817.835279651976,32764.273145237024,Epithelium (str),4
+20350.136702518786,32736.91992999236,Epithelium (str),4
+19847.040303655147,32767.887918070508,Epithelium (str),4
+20140.231739726587,32743.913290230994,Epithelium (str),4
+20100.847880700898,32757.802554707792,Epithelium (str),4
+20117.59077791243,32751.999504090407,Epithelium (str),4
+19588.38110111545,32781.20774127155,Epithelium (str),4
+19819.690430115563,32782.20519532575,Epithelium (str),4
+19840.66665501793,32781.206198946136,Epithelium (str),4
+20360.030367058494,32755.47027788419,Epithelium (str),4
+20089.146894008005,32764.366616896838,Epithelium (str),4
+20142.990615530325,32759.800033358555,Epithelium (str),4
+20330.682629286806,32748.85890149322,Epithelium (str),4
+19748.532956307645,32780.588415251485,Epithelium (str),4
+20064.175197695662,32765.55589830113,Epithelium (str),4
+19698.58956368296,32782.96697806009,Epithelium (str),4
+19800.759512174358,32784.1079170455,Epithelium (str),4
+19782.922604597985,32787.960803214075,Epithelium (str),4
+19824.447041624288,32797.99679594095,Epithelium (str),4
+20371.731482278505,32769.9300118537,Epithelium (str),4
+20026.884216887313,32781.34775597057,Epithelium (str),4
+20345.427919320467,32764.17478954671,Epithelium (str),4
+20092.14362609261,32785.24769928684,Epithelium (str),4
+20306.091631550957,32779.062921876015,Epithelium (str),4
+19820.78456900752,32805.1791559331,Epithelium (str),4
+20047.19457273039,32787.3884058146,Epithelium (str),4
+20335.201513041793,32780.679959004505,Epithelium (str),4
+19852.60562651881,32800.66027217812,Epithelium (str),4
+20066.83905951418,32800.46870188224,Epithelium (str),4
+19611.450461289383,32824.158930401674,Epithelium (str),4
+19784.730312332522,32825.917781608834,Epithelium (str),4
+19817.645380208636,32823.34906230268,Epithelium (str),4
+19614.494764630155,32846.03888064419,Epithelium (str),4
+19812.080314399227,32832.62430051216,Epithelium (str),4
+20345.475747630873,32807.22124971629,Epithelium (str),4
+19637.040583931957,32835.95493107978,Epithelium (str),4
+20303.523297826134,32809.219242475505,Epithelium (str),4
+19737.117654206024,32835.19327687255,Epithelium (str),4
+19635.899130838076,32854.02969493703,Epithelium (str),4
+20274.698843872335,32813.59541246198,Epithelium (str),4
+20331.72945397683,32812.881586565156,Epithelium (str),4
+19780.497113168803,32842.13752352959,Epithelium (str),4
+20367.30825514434,32824.20187468157,Epithelium (str),4
+19760.61489863127,32845.08668435802,Epithelium (str),4
+20341.38526223568,32826.43759519453,Epithelium (str),4
+19635.566260571988,32868.061416128105,Epithelium (str),4
+19687.174390108456,32858.5956358397,Epithelium (str),4
+19742.39754953264,32861.97242386519,Epithelium (str),4
+20254.05574629029,32842.610279967594,Epithelium (str),4
+19764.99106861774,32873.91113831183,Epithelium (str),4
+20343.38312646778,32847.36624884073,Epithelium (str),4
+20286.257373850953,32846.08233903256,Epithelium (str),4
+20275.269827473523,32846.605622850446,Epithelium (str),4
+19637.326268523233,32883.99573051183,Epithelium (str),4
+19790.200621210945,32877.71619616999,Epithelium (str),4
+19735.31046057996,32881.331483111964,Epithelium (str),4
+20319.315155495584,32846.51022328387,Epithelium (str),4
+19755.5256739107,32885.374397250984,Epithelium (str),4
+20361.26773382745,32865.5360266832,Epithelium (str),4
+19649.074954999414,32899.454332333844,Epithelium (str),4
+19729.12709696743,32898.645235397555,Epithelium (str),4
+20344.667550384427,32874.335680858065,Epithelium (str),4
+19580.723928251413,32914.72316323963,Epithelium (str),4
+20267.70715448624,32876.9997997308,Epithelium (str),4
+20370.875970830126,32878.09316746005,Epithelium (str),4
+19663.344532471358,32904.781541862394,Epithelium (str),4
+19688.45894255222,32906.58886401557,Epithelium (str),4
+19715.57108833807,32908.30104365641,Epithelium (str),4
+20326.06963123642,32883.23047754528,Epithelium (str),4
+20359.460411674263,32890.65043676404,Epithelium (str),4
+20028.50215370563,32899.404447589535,Epithelium (str),4
+20374.395858205495,32888.93800006897,Epithelium (str),4
+20056.042440797035,32910.10643790281,Epithelium (str),4
+19971.13867333507,32914.14999467743,Epithelium (str),4
+20252.676693969777,32897.73829687943,Epithelium (str),4
+20277.93381781915,32902.54222259009,Epithelium (str),4
+20315.7480824454,32897.737911298085,Epithelium (str),4
+19588.762570854655,32936.36525720129,Epithelium (str),4
+20043.675585044846,32923.71014631546,Epithelium (str),4
+20009.28593675451,32916.33775835287,Epithelium (str),4
+19597.03894121164,32941.97789426687,Epithelium (str),4
+20076.733366689492,32924.13803056676,Epithelium (str),4
+20297.29287706592,32909.629311542776,Epithelium (str),4
+19618.63359244424,32953.96417996968,Epithelium (str),4
+20003.007430629637,32931.653774933475,Epithelium (str),4
+19967.47632924541,32942.35615082811,Epithelium (str),4
+20378.77202819197,32917.76245402278,Epithelium (str),4
+19997.632649844913,32944.92448455293,Epithelium (str),4
+20354.989484756803,32922.89963558088,Epithelium (str),4
+20071.501299673277,32940.405343743696,Epithelium (str),4
+20285.544447643966,32936.21830203784,Epithelium (str),4
+19613.30638291569,32968.23375744163,Epithelium (str),4
+20250.536501550516,32936.88442815138,Epithelium (str),4
+19605.553296376595,32973.60866675347,Epithelium (str),4
+20023.983784059128,32951.6785747124,Epithelium (str),4
+20048.907909115296,32949.4904254556,Epithelium (str),4
+19973.184237350466,32957.101312334664,Epithelium (str),4
+20112.026868847093,32950.48890772674,Epithelium (str),4
+20361.83897448287,32940.593829388716,Epithelium (str),4
+20275.74605414371,32940.68948600954,Epithelium (str),4
+19947.308815697972,32960.33590070011,Epithelium (str),4
+20318.935228081813,32943.638261256616,Epithelium (str),4
+20352.13572349496,32947.06274906541,Epithelium (str),4
+20387.476668381623,32953.38869791935,Epithelium (str),4
+20300.337308933806,32952.53305794384,Epithelium (str),4
+20090.9556299595,32970.513964559905,Epithelium (str),4
+19970.09261980775,32976.270086556724,Epithelium (str),4
+20128.96017961043,32969.70512467787,Epithelium (str),4
+20116.212753808868,32975.31789027056,Epithelium (str),4
+19999.202501298594,32977.88712368522,Epithelium (str),4
+20020.178726200957,32976.8881273056,Epithelium (str),4
+20372.160780328133,32968.133987953006,Epithelium (str),4
+20302.144888141218,32969.46624018006,Epithelium (str),4
+20388.142665968033,32967.37284785425,Epithelium (str),4
+19640.18092947491,33006.99919013707,Epithelium (str),4
+19618.25340797622,33009.044625625356,Epithelium (str),4
+20148.271667601024,32975.79334577805,Epithelium (str),4
+20378.62970000481,32977.8372389409,Epithelium (str),4
+19964.908124047728,32993.536267586154,Epithelium (str),4
+20068.742809450894,32987.58998909177,Epithelium (str),4
+19999.107487313362,32996.913184138764,Epithelium (str),4
+20254.67494378324,32981.738339001255,Epithelium (str),4
+19602.6520923857,33017.796708544054,Epithelium (str),4
+20319.50634021011,32997.67226780363,Epithelium (str),4
+20115.64215578904,33005.37906835773,Epithelium (str),4
+20024.74518121212,33009.70805266938,Epithelium (str),4
+20131.624041428953,33004.61792825897,Epithelium (str),4
+19631.524246122794,33035.44320256861,Epithelium (str),4
+19969.99773434965,33016.319943168826,Epithelium (str),4
+20320.98092062432,33007.6133750724,Epithelium (str),4
+20156.83359402215,33008.42298611713,Epithelium (str),4
+19956.156298183247,33019.9825443127,Epithelium (str),4
+20135.42935634135,33021.45596798286,Epithelium (str),4
+20287.732853955007,33003.19001941112,Epithelium (str),4
+20343.812167463166,33003.52263262294,Epithelium (str),4
+19601.84363808501,33042.86354736875,Epithelium (str),4
+19621.05998356325,33046.95403276394,Epithelium (str),4
+20270.038660147133,33010.039509137154,Epithelium (str),4
+19947.832485097213,33034.394835553176,Epithelium (str),4
+20181.42484881223,33020.26655805144,Epithelium (str),4
+20057.80309138387,33031.159733079236,Epithelium (str),4
+19978.131519465227,33039.95977283546,Epithelium (str),4
+20166.156532014917,33036.010715937584,Epithelium (str),4
+20338.009373900015,33028.827327728504,Epithelium (str),4
+19949.64006430464,33051.3280177894,Epithelium (str),4
+19603.03291948931,33067.835243681075,Epithelium (str),4
+20127.533684560865,33044.85806989576,Epithelium (str),4
+19634.235679197474,33071.35487400222,Epithelium (str),4
+20034.401117998088,33044.28785745729,Epithelium (str),4
+20059.75338435981,33051.08951887294,Epithelium (str),4
+20096.426067365035,33043.33617527961,Epithelium (str),4
+20355.418268697947,33037.00842704601,Epithelium (str),4
+20220.57110861129,33043.43054662923,Epithelium (str),4
+19951.447643512056,33068.26120002562,Epithelium (str),4
+19598.75214906942,33083.056117749344,Epithelium (str),4
+19978.321933017043,33064.97904040399,Epithelium (str),4
+20049.5745493373,33068.593556183216,Epithelium (str),4
+20024.41256800027,33065.787366177545,Epithelium (str),4
+20155.311827933117,33060.554399471504,Epithelium (str),4
+20104.559852480616,33066.97600494626,Epithelium (str),4
+19624.247129199655,33092.854382722464,Epithelium (str),4
+20211.72414023449,33067.87908765081,Epithelium (str),4
+20079.778441192968,33072.160757760525,Epithelium (str),4
+20002.960759063295,33077.82148019075,Epithelium (str),4
+20331.73099630225,33065.16714046765,Epithelium (str),4
+19936.322040483254,33087.00196146924,Epithelium (str),4
+20379.866938246632,33066.87919158137,Epithelium (str),4
+20131.291556744218,33081.72103792568,Epithelium (str),4
+20262.09567416472,33074.49033551466,Epithelium (str),4
+20361.031162817777,33070.77964900612,Epithelium (str),4
+19961.817020613482,33096.80022644238,Epithelium (str),4
+20029.882748351574,33096.56198458016,Epithelium (str),4
+20160.68686577208,33089.33128216912,Epithelium (str),4
+20282.310887495456,33078.53324965368,Epithelium (str),4
+20013.044708627698,33100.36729949256,Epithelium (str),4
+20311.611054010973,33084.14575819215,Epithelium (str),4
+20238.883985803623,33091.61393130268,Epithelium (str),4
+20204.82733630649,33091.233618307546,Epithelium (str),4
+19604.55532821394,33120.82281111943,Epithelium (str),4
+20057.137607905934,33101.27076777848,Epithelium (str),4
+20163.39817031965,33104.2191574442,Epithelium (str),4
+20263.427669337532,33102.458635384464,Epithelium (str),4
+20342.95652748766,33090.66199207076,Epithelium (str),4
+19907.02213102197,33123.43704524786,Epithelium (str),4
+20289.68366103941,33107.21498983897,Epithelium (str),4
+20312.562479134413,33104.12311524202,Epithelium (str),4
+20084.630323741156,33110.97389023927,Epithelium (str),4
+19931.280387018844,33128.2885422147,Epithelium (str),4
+20120.779851455623,33113.25679642705,Epithelium (str),4
+20103.94181173175,33117.06211133945,Epithelium (str),4
+20061.37106412389,33127.0986181748,Epithelium (str),4
+20209.393791317652,33124.05354367132,Epithelium (str),4
+20288.30435166466,33120.29541443372,Epithelium (str),4
+20368.11863735181,33114.49197823498,Epithelium (str),4
+19609.882794796726,33148.60082596457,Epithelium (str),4
+20136.286153060923,33123.5307739619,Epithelium (str),4
+19950.82973129029,33139.37110257735,Epithelium (str),4
+20394.37462905368,33119.24833268949,Epithelium (str),4
+20270.515015344456,33125.1471684548,Epithelium (str),4
+20117.069936109794,33140.46408472524,Epithelium (str),4
+20243.545583327126,33126.431592371446,Epithelium (str),4
+19906.403961745964,33152.499355482534,Epithelium (str),4
+20158.974814658362,33137.46722411353,Epithelium (str),4
+20102.46748837177,33149.168596387775,Epithelium (str),4
+20273.51174742906,33146.02825084482,Epithelium (str),4
+19925.763020992723,33159.586444435205,Epithelium (str),4
+20040.394967748638,33149.12141071296,Epithelium (str),4
+20188.417694942404,33146.07633620946,Epithelium (str),4
+19942.886488253633,33161.77433663776,Epithelium (str),4
+20360.318108083666,33139.891815852876,Epithelium (str),4
+20067.602256046834,33152.83132605879,Epithelium (str),4
+20258.9568709472,33155.73163035985,Epithelium (str),4
+20387.33511135717,33139.60625978872,Epithelium (str),4
+19615.73354519741,33187.366387187125,Epithelium (str),4
+19888.28175515969,33171.38283069469,Epithelium (str),4
+20001.058679979127,33164.009543042244,Epithelium (str),4
+19932.61251071878,33177.28063824307,Epithelium (str),4
+20387.04981234726,33154.63684883229,Epithelium (str),4
+20125.156149969207,33163.10504653939,Epithelium (str),4
+20316.1301948202,33158.01440802051,Epithelium (str),4
+20027.647670474205,33175.757972464206,Epithelium (str),4
+20293.203805469017,33160.107414764956,Epithelium (str),4
+19645.937437053082,33190.93358876443,Epithelium (str),4
+20336.250265638588,33160.059586454554,Epithelium (str),4
+20089.625048584985,33173.80742243402,Epithelium (str),4
+19610.73933446206,33208.62803962653,Epithelium (str),4
+20114.834601178187,33177.612480292206,Epithelium (str),4
+19643.65440233818,33206.05932032035,Epithelium (str),4
+19972.044069527758,33185.41403777729,Epithelium (str),4
+19887.56844337134,33198.44740522436,Epithelium (str),4
+20017.61154922021,33196.25861333197,Epithelium (str),4
+20201.117806542017,33181.51229508135,Epithelium (str),4
+19677.663480579144,33205.440765463005,Epithelium (str),4
+20057.47112080762,33192.3580273801,Epithelium (str),4
+20355.133740850746,33178.181793040836,Epithelium (str),4
+19916.868609886864,33204.05991376283,Epithelium (str),4
+19944.789338500515,33201.729050737515,Epithelium (str),4
+20160.354509614473,33187.45818799438,Epithelium (str),4
+20188.370380740464,33187.12506067406,Epithelium (str),4
+19651.455188660562,33222.70707501955,Epithelium (str),4
+20314.51315769171,33187.12428951135,Epithelium (str),4
+19616.54238507945,33225.37093683806,Epithelium (str),4
+20145.6569193641,33194.164963951924,Epithelium (str),4
+20012.331910947833,33211.52705865639,Epithelium (str),4
+20387.525653436092,33185.649323515776,Epithelium (str),4
+19952.161983517344,33209.386994764274,Epithelium (str),4
+20080.01706863655,33203.29787397425,Epithelium (str),4
+19932.66033902919,33220.32709841264,Epithelium (str),4
+19982.556160397708,33216.949667751534,Epithelium (str),4
+20217.14739196522,33202.77381899363,Epithelium (str),4
+19668.0555006307,33234.93121700323,Epithelium (str),4
+20185.421476966276,33209.29043845361,Epithelium (str),4
+20324.977548778366,33196.63725547456,Epithelium (str),4
+20361.07950523666,33197.92129380986,Epithelium (str),4
+19630.95467631991,33233.69474992409,Epithelium (str),4
+20203.401098311155,33208.434155842515,Epithelium (str),4
+19884.857395878007,33225.60712226637,Epithelium (str),4
+19654.309206976643,33240.59155385208,Epithelium (str),4
+20120.685351578875,33216.37804151476,Epithelium (str),4
+19976.230083016657,33231.26681647966,Epithelium (str),4
+20046.86427300667,33221.89605017648,Epithelium (str),4
+19637.80416604598,33251.38894373195,Epithelium (str),4
+19916.29801186703,33234.12109184998,Epithelium (str),4
+20004.055669117966,33226.93821774937,Epithelium (str),4
+20192.3185379485,33227.983500113965,Epithelium (str),4
+20209.251720184733,33226.17592090654,Epithelium (str),4
+19994.447560642406,33235.404873131025,Epithelium (str),4
+20066.55633104664,33235.975214096616,Epithelium (str),4
+20084.155382342156,33227.12798866557,Epithelium (str),4
+20162.352502373695,33229.41063779912,Epithelium (str),4
+20024.603881241906,33237.97320685585,Epithelium (str),4
+19693.740765785624,33248.72495338631,Epithelium (str),4
+20171.62774058318,33234.975703608536,Epithelium (str),4
+20099.947111484482,33243.39517331539,Epithelium (str),4
+20363.267654493447,33222.84541886602,Epithelium (str),4
+19937.08408027183,33250.15042021893,Epithelium (str),4
+20352.613106909223,33230.360777651375,Epithelium (str),4
+19731.93560046124,33251.91158491424,Epithelium (str),4
+20007.95612654272,33245.773993178234,Epithelium (str),4
+20382.341286203176,33223.93930070374,Epithelium (str),4
+19987.170186665036,33250.768460967825,Epithelium (str),4
+20091.052443324385,33245.821050325925,Epithelium (str),4
+19612.309314442857,33262.61447491736,Epithelium (str),4
+19658.732948219287,33270.414875658396,Epithelium (str),4
+19973.47146426716,33257.42766566918,Epithelium (str),4
+20137.428505844648,33252.622583214456,Epithelium (str),4
+20022.606274064034,33259.09214552673,Epithelium (str),4
+19962.816916682925,33264.94302445453,Epithelium (str),4
+19705.965164823527,33274.17223373326,Epithelium (str),4
+19729.034267943225,33275.07583054629,Epithelium (str),4
+20051.573441786357,33257.712579097744,Epithelium (str),4
+19611.26300386131,33282.68697447958,Epithelium (str),4
+19636.04441514896,33277.502221665294,Epithelium (str),4
+20037.73200561996,33261.375180241645,Epithelium (str),4
+20015.18618631815,33271.45912980603,Epithelium (str),4
+20182.9959855371,33263.467158769134,Epithelium (str),4
+20375.777481068384,33254.28590632793,Epithelium (str),4
+19682.56319143774,33287.30035811132,Epithelium (str),4
+19736.264199191544,33279.737171015564,Epithelium (str),4
+20394.89868403429,33256.37865601814,Epithelium (str),4
+19695.833901057187,33292.67513889605,Epithelium (str),4
+20117.831718844143,33261.564951157845,Epithelium (str),4
+20164.96879293604,33263.32457352773,Epithelium (str),4
+20032.54750985992,33278.64136127105,Epithelium (str),4
+19741.781822271907,33290.48686111213,Epithelium (str),4
+20136.572480287785,33276.69055418664,Epithelium (str),4
+20047.9110976967,33285.91873524843,Epithelium (str),4
+20065.415006479867,33275.073774112396,Epithelium (str),4
+20077.401420709804,33274.50291903832,Epithelium (str),4
+19626.246150175833,33302.997201795544,Epithelium (str),4
+19726.323220449893,33302.23554758832,Epithelium (str),4
+20095.523755823197,33276.64323998472,Epithelium (str),4
+20190.60648683479,33276.11944205834,Epithelium (str),4
+19775.31531647826,33300.90342388837,Epithelium (str),4
+19695.78645832814,33312.70006720209,Epithelium (str),4
+19715.906529146527,33314.745245636135,Epithelium (str),4
+19641.56216675645,33309.275707920424,Epithelium (str),4
+19797.385551745465,33301.854591957584,Epithelium (str),4
+20082.44345975555,33296.287726768496,Epithelium (str),4
+20159.21357062906,33289.62813648578,Epithelium (str),4
+19626.008422422095,33319.02665869161,Epithelium (str),4
+19677.806836983247,33313.55634981318,Epithelium (str),4
+19784.35282693399,33322.49794659386,Epithelium (str),4
+20107.700583604932,33301.09165247916,Epithelium (str),4
+19740.402641424273,33324.59108186542,Epithelium (str),4
+19762.377734179132,33323.544514229645,Epithelium (str),4
+20208.871664243827,33302.280162720745,Epithelium (str),4
+20134.812729390775,33302.80383212,Epithelium (str),4
+19826.447990507244,33323.496557392114,Epithelium (str),4
+19697.641608791728,33330.63211729079,Epithelium (str),4
+19779.025617405438,33336.767524065806,Epithelium (str),4
+20219.193341561968,33308.7965251265,Epithelium (str),4
+19646.98477585158,33339.05145847054,Epithelium (str),4
+19811.03695994141,33336.244111720785,Epithelium (str),4
+20066.509273898944,33319.0715308783,Epithelium (str),4
+19621.299639223776,33346.281518245974,Epithelium (str),4
+19766.373334116222,33344.37802536349,Epithelium (str),4
+19740.593054976074,33349.61034943394,Epithelium (str),4
+19832.393754893157,33343.23605816114,Epithelium (str),4
+19851.27710157819,33340.33446858887,Epithelium (str),4
+20122.826443687976,33324.3984833526,Epithelium (str),4
+20147.370127221886,33335.2431874344,Epithelium (str),4
+19705.918107675825,33357.26855051493,Epithelium (str),4
+19841.95442063966,33354.79433108551,Epithelium (str),4
+20073.69176241821,33343.7577996536,Epithelium (str),4
+19721.804850803383,33354.50967471119,Epithelium (str),4
+19761.28398086853,33363.64194209792,Epithelium (str),4
+19617.54215262178,33372.48993869167,Epithelium (str),4
+20105.512819929492,33339.23891589862,Epithelium (str),4
+20207.397340883854,33334.386647769075,Epithelium (str),4
+19854.13111989428,33358.218947421425,Epithelium (str),4
+19832.298740907936,33362.262118614686,Epithelium (str),4
+19795.340630365663,33364.022255093056,Epithelium (str),4
+20032.215025175195,33355.74447093777,Epithelium (str),4
+19878.056377097957,33356.07836942079,Epithelium (str),4
+20192.84246440199,33344.090027284095,Epithelium (str),4
+19816.55471154889,33368.01759797591,Epithelium (str),4
+20169.7733612823,33343.18643047106,Epithelium (str),4
+19644.51158463911,33371.20551477503,Epithelium (str),4
+19773.65096514783,33371.06202984379,Epithelium (str),4
+20058.280731852374,33356.50535398228,Epithelium (str),4
+20132.3872379616,33356.98055243552,Epithelium (str),4
+19897.082566078625,33377.19717956456,Epithelium (str),4
+19919.77109914895,33370.109833557646,Epithelium (str),4
+19826.21051980774,33381.57360660527,Epithelium (str),4
+20069.839133303867,33367.9684843943,Epithelium (str),4
+20034.878758466584,33369.63347836032,Epithelium (str),4
+19944.124497658173,33376.959066229465,Epithelium (str),4
+20010.90593000674,33370.77518850845,Epithelium (str),4
+19863.40648663087,33384.80780938938,Epithelium (str),4
+20189.18012031234,33372.29618343476,Epithelium (str),4
+19914.206033339535,33379.385071767116,Epithelium (str),4
+20171.01021394276,33369.1569946359,Epithelium (str),4
+19731.270502564665,33385.09400808911,Epithelium (str),4
+19982.08147605294,33375.15135849493,Epithelium (str),4
+19648.602327088545,33394.03676161386,Epithelium (str),4
+19891.802927806242,33392.465624889,Epithelium (str),4
+19938.84485938579,33392.2275115539,Epithelium (str),4
+19613.071225704323,33404.73913750851,Epithelium (str),4
+19672.147142769965,33404.92903695182,Epithelium (str),4
+19965.053279831496,33395.9849981559,Epithelium (str),4
+20104.752065412096,33386.32841873434,Epithelium (str),4
+20155.83703965779,33386.89888822704,Epithelium (str),4
+20143.898196684037,33388.468611153614,Epithelium (str),4
+19623.53561679098,33414.252103471714,Epithelium (str),4
+19647.74630153169,33418.104732586056,Epithelium (str),4
+20127.10772821634,33393.27279391851,Epithelium (str),4
+19937.037537232616,33417.34192163477,Epithelium (str),4
+20089.626462383294,33405.069180177976,Epithelium (str),4
+20178.620843767578,33402.83307408366,Epithelium (str),4
+19674.62071956379,33435.84636912296,Epithelium (str),4
+20114.26528842955,33417.911619964754,Epithelium (str),4
+19812.5120544641,33430.280403623714,Epithelium (str),4
+19873.442993466215,33427.37855699723,Epithelium (str),4
+19730.652461815786,33435.18011448231,Epithelium (str),4
+19830.539247065157,33430.42298886511,Epithelium (str),4
+19796.625311336546,33433.03927942745,Epithelium (str),4
+20094.620930172885,33425.855120055654,Epithelium (str),4
+19767.7057148704,33435.41771370896,Epithelium (str),4
+19991.499685085164,33425.7606201789,Epithelium (str),4
+20113.789704394945,33428.94673759835,Epithelium (str),4
+20014.521216948695,33425.66534913943,Epithelium (str),4
+19620.539270287736,33456.44240955733,Epithelium (str),4
+19697.35695241741,33450.78168712706,Epithelium (str),4
+19847.852999350762,33436.60635247765,Epithelium (str),4
+20154.838428859537,33428.99405180029,Epithelium (str),4
+19869.067080533983,33440.60169536051,Epithelium (str),4
+19848.281140656305,33445.59616315009,Epithelium (str),4
+20064.940322135102,33433.275464855775,Epithelium (str),4
+20085.916547037472,33432.276468476164,Epithelium (str),4
+20103.27787057924,33439.458699941184,Epithelium (str),4
+20037.019593521447,33435.60632788109,Epithelium (str),4
+19647.556273561237,33456.156853493165,Epithelium (str),4
+19901.26870809465,33444.073754425466,Epithelium (str),4
+19976.27893954402,33442.50364591756,Epithelium (str),4
+19673.717122750757,33458.915472242654,Epithelium (str),4
+20012.713894795506,33450.7797592203,Epithelium (str),4
+20062.56214490786,33446.4034607067,Epithelium (str),4
+19793.105681015408,33464.24203913563,Epithelium (str),4
+19960.677623953496,33451.25572883626,Epithelium (str),4
+20088.913279122073,33453.15755086619,Epithelium (str),4
+20147.60862613834,33445.35650748957,Epithelium (str),4
+19813.17818057763,33465.28834971717,Epithelium (str),4
+20193.55654735305,33443.168229705654,Epithelium (str),4
+19740.213256089413,33467.76218356524,Epithelium (str),4
+19876.249569053245,33465.287964135816,Epithelium (str),4
+19626.34232090513,33473.18530676886,Epithelium (str),4
+19710.247220514604,33469.1893212504,Epithelium (str),4
+19770.41714794509,33471.32938514255,Epithelium (str),4
+19996.541852658043,33468.569224067614,Epithelium (str),4
+19962.62791692943,33471.18551462995,Epithelium (str),4
+19804.711653723076,33476.70403740016,Epithelium (str),4
+19549.377169503543,32697.968967775614,Epithelium (str),4
+19507.567433467328,32702.963564092308,Epithelium (str),4
+19558.17682367842,32714.569151218624,Epithelium (str),4
+19569.97308141078,32731.026620893117,Epithelium (str),4
+19543.14636316196,32735.30764836725,Epithelium (str),4
+19555.32319094369,32759.756060861702,Epithelium (str),4
+19507.615518831975,32788.05761657896,Epithelium (str),4
+19545.572497226734,32786.24990884443,Epithelium (str),4
+19542.909020989573,32814.40849373895,Epithelium (str),4
+19566.12083787779,32818.308694109466,Epithelium (str),4
+19516.03473148459,32817.69065336057,Epithelium (str),4
+19533.158327272617,32840.90234172168,Epithelium (str),4
+19520.030459948804,32859.54796065297,Epithelium (str),4
+19568.023688124675,32858.263408209204,Epithelium (str),4
+19572.82799941669,32896.07767283546,Epithelium (str),4
+19532.159845001483,32904.021301453475,Epithelium (str),4
+19559.509847068188,32910.72782035678,Epithelium (str),4
+19566.169180296678,32945.45033891319,Epithelium (str),4
+19579.05944839387,32963.85797303651,Epithelium (str),4
+19584.52962874517,32994.63259143913,Epithelium (str),4
+19541.626010871238,33018.700819465565,Epithelium (str),4
+19568.69058540091,33019.41413125389,Epithelium (str),4
+19576.015787688688,33047.09700358669,Epithelium (str),4
+19530.78143531656,33064.26829915802,Epithelium (str),4
+19536.394200909264,33077.015724959565,Epithelium (str),4
+19568.833684750774,33085.482123287,Epithelium (str),4
+19572.781713431705,33105.31676656836,Epithelium (str),4
+19568.92895579025,33108.50365515053,Epithelium (str),4
+19521.078441382888,33112.78481115177,Epithelium (str),4
+19550.188322873728,33114.40184828027,Epithelium (str),4
+19583.29380430165,33136.852396542614,Epithelium (str),4
+19555.80121699355,33148.17307024038,Epithelium (str),4
+19517.46366854941,33141.98983515496,Epithelium (str),4
+19586.813691677027,33147.69722915151,Epithelium (str),4
+19532.63709988862,33166.295533880875,Epithelium (str),4
+19587.19439025352,33176.71196813002,Epithelium (str),4
+19524.313543856828,33222.75541743843,Epithelium (str),4
+19535.824502579268,33254.24347615651,Epithelium (str),4
+19579.727373887057,33293.19906534952,Epithelium (str),4
+19552.853084382074,33296.48122497117,Epithelium (str),4
+19520.12830153064,33303.0454156873,Epithelium (str),4
+19596.184972088675,33302.42660377571,Epithelium (str),4
+19575.96988728506,33319.40748579522,Epithelium (str),4
+19506.096708866673,33323.73634157975,Epithelium (str),4
+19599.22927542945,33324.306554018236,Epithelium (str),4
+19534.493150042046,33331.39415707939,Epithelium (str),4
+19557.942823211124,33340.28869671238,Epithelium (str),4
+19535.30186139697,33348.37491057179,Epithelium (str),4
+19594.42534971879,33349.563677867605,Epithelium (str),4
+19580.53634229623,33352.22741115901,Epithelium (str),4
+19575.161561511497,33365.49812077845,Epithelium (str),4
+19514.991634081005,33363.3580568863,Epithelium (str),4
+19549.476424883687,33372.72818055389,Epithelium (str),4
+19583.58064563699,33374.10736140151,Epithelium (str),4
+19560.226243507375,33388.234353632055,Epithelium (str),4
+19577.730280817665,33398.41318865457,Epithelium (str),4
+19596.803912527386,33399.50707049229,Epithelium (str),4
+19507.714388630764,33399.74544088163,Epithelium (str),4
+19515.13460490376,33408.40225276086,Epithelium (str),4
+19556.278471880694,33410.44730266779,Epithelium (str),4
+19535.3498182345,33412.445166899895,Epithelium (str),4
+19590.810833939544,33420.816294187876,Epithelium (str),4
+19529.26159713431,33431.75665489048,Epithelium (str),4
+19558.41904988132,33434.37255987147,Epithelium (str),4
+19582.011308291792,33425.239906903385,Epithelium (str),4
+19604.604827376887,33437.178621350016,Epithelium (str),4
+19515.800731017298,33443.41019885431,Epithelium (str),4
+19596.7091555964,33460.58072326293,Epithelium (str),4
+19525.64682430083,33460.961678893655,Epithelium (str),4
+19515.515560534495,33479.46458405643,Epithelium (str),4
+19551.332089455755,33474.75541527675,Epithelium (str),4
+19585.29359644054,33473.13799256691,Epithelium (str),4
+19538.9176624474,33487.36025583692,Epithelium (str),4
+19559.465746044218,33477.371448784856,Epithelium (str),4
+20470.764169877806,33104.597799586794,Epithelium (str),4
+20492.641421050837,32660.053776916673,Epithelium (str),4
+20489.311947227267,32674.228211876278,Epithelium (str),4
+20485.173890575894,32692.44568950203,Epithelium (str),4
+20471.28501168044,32716.13321895196,Epithelium (str),4
+20373.443533392223,32721.794069909312,Epithelium (str),4
+20447.074455466856,32733.30438599616,Epithelium (str),4
+20481.321389988676,32737.68017040127,Epithelium (str),4
+20392.89786367845,32751.902690725525,Epithelium (str),4
+20474.3770148045,32760.03583320552,Epithelium (str),4
+20383.622753996086,32767.36142107465,Epithelium (str),4
+20443.79268142657,32769.50148496679,Epithelium (str),4
+20495.638667243908,32765.030043940864,Epithelium (str),4
+20470.048673128436,32774.25783942128,Epithelium (str),4
+20489.550446143716,32784.34153193144,Epithelium (str),4
+20439.844909799896,32791.71443400252,Epithelium (str),4
+20466.95705558573,32793.42661364335,Epithelium (str),4
+20494.25948639627,32799.13426469416,Epithelium (str),4
+20438.513171681312,32805.79372644977,Epithelium (str),4
+20459.013812549074,32815.82984770377,Epithelium (str),4
+20436.230136966406,32820.919458005694,Epithelium (str),4
+20489.360418173266,32822.393652838546,Epithelium (str),4
+20454.73304212919,32831.05072177202,Epithelium (str),4
+20423.054698386426,32838.56620908449,Epithelium (str),4
+20437.41941837071,32845.89115431804,Epithelium (str),4
+20480.46587854028,32845.84332600762,Epithelium (str),4
+20466.814727398574,32853.50139856149,Epithelium (str),4
+20415.159026605936,32861.9683109974,Epithelium (str),4
+20449.453532383926,32867.34296325501,Epithelium (str),4
+20469.43088943381,32866.391538131575,Epithelium (str),4
+20470.239600788722,32883.372291623964,Epithelium (str),4
+20486.126343916283,32880.613415820226,Epithelium (str),4
+20431.664324590845,32893.21851343461,Epithelium (str),4
+20462.914655555178,32897.737011608246,Epithelium (str),4
+20401.698289016036,32894.64565111978,Epithelium (str),4
+20424.814963391895,32896.54811578531,Epithelium (str),4
+20481.274975476565,32925.89546797564,Epithelium (str),4
+20450.976069635668,32941.35432685187,Epithelium (str),4
+20401.270533291834,32948.72722892296,Epithelium (str),4
+20423.578624839905,32954.67273625462,Epithelium (str),4
+20481.750816565404,32956.90794265911,Epithelium (str),4
+20393.327290255183,32971.13046298337,Epithelium (str),4
+20493.7848020515,32957.33595543756,Epithelium (str),4
+20443.36582539222,32970.74963587975,Epithelium (str),4
+20478.516485254175,32973.08011332371,Epithelium (str),4
+20426.004630377567,32984.59120057326,Epithelium (str),4
+20450.786170192336,33000.430243917544,Epithelium (str),4
+20474.75899865219,32999.288533769395,Epithelium (str),4
+20420.29697932676,33011.89363138381,Epithelium (str),4
+20465.912158802497,33044.76087094951,Epithelium (str),4
+20493.73787343092,33061.45606837775,Epithelium (str),4
+20457.82620199732,33064.167501452444,Epithelium (str),4
+20431.903209088654,33066.403221965404,Epithelium (str),4
+20415.968894704925,33068.16322991666,Epithelium (str),4
+20446.93392665936,33087.71231713386,Epithelium (str),4
+20496.068736456233,33089.37679699141,Epithelium (str),4
+20430.238600703993,33094.514235603754,Epithelium (str),4
+20476.13895066253,33091.327089967344,Epithelium (str),4
+20411.4503965313,33099.41356088099,Epithelium (str),4
+20486.841198030055,33105.83439519303,Epithelium (str),4
+20439.3236824159,33117.10762616173,Epithelium (str),4
+20465.436960349252,33118.867377058734,Epithelium (str),4
+20491.5502382826,33120.62712795574,Epithelium (str),4
+20423.81750933772,33127.857444785426,Epithelium (str),4
+20454.78241276502,33126.382735844076,Epithelium (str),4
+20439.514095967705,33142.12689373024,Epithelium (str),4
+20454.63982752363,33144.40992844515,Epithelium (str),4
+20472.476735099994,33140.55704227656,Epithelium (str),4
+20481.751973309478,33146.12210808598,Epithelium (str),4
+20417.967144518385,33152.163272038466,Epithelium (str),4
+20437.42134627749,33161.248096696145,Epithelium (str),4
+20457.493845839712,33162.294407277695,Epithelium (str),4
+20497.733987476488,33166.38476414577,Epithelium (str),4
+20467.910665670195,33170.80850538841,Epithelium (str),4
+20444.223264747383,33177.9434226515,Epithelium (str),4
+20469.290103572068,33178.751876952185,Epithelium (str),4
+20492.406777947934,33180.65434161772,Epithelium (str),4
+20413.7340738818,33189.406810117776,Epithelium (str),4
+20416.730805966392,33210.287892507804,Epithelium (str),4
+20450.64474169501,33207.67160194546,Epithelium (str),4
+20478.803326589525,33210.33507818261,Epithelium (str),4
+20436.23257898166,33220.371585017965,Epithelium (str),4
+20448.45684949245,33224.79506920635,Epithelium (str),4
+20490.885011858918,33232.78575497207,Epithelium (str),4
+20407.64598130872,33229.7420942669,Epithelium (str),4
+20482.228199979672,33240.20597124509,Epithelium (str),4
+20424.198850549805,33261.99116455662,Epithelium (str),4
+20447.933822728788,33255.85511514601,Epithelium (str),4
+20405.410646377117,33266.89048983386,Epithelium (str),4
+20444.889776442265,33276.02275722058,Epithelium (str),4
+20477.89998683073,33275.451773619396,Epithelium (str),4
+20448.219378792946,33282.87211841951,Epithelium (str),4
+20499.82763685654,33294.43013428966,Epithelium (str),4
+20439.848122977848,33317.30933796603,Epithelium (str),4
+20483.70316597524,33313.21846698946,Epithelium (str),4
+20451.026082907098,33341.805321716645,Epithelium (str),4
+20482.03855759057,33341.3294806278,Epithelium (str),4
+20464.820076344444,33358.1676488788,Epithelium (str),4
+20455.164396612698,33365.635436407974,Epithelium (str),4
+20474.428313347118,33370.72478965567,Epithelium (str),4
+20448.79087650261,33399.977513442136,Epithelium (str),4
+20493.02648954936,33403.877585285525,Epithelium (str),4
+20481.65850164967,33417.433722442016,Epithelium (str),4
+20480.80247609281,33441.501693414204,Epithelium (str),4
+20479.470737974232,33455.58098586147,Epithelium (str),4
+20475.71325137224,33481.78940630716,Epithelium (str),4
+19768.847553545645,33480.414338327326,Epithelium (str),4
+19819.64710025431,33474.99160070507,Epithelium (str),4
+19685.84637927632,33482.36501688462,Epithelium (str),4
+19814.272319469586,33488.26231032453,Epithelium (str),4
+20015.996054417144,33477.65404872528,Epithelium (str),4
+20178.621229348933,33465.904462559265,Epithelium (str),4
+20003.201057359416,33482.2679464655,Epithelium (str),4
+19911.49549995468,33490.63997344331,Epithelium (str),4
+20127.108242324808,33477.36797855266,Epithelium (str),4
+19749.441051569836,33493.352177680696,Epithelium (str),4
+19976.374339110596,33486.54897393963,Epithelium (str),4
+19844.28592630057,33487.834040491856,Epithelium (str),4
+19791.63135765543,33496.34852418394,Epithelium (str),4
+20047.198814125313,33481.17367904643,Epithelium (str),4
+20218.005216901736,33473.038994241004,Epithelium (str),4
+20165.44579076894,33483.55121363807,Epithelium (str),4
+20203.68819670075,33487.7367130185,Epithelium (str),4
+20020.942950950553,33497.44112075046,Epithelium (str),4
+20234.367672591015,33480.268796962206,Epithelium (str),4
+20133.957732050865,33495.06217236053,Epithelium (str),4
+20108.986035738522,33496.25145376481,Epithelium (str),4
+20222.286244375864,33499.86571248982,Epithelium (str),4
+19536.486644352113,32637.51374133521,Epithelium (str),4
+19658.20529447936,32544.61825989058,Epithelium (str),4
+20278.788558104832,32668.236290032488,Epithelium (str),4
+19880.620855009205,32695.208164065087,Epithelium (str),4
+20316.127238696467,32674.467096374086,Epithelium (str),4
+19729.98209430734,32706.386895157037,Epithelium (str),4
+20270.940457580506,32692.63725979789,Epithelium (str),4
+20267.801654362986,32773.878554643095,Epithelium (str),4
+20262.950157396157,32798.13681063997,Epithelium (str),4
+20051.098243333105,33331.81908520697,Epithelium (str),4
+20209.585490140646,33359.310772825236,Epithelium (str),4
+20417.11189012424,33302.3740199619,Epithelium (str),4
